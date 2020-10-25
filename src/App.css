@@ -1,38 +1,86 @@
-.App {
-  text-align: center;
+.allApp {
+  margin: 5px;
+  border: 1px solid black;
+  padding: 5px;
+  height: 97vh;
 }
 
-.App-logo {
-  height: 40vmin;
-  pointer-events: none;
+    .header {
+      padding-bottom: 10px;
+    } 
+
+        .title {
+          width: 13%;
+          float: bottom;
+          text-align: center;
+          margin: 5px;
+          border: solid black 1px;
+          padding: 5px;
+        }
+
+        .plays {
+          width: 83%;
+          margin: 5px;
+          border: solid black 1px;
+          padding: 5px;
+        }
+
+    .script {
+      height: 70vh;
+      padding-top: 10px;
+      top: 0;
+    }
+
+.column {
+  float: left;
 }
 
-@media (prefers-reduced-motion: no-preference) {
-  .App-logo {
-    animation: App-logo-spin infinite 20s linear;
-  }
+.row {
+  float: top;
 }
 
-.App-header {
-  background-color: #282c34;
-  min-height: 100vh;
-  display: flex;
-  flex-direction: column;
-  align-items: center;
-  justify-content: center;
-  font-size: calc(10px + 2vmin);
-  color: white;
+/** Button styling **/
+button {
+  font-family: 'Crimson Text', "Times New Roman", Arial, Helvetica, sans-serif;
+  background-color: #efefef;
+  border: 1px solid #666666;
+  border-radius: 2px;
+  padding-left: 5px;
+  margin: 0px;
+  height: 25px;
 }
 
-.App-link {
-  color: #61dafb;
+button.Histories {
+  background-color: #ddffdc;
 }
 
-@keyframes App-logo-spin {
-  from {
-    transform: rotate(0deg);
-  }
-  to {
-    transform: rotate(360deg);
-  }
+button.Tragedies {
+  background-color: #ffcdcd;
+}
+
+button.Comedies {
+  background-color: #d4ebf2;
+}
+
+button:hover {
+  background-color: #e0e0e0;
+}
+
+button:disabled {
+  background-color: #ebebeb;
+  border: 1px solid #afafaf;
+}
+
+button.selected {
+    background: #C0392B; /*C0392B       aab305  4958bf*/
+    color: white;
+}
+
+button.selected:disabled {
+    background: #cc9999;
+    color: white;
+}
+
+.genres button {
+  min-width: 65px;
 }
