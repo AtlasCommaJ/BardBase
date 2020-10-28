@@ -11,8 +11,6 @@ function App() {
     
     const [fullNames, setFullNames] = useState({})
 
-    
-
      useEffect(() => {
         const getPlays = async () => {
             fetch('https://p9hv9v5blg.execute-api.us-east-2.amazonaws.com/Primary')
@@ -41,24 +39,34 @@ function App() {
         setCurScene(scene)
     },[])
 
+    const isMobile = window.innerWidth <= 500;
+
     return ( 
-        <div className="allApp column">
-            <div className="header row">
-                <div className="title column">
-                    <b><em>BardBase</em></b><p /> 
-                    {fullNames[curPlay]}{curScene==='_' ? null : ` - ${curScene}`}
+        <div className="allApp box">
+            <div className="header" style={{'flexDirection': isMobile  ? 'column' : 'row'}}>
+                <div className="title box">
+                    <br/><span className="bardbase">BardBase</span><p/> 
+                    {fullNames[curPlay]}<br/>
+                    {curScene==='_' ? null : `${curScene}`}
                 </div>
-                <div className="plays column">
-                    {plays.map((genre,i) => <div> {genre[0]}: <span className="genres"> {genre.slice(1).map(play => 
+                <div className="plays box">
+                    <table>
+                        {plays.map((genre,i) => 
+                            <tr> 
+                                <td> {genre[0]}: </td> 
+                                <td> <span className="genres"> {genre.slice(1).map(play => 
                                                                     <button className={(play === curPlay) ? "selected" : genre[0]} 
                                                                             onClick={() => handlePlayChange(play)}> 
-                                                                            {fullNames[play]} </button> )} </span> </div>)}
+                                                                            {fullNames[play]} </button> )} </span> </td>
+                            </tr>
+                        )}
+                    </table>
                 </div>
             </div>
-            <div className="script row">
+            <div className="script ">
                 <Script curPlay={curPlay} curScene={curScene} handleSceneChange={handleSceneChange}  />
             </div>
-           <span style={{'position': 'fixed', 'right': '10px', 'bottom': '18px'}}>Created by Jamie Atlas. Version 1.0</span>
+           <span style={{'position': 'fixed', 'right': '20px', 'bottom': '2px', 'color': 'grey'}}>Created by Jamie Atlas. Version 1.0</span>
         </div>
     );
 }

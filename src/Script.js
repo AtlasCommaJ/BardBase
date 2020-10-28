@@ -14,6 +14,8 @@ function Script(props) {
 
     const [curRole, setCurRole] = useState([])
     
+    const isMobile = window.innerWidth <= 500;
+
     const handleRoleChange = useCallback((role) => {
         (curRole.includes(role)) ? setCurRole(curRole.filter(character => character !== role)) : setCurRole(curRole.concat(role))
     },[curRole]);
@@ -29,7 +31,7 @@ function Script(props) {
            id = 0; 
        setFocusLine(id);
        lineRefs[id].current.scrollIntoView({ behavior: 'smooth', block: pos})
-    }, [lineRefs]);
+    },[lineRefs]);
 
     //handles scroll via "NEXT" buttons
     const scrollToNext = useCallback((offset, pos) => { 
@@ -83,9 +85,9 @@ function Script(props) {
 
 
     useEffect(() => {
-        if (lineRefs[0])
+        if (lineRefs[0] && !isMobile)
             handleScroll(0,'start')
-    },[lineRefs, handleScroll]);
+    },[lineRefs,handleScroll,isMobile]);
 
 
     const getHighlightType = useCallback((idx) => {
@@ -131,34 +133,44 @@ function Script(props) {
             }
         }  
         return res;
-    },[script, cueSheetMode,getHighlightType,handleScroll,lineRefs]);
+    },[script, cueSheetMode, getHighlightType, handleScroll, lineRefs]);
 
     const print = useCallback(() => {
         window.print();
     },[]);
 
+    
 
     return (
-        <div className="allScript row">
-           
-            <div className="lines column">
-                    <div className="scrollgap">
-                        {makeBlocks()}
-                    </div>
-            </div>
-            <div className="navigation column">
-                <button className="panel" onClick={() => scrollToNext(0, 'center')}>NEXT LINE</button> <p />
-                <button className="panel" onClick={() => scrollToNext(1, 'end')}>NEXT CUE </button> <p />
-                <button className={!highlightCues ? 'panel selected' : 'panel'} onClick={toggleHighlightCues}>HIGHLIGHT CUES  </button> <p />
-                <button className={!cueSheetMode  ? 'panel selected' : 'panel'} onClick={toggleCueSheetMode }>HIDE OTHER LINES</button> <p />
-                <button className="panel" onClick={print}>PRINT</button>
-            </div>
-            <div className="control column">
+        <div className="allScript" style={{'flexDirection': isMobile ? 'column' : 'row'}}>
+            {isMobile ? 
+            <div className="control box">
                 <Control    
                     curPlay={curPlay} curScene={curScene} curRole={curRole}
                     handleSceneChange={handleSceneChange} handleRoleChange={handleRoleChange}
                 />
             </div>
+            : null}
+            <div className="lines box">
+                    <div className="scrollgap">
+                        {makeBlocks()}
+                    </div>
+            </div>
+            <div className="navigation box">
+                <button className="panel" onClick={() => scrollToNext(0, isMobile ? 'start' : 'center')}>NEXT LINE</button> <p/>
+                <button className="panel" onClick={() => scrollToNext(1, 'end')}>NEXT CUE </button>  <p/>
+                <button className={!highlightCues ? 'panel selected' : 'panel'} onClick={toggleHighlightCues}>HIGHLIGHT CUES  </button>  <p/>
+                <button className={!cueSheetMode  ? 'panel selected' : 'panel'} onClick={toggleCueSheetMode }>HIDE OTHER LINES</button> <p/>
+                <button className="panel" onClick={print}>PRINT</button>
+            </div>
+            {!isMobile ? 
+            <div className="control box">
+                <Control    
+                    curPlay={curPlay} curScene={curScene} curRole={curRole}
+                    handleSceneChange={handleSceneChange} handleRoleChange={handleRoleChange}
+                />
+            </div>
+            : null}
         </div>
     )
 }

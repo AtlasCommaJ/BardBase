@@ -1,40 +1,30 @@
 
 .allScript {
+  display: flex;
 }
-    .lines {
-       width: 42%;
-       margin: 5px;
-       border: solid black 1px;
-       padding: 5px;
-       height: 75vh;
-       overflow: auto;
-    }
 
-          .scrollgap {
-           margin-top: 800px;
-          }
+        .lines {
+          flex: 5;
+          overflow: auto;
+          height: 73vh;
+        }
 
-    .navigation {
-        
-        width: 8%;
-        margin: 5px;
-        border: solid black 1px;
-        padding: 5px;
-    }
+        .navigation {
+          flex: 1;
+          height: 265px;
+        }
 
-    .control {
-      width: 44%;
-      margin: 5px;
-      border: solid black 1px;
-      padding: 5px;
-      overflow: wrap;
-    }
+        .control {
+          flex: 4;
+          overflow: wrap;
+        }
 
+    
 
 /** for buttons **/
-.panel  {
-    width: 100%;
+button.panel  {
     height: 40px;
+    width: 100%;
 }
 
 
@@ -48,9 +38,9 @@
         visibility: visible;
     }
 
-    .scrollgap {
+    /*.scrollgap {
       margin-top: 0px;
-    }
+    }*/
 
     .lines {
         position: absolute;

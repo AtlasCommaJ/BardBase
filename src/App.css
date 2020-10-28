@@ -1,42 +1,35 @@
 .allApp {
-  margin: 5px;
-  border: 1px solid black;
-  padding: 5px;
-  height: 97vh;
 }
 
     .header {
-      padding-bottom: 10px;
+      display: flex;
     } 
 
         .title {
-          width: 13%;
-          float: bottom;
+          flex: 1;
           text-align: center;
-          margin: 5px;
-          border: solid black 1px;
-          padding: 5px;
         }
 
         .plays {
-          width: 83%;
-          margin: 5px;
-          border: solid black 1px;
-          padding: 5px;
+          flex: 8;
         }
 
     .script {
-      height: 70vh;
-      padding-top: 10px;
-      top: 0;
     }
 
-.column {
+
+.box {
   float: left;
+  margin: 5px;
+  border: solid black 1px;
+  border-radius: 2px 2px 2px 2px;
+  padding: 5px;
 }
 
-.row {
-  float: top;
+.bardbase {
+  font-weight: bold;
+  font-style: italic;
+  font-size: 24px;
 }
 
 /** Button styling **/
