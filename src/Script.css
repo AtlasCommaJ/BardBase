@@ -3,44 +3,38 @@
   display: flex;
 }
 
-        .lines {
-          flex: 5;
-          overflow: auto;
-          height: 73vh;
-        }
+    .lines {
+      flex: 5;
+      overflow: auto;
+      height: 73vh;
+    }
 
-        .navigation {
-          flex: 1;
-          height: 265px;
-        }
+    .navigation {
+      flex: 1;
+      height: 265px;
+    }
 
-        .control {
-          flex: 4;
-          overflow: wrap;
-        }
+    .control {
+      flex: 4;
+      overflow: wrap;
+      flex-shrink: 0;
+    }
 
     
-
-/** for buttons **/
 button.panel  {
     height: 40px;
     width: 100%;
 }
 
-
-@media print {
+/* Only show script when printing */
+@media print { 
     * {
         visibility: hidden;
     }
 
-    /* Show element to print, and any children he has. */
     .lines * {
         visibility: visible;
     }
-
-    /*.scrollgap {
-      margin-top: 0px;
-    }*/
 
     .lines {
         position: absolute;

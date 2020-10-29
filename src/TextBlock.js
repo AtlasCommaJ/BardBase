@@ -1,18 +1,30 @@
 import React from "react";
-import './TextBlock.css';
+import "./TextBlock.css";
 
+const TextBlock = (props) => {
+    const {
+        handleScroll,
+        myRef,
+        highlightType,
+        specialBlockType,
+        character,
+        text
+    } = props;
 
-function TextBlock(props) {
-
-    return (
-        <div className="block" onClick={props.handleScroll} ref={props.myRef}>
-            <div className={props.highlightType}>
-                <span className="character"> {!props.specialBlockType && props.character.toUpperCase()} </span>
-                <span className={(props.specialBlockType && props.character) || "text"}> {props.text.map(line => <div> {line} </div>)} </span>
-            </div>
-        </div>
-    )
-}
+  return (
+    <div className="block" onClick={handleScroll} ref={myRef}>
+      <div className={highlightType}>
+        <span className="character">
+          {!specialBlockType && character.toUpperCase()}
+        </span>
+        <span className={(specialBlockType && character) || "text"}>
+          {text.map((line) => (
+            <div>{line}</div>
+          ))}
+        </span>
+      </div>
+    </div>
+  );
+};
 
 export default TextBlock;
-

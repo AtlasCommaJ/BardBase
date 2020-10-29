@@ -1,4 +1,5 @@
 .allApp {
+  width: 98%;
 }
 
     .header {
@@ -30,6 +31,13 @@
   font-weight: bold;
   font-style: italic;
   font-size: 24px;
+}
+
+.credit {
+  position: fixed;
+  right: 20px;
+  bottom: 2px;
+  color: grey;
 }
 
 /** Button styling **/
