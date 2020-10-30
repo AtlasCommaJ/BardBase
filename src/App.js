@@ -75,7 +75,8 @@ const App = () => {
         />
       </div>
       <span className="credit">
-        Created by Jamie Atlas. Version 1.2
+        Created by Jamie Atlas. Version 1.2. Send feedback, comments, notes, errors to AtlasCommaJ@gmail.com. <br/>
+        
       </span>
     </div>
   );
