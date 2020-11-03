@@ -7,29 +7,19 @@ const Script = (props) => {
   const { 
       curPlay,
       curScene,
-      handleSceneChange 
+      curRole,
+      handleSceneChange,
+      handleRoleChange
   } = props;
 
   const [script, setScript] = useState([]);
   const [lineRefs, setLineRefs] = React.useState([]);
   const [focusLine, setFocusLine] = useState(-1);
-  const [curRole, setCurRole] = useState([]);
 
   const [highlightCues, toggleHighlightCues] = useToggle("false");
   const [cueSheetMode, toggleCueSheetMode] = useToggle("false");
 
   const isMobile = window.innerWidth <= 500;
-
-  const handleRoleChange = useCallback(
-    (role) => {
-      curRole.includes(role)
-        ? setCurRole(curRole.filter((character) => character !== role))
-        : setCurRole(curRole.concat(role));
-    }, [curRole]);
-
-  useEffect(() => {
-    setCurRole([]);
-  }, [curPlay]);
 
   //either called by buttons or on click
   const handleScroll = useCallback(

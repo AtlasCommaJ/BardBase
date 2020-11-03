@@ -1,11 +1,19 @@
 import React, { useState, useEffect, useCallback } from "react";
 import "./App.css";
 import Script from "./Script";
+import twitter from './assets/twitter.png'
+import github from './assets/github.png'
 
 const App = () => {
   const [plays, setPlays] = useState([]);
-  const [curPlay, setCurPlay] = useState("ham");
-  const [curScene, setCurScene] = useState("1.1");
+
+  const [curPlay, setCurPlay] = useState(localStorage.getItem('play') || 'ham');
+  useEffect(() => {localStorage.setItem('play',curPlay)},[curPlay]);
+  const [curScene, setCurScene] = useState(localStorage.getItem('scene') || '1.1');
+  useEffect(() => {localStorage.setItem('scene',curScene)},[curScene]);
+  const [curRole, setCurRole] = useState(localStorage.getItem('role') || []);
+  useEffect(() => {localStorage.setItem('role',curRole)},[curRole]);
+
   const [fullNames, setFullNames] = useState({});
 
   useEffect(() => {
@@ -30,11 +38,19 @@ const App = () => {
   const handlePlayChange = useCallback((play) => {
     setCurPlay(play);
     setCurScene("1.1");
+    setCurRole([])
   }, []);
 
   const handleSceneChange = useCallback((scene) => {
     setCurScene(scene);
   }, []);
+
+  const handleRoleChange = useCallback((role) => {
+      curRole.includes(role)
+        ? setCurRole(curRole.filter((character) => character !== role))
+        : setCurRole(curRole.concat(role));
+    }, [curRole]);
+
 
   const isMobile = window.innerWidth <= 500;
 
@@ -71,15 +87,20 @@ const App = () => {
         <Script
           curPlay={curPlay}
           curScene={curScene}
+          curRole={curRole}
           handleSceneChange={handleSceneChange}
+          handleRoleChange={handleRoleChange}
         />
       </div>
-      <span className="credit">
-        Created by Jamie Atlas. Version 1.2. Send feedback, comments, notes, errors to AtlasCommaJ@gmail.com. <br/>
-        
-      </span>
+      <div className='credit'>
+        Created by Jamie Atlas. Version 1.3. Send feedback, comments, notes, errors to AtlasCommaJ@gmail.com. 
+        <a href='https://github.com/AtlasCommaJ' target='_blank' rel='noopener noreferrer'><img src={github} alt='github link'/></a>
+        <a href='https://twitter.com/AlasJetsam' target='_blank' rel='noopener noreferrer'><img src={twitter} alt='twitter link'/></a>
+      </div>
     </div>
   );
 };
+
+
 
 export default App;
