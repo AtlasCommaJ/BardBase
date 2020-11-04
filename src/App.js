@@ -1,20 +1,17 @@
 import React, { useState, useEffect, useCallback } from "react";
+import { usePersistentState } from "./hooks";
 import "./App.css";
 import Script from "./Script";
-import twitter from './assets/twitter.png'
-import github from './assets/github.png'
+import twitter from "./assets/twitter.png";
+import github from "./assets/github.png";
 
 const App = () => {
   const [plays, setPlays] = useState([]);
-
-  const [curPlay, setCurPlay] = useState(localStorage.getItem('play') || 'ham');
-  useEffect(() => {localStorage.setItem('play',curPlay)},[curPlay]);
-  const [curScene, setCurScene] = useState(localStorage.getItem('scene') || '1.1');
-  useEffect(() => {localStorage.setItem('scene',curScene)},[curScene]);
-  const [curRole, setCurRole] = useState(localStorage.getItem('role') || []);
-  useEffect(() => {localStorage.setItem('role',curRole)},[curRole]);
-
   const [fullNames, setFullNames] = useState({});
+
+  const [curPlay, setCurPlay] = usePersistentState("play", "ham");
+  const [curScene, setCurScene] = usePersistentState("scene", "1.1");
+  const [curRole, setCurRole] = usePersistentState("role", []);
 
   useEffect(() => {
     const getPlays = async () => {
@@ -35,34 +32,49 @@ const App = () => {
     getPlays();
   }, []);
 
-  const handlePlayChange = useCallback((play) => {
-    setCurPlay(play);
-    setCurScene("1.1");
-    setCurRole([])
-  }, []);
+ const handlePlayChange = useCallback(
+   (play) => {
+     setCurPlay(play);
+     setCurScene("1.1");
+     setCurRole([]);
+   },
+   [setCurPlay, setCurScene, setCurRole]
+ );
 
-  const handleSceneChange = useCallback((scene) => {
-    setCurScene(scene);
-  }, []);
+ const handleSceneChange = useCallback(
+   (scene) => {
+     setCurScene(scene);
+   },
+   [setCurScene]
+ );
 
-  const handleRoleChange = useCallback((role) => {
-      curRole.includes(role)
-        ? setCurRole(curRole.filter((character) => character !== role))
-        : setCurRole(curRole.concat(role));
-    }, [curRole]);
+ const handleRoleChange = useCallback(
+   (role) => {
+     curRole.includes(role)
+       ? setCurRole(curRole.filter((character) => character !== role))
+       : setCurRole(curRole.concat(role));
+   },
+   [curRole, setCurRole]
+ );
 
 
   const isMobile = window.innerWidth <= 500;
 
   return (
     <div className="allApp box">
-      <div className="header" style={{ flexDirection: isMobile ? "column" : "row" }}>
+      <div
+        className="header"
+        style={{ flexDirection: isMobile ? "column" : "row" }}
+      >
         <div className="title box">
+          <br />
           <span className="bardbase">BardBase</span>
           <p />
           {fullNames[curPlay]}
           <br />
-          {curScene === "_" ? null : `Act ${curScene.split(".")[0]}, Scene ${curScene.split(".")[1]}`}
+          {curScene === "_"
+            ? null
+            : `Act ${curScene.split(".")[0]}, Scene ${curScene.split(".")[1]}`}
         </div>
         <div className="plays box">
           <table>
@@ -72,7 +84,10 @@ const App = () => {
                 <td>
                   <span className="genres">
                     {genre.slice(1).map((play) => (
-                      <button className={play === curPlay ? "selected" : genre[0]} onClick={() => handlePlayChange(play)}>
+                      <button
+                        className={play === curPlay ? "selected" : genre[0]}
+                        onClick={() => handlePlayChange(play)}
+                      >
                         {fullNames[play]}
                       </button>
                     ))}
@@ -83,6 +98,7 @@ const App = () => {
           </table>
         </div>
       </div>
+      
       <div className="script">
         <Script
           curPlay={curPlay}
@@ -92,15 +108,26 @@ const App = () => {
           handleRoleChange={handleRoleChange}
         />
       </div>
-      <div className='credit'>
-        Created by Jamie Atlas. Version 1.3. Send feedback, comments, notes, errors to AtlasCommaJ@gmail.com. 
-        <a href='https://github.com/AtlasCommaJ' target='_blank' rel='noopener noreferrer'><img src={github} alt='github link'/></a>
-        <a href='https://twitter.com/AlasJetsam' target='_blank' rel='noopener noreferrer'><img src={twitter} alt='twitter link'/></a>
+      <div className="credit">
+        Created by Jamie Atlas. Version 1.3. Send feedback, comments, notes,
+        errors to AtlasCommaJ@gmail.com.
+        <a
+          href="https://github.com/AtlasCommaJ/BardBase"
+          target="_blank"
+          rel="noopener noreferrer"
+        >
+          <img src={github} alt="github link" />
+        </a>
+        <a
+          href="https://twitter.com/AlasJetsam"
+          target="_blank"
+          rel="noopener noreferrer"
+        >
+          <img src={twitter} alt="twitter link" />
+        </a>
       </div>
     </div>
   );
 };
-
-
 
 export default App;

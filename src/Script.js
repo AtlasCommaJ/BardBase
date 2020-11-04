@@ -1,4 +1,5 @@
 import React, { useState, useEffect, createRef, useCallback } from "react";
+import {useToggle} from './hooks'
 import "./Script.css";
 import TextBlock from "./TextBlock";
 import Control from "./Control";
@@ -178,10 +179,4 @@ const Script = (props) => {
 };
 export default Script;
 
-function useToggle(initialValue = false) {
-  const [value, setValue] = React.useState(initialValue);
-  const toggle = React.useCallback(() => {
-    setValue((v) => !v);
-  }, []);
-  return [value, toggle];
-}
+

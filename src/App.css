@@ -7,12 +7,12 @@
     } 
 
         .title {
-          flex: 1;
+          flex: 3;
           text-align: center;
         }
 
         .plays {
-          flex: 8;
+          flex: 12;
         }
 
     .script {
@@ -30,7 +30,7 @@
 .bardbase {
   font-weight: bold;
   font-style: italic;
-  font-size: 24px;
+  font-size: 26px;
 }
 
 .credit {

@@ -13,6 +13,7 @@ const Control = (props) => {
   const [fullCast, setFullCast] = useState([]);
   const [sceneCast, setSceneCast] = useState([]);
 
+
   useEffect(() => {
     const getSceneCast = async () => {
       fetch(`https://p9hv9v5blg.execute-api.us-east-2.amazonaws.com/Primary/${curPlay}/${curScene}`)

@@ -4,6 +4,11 @@
     overflow: hidden;
 }
 
+.blockMobile {
+    border-radius: 2px 15px 15px 2px;
+    overflow: hidden;
+}
+
 /* Highlight Type */
 .focus {
     background: #f2eec4;

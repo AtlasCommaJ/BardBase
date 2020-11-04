@@ -11,8 +11,10 @@ const TextBlock = (props) => {
         text
     } = props;
 
+  const isMobile = window.innerWidth <= 500;
+
   return (
-    <div className="block" onClick={handleScroll} ref={myRef}>
+    <div className={!isMobile ? 'block' : 'blockMobile'} onClick={handleScroll} ref={myRef}>
       <div className={highlightType}>
         <span className="character">
           {!specialBlockType && character.toUpperCase()}
