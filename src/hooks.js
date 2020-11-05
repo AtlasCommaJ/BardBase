@@ -8,6 +8,14 @@ export const usePersistentState = (key, initialState) => {
   return [state, setState];
 };
 
+export const useComplexPersistentState = (key, initialState) => {
+  const [state, setState] = useState(JSON.parse(localStorage.getItem(key)) || initialState);
+  useEffect(() => {
+    localStorage.setItem(key, JSON.stringify(state));
+  }, [key, state]);
+  return [state, setState];
+};
+
 export const useToggle = (initialState = false) => {
   const [state, setState] = useState(initialState);
   const toggle = useCallback(() => {

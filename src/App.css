@@ -18,7 +18,6 @@
     .script {
     }
 
-
 .box {
   float: left;
   margin: 5px;
@@ -68,6 +67,11 @@ button.Tragedies {
 button.Comedies {
   background-color: #d4ebf2;
 }
+
+button.Romances {
+  background-color: #b5ead7;
+}
+
 
 button:hover {
   background-color: #e0e0e0;

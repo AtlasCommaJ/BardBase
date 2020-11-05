@@ -6,12 +6,18 @@
     .lines {
       flex: 5;
       overflow: auto;
-      height: 73vh;
+      height: 70vh;
     }
 
     .navigation {
       flex: 1;
       height: 265px;
+    }
+
+    .mobileNav {
+      position: fixed;
+      right: 15px;
+      bottom: 15px;
     }
 
     .control {
@@ -20,10 +26,15 @@
       flex-shrink: 0;
     }
 
-    
-button.panel  {
+button.panel {
     height: 40px;
     width: 100%;
+}
+
+button.mobile {
+  opacity: .75;
+  height: 40px;
+  border-radius: 15px;
 }
 
 /* Only show script when printing */

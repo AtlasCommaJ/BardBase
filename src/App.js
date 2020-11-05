@@ -1,5 +1,5 @@
 import React, { useState, useEffect, useCallback } from "react";
-import { usePersistentState } from "./hooks";
+import { usePersistentState, useComplexPersistentState } from "./hooks";
 import "./App.css";
 import Script from "./Script";
 import twitter from "./assets/twitter.png";
@@ -11,7 +11,7 @@ const App = () => {
 
   const [curPlay, setCurPlay] = usePersistentState("play", "ham");
   const [curScene, setCurScene] = usePersistentState("scene", "1.1");
-  const [curRole, setCurRole] = usePersistentState("role", []);
+  const [curRole, setCurRole] = useComplexPersistentState("role", []);
 
   useEffect(() => {
     const getPlays = async () => {
@@ -19,7 +19,12 @@ const App = () => {
         .then((res) => res.json())
         .then((res) => {
           const data = JSON.parse(res);
-          let result = [[" Histories"], ["Tragedies"], ["Comedies"]];
+          let result = [
+            [" Histories"],
+            ["Tragedies"],
+            ["Comedies"],
+            ["Romances"],
+          ];
           let dict = {};
           for (let item of data) {
             dict[item.abbreviation] = item.play;
@@ -32,31 +37,30 @@ const App = () => {
     getPlays();
   }, []);
 
- const handlePlayChange = useCallback(
-   (play) => {
-     setCurPlay(play);
-     setCurScene("1.1");
-     setCurRole([]);
-   },
-   [setCurPlay, setCurScene, setCurRole]
- );
+  const handlePlayChange = useCallback(
+    (play) => {
+      setCurPlay(play);
+      setCurScene("1.1");
+      setCurRole([]);
+    },
+    [setCurPlay, setCurScene, setCurRole]
+  );
 
- const handleSceneChange = useCallback(
-   (scene) => {
-     setCurScene(scene);
-   },
-   [setCurScene]
- );
+  const handleSceneChange = useCallback(
+    (scene) => {
+      setCurScene(scene);
+    },
+    [setCurScene]
+  );
 
- const handleRoleChange = useCallback(
-   (role) => {
-     curRole.includes(role)
-       ? setCurRole(curRole.filter((character) => character !== role))
-       : setCurRole(curRole.concat(role));
-   },
-   [curRole, setCurRole]
- );
-
+  const handleRoleChange = useCallback(
+    (role) => {
+      curRole.includes(role)
+        ? setCurRole(curRole.filter((character) => character !== role))
+        : setCurRole(curRole.concat(role));
+    },
+    [curRole, setCurRole]
+  );
 
   const isMobile = window.innerWidth <= 500;
 
@@ -98,7 +102,7 @@ const App = () => {
           </table>
         </div>
       </div>
-      
+
       <div className="script">
         <Script
           curPlay={curPlay}
@@ -109,7 +113,7 @@ const App = () => {
         />
       </div>
       <div className="credit">
-        Created by Jamie Atlas. Version 1.3. Send feedback, comments, notes,
+        Created by Jamie Atlas. Version 1.4. Send feedback, comments, notes,
         errors to AtlasCommaJ@gmail.com.
         <a
           href="https://github.com/AtlasCommaJ/BardBase"
