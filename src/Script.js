@@ -159,18 +159,9 @@ const Script = (props) => {
     window.print();
   }, []);
 
-  return (
-    <div
-      className="allScript"
-      style={{ flexDirection: isMobile ? "column" : "row" }}
-    >
-      {!isMobile && (
-        <div className="lines box">
-          <div className="scrollgap">{makeBlocks()}</div>
-        </div>
-      )}
-
-      {isMobile && (
+  if (isMobile) {
+    return (
+      <div className="allScript" style={{ flexDirection: "column" }}>
         <div className="control box">
           <Control
             curPlay={curPlay}
@@ -180,54 +171,28 @@ const Script = (props) => {
             handleRoleChange={handleRoleChange}
           />
         </div>
-      )}
 
-      <div className="navigation box">
-        {!isMobile && (
-          <div>
-            <button className="panel" onClick={() => scrollToNext(0, "center")}>
-              NEXT LINE
-            </button>
-            <p />
-            <button className="panel" onClick={() => scrollToNext(1, "end")}>
-              NEXT CUE
-            </button>
-            <p />
-          </div>
-        )}
-        <button
-          className={!highlightCues ? "panel selected" : "panel"}
-          onClick={toggleHighlightCues}
-        >
-          HIGHLIGHT CUES
-        </button>
-        <p />
-        <button
-          className={!cueSheetMode ? "panel selected" : "panel"}
-          onClick={handleHideOtherLines}
-        >
-          HIDE OTHER LINES
-        </button>
-        <p />
-        <button className="panel" onClick={print}>
-          PRINT
-        </button>
-      </div>
-
-      {!isMobile && (
-        <div className="control box">
-          <Control
-            curPlay={curPlay}
-            curScene={curScene}
-            curRole={curRole}
-            handleSceneChange={handleSceneChange}
-            handleRoleChange={handleRoleChange}
-          />
+        <div className="navigation box">
+          <button
+            className={!highlightCues ? "panel selected" : "panel"}
+            onClick={toggleHighlightCues}
+          >
+            HIGHLIGHT CUES
+          </button>
+          <p />
+          <button
+            className={!cueSheetMode ? "panel selected" : "panel"}
+            onClick={handleHideOtherLines}
+          >
+            HIDE OTHER LINES
+          </button>
+          <p />
+          <button className="panel" onClick={print}>
+            PRINT
+          </button>
         </div>
-      )}
 
-      {isMobile && (
-        <div className="lines box">
+        <div className="lines box" style={{ height: "100%" }}>
           <div className="scrollgap">{makeBlocks()}</div>
           <div className="mobileNav">
             <button
@@ -240,10 +205,60 @@ const Script = (props) => {
             <button className="mobile" onClick={() => scrollToNext(1, "end")}>
               NEXT CUE
             </button>
+            <p />
+            <button className="mobile" onClick={() => handleScroll(0, "start")}>
+              GO TO TOP
+            </button>
           </div>
         </div>
-      )}
-    </div>
-  );
+      </div>
+    );
+  } else {
+    return (
+      <div className="allScript" style={{ flexDirection: "row" }}>
+        <div className="lines box">
+          <div className="scrollgap">{makeBlocks()}</div>
+        </div>
+        <div className="navigation box">
+          <div>
+            <button className="panel" onClick={() => scrollToNext(0, "center")}>
+              NEXT LINE
+            </button>
+            <p />
+            <button className="panel" onClick={() => scrollToNext(1, "end")}>
+              NEXT CUE
+            </button>
+            <p />
+          </div>
+          <button
+            className={!highlightCues ? "panel selected" : "panel"}
+            onClick={toggleHighlightCues}
+          >
+            HIGHLIGHT CUES
+          </button>
+          <p />
+          <button
+            className={!cueSheetMode ? "panel selected" : "panel"}
+            onClick={handleHideOtherLines}
+          >
+            HIDE OTHER LINES
+          </button>
+          <p />
+          <button className="panel" onClick={print}>
+            PRINT
+          </button>
+        </div>
+        <div className="control box">
+          <Control
+            curPlay={curPlay}
+            curScene={curScene}
+            curRole={curRole}
+            handleSceneChange={handleSceneChange}
+            handleRoleChange={handleRoleChange}
+          />
+        </div>
+      </div>
+    );
+  }
 };
 export default Script;

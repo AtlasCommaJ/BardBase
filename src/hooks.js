@@ -9,7 +9,16 @@ export const usePersistentState = (key, initialState) => {
 };
 
 export const useComplexPersistentState = (key, initialState) => {
-  const [state, setState] = useState(JSON.parse(localStorage.getItem(key)) || initialState);
+  let retrieve;
+  try {
+    retrieve = JSON.parse(localStorage.getItem(key));
+  }
+  catch(err) {
+    retrieve = initialState;
+  }
+  if (typeof retrieve !== 'object' || retrieve === null)
+    retrieve = initialState
+  const [state, setState] = useState(retrieve);
   useEffect(() => {
     localStorage.setItem(key, JSON.stringify(state));
   }, [key, state]);
