@@ -48,6 +48,14 @@ Scripts were retrieved as text files from the [Folger Shakespeare Library](https
 #### Database
 The database contains 37 MySQL tables, each containing the text of a play, as well as one small table mapping play names to their common abbreviations (the abbreviations are used internally to avoid problems with spaces and apostrophes).
 
+An example of the play database schema. The string lengths are set to the maximum row in their column, so it varies somewhat from play to play. This shows Hamlet's.
+| Field      | Type            | Description                     |
+|------------|-----------------|---------------------------------|
+| id         | int PRIMARY KEY |Line count                       |
+| scene      | varchar(3)      |In {act}.{scene} form, e.g. "2.1"|
+| player     | varchar(24)     |Character name                   |
+| playerline | varchar(67)     |Text of individual line          |
+
 ## Deployment
 The app is hosted serverless on AWS, making use of the following services:
 - RDS: stores the MySQL data
