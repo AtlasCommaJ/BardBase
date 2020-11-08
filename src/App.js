@@ -5,6 +5,11 @@ import Script from "./Script";
 import twitter from "./assets/twitter.png";
 import github from "./assets/github.png";
 
+import Analytics from '@aws-amplify/analytics';
+
+Analytics.record({ name: 'siteVisit' });
+
+
 const App = () => {
   const [plays, setPlays] = useState([]);
   const [fullNames, setFullNames] = useState({});
