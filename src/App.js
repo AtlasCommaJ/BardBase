@@ -48,7 +48,10 @@ const App = () => {
       setCurPlay(play);
       setCurScene("1.1");
       setCurRole([]);
-      Analytics.record({ name: play });
+      Analytics.record({
+        name: 'play', 
+        attributes: { title: play}
+      });
     },
     [setCurPlay, setCurScene, setCurRole]
   );
