@@ -5,9 +5,9 @@ import Script from "./Script";
 import twitter from "./assets/twitter.png";
 import github from "./assets/github.png";
 
-import Analytics from '@aws-amplify/analytics';
-
-Analytics.record({ name: 'siteVisit' });
+import Amplify, { Analytics } from 'aws-amplify';
+import awsconfig from './aws-exports';
+Amplify.configure(awsconfig);
 
 
 const App = () => {
@@ -47,6 +47,7 @@ const App = () => {
       setCurPlay(play);
       setCurScene("1.1");
       setCurRole([]);
+      Analytics.record({ name: play });
     },
     [setCurPlay, setCurScene, setCurRole]
   );
