@@ -8,7 +8,7 @@ import github from "./assets/github.png";
 import Amplify, { Analytics } from 'aws-amplify';
 import awsconfig from './aws-exports';
 Amplify.configure(awsconfig);
-Analytics.record({ name: 'siteVisit' });
+
 
 
 const App = () => {
@@ -48,6 +48,7 @@ const App = () => {
       setCurPlay(play);
       setCurScene("1.1");
       setCurRole([]);
+      Analytics.record({ name: play });
     },
     [setCurPlay, setCurScene, setCurRole]
   );
