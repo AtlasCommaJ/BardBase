@@ -5,8 +5,9 @@ import Script from "./Script";
 import twitter from "./assets/twitter.png";
 import github from "./assets/github.png";
 
-import Analytics from '@aws-amplify/analytics';
-
+import Amplify, { Analytics } from 'aws-amplify';
+import awsconfig from './aws-exports';
+Amplify.configure(awsconfig);
 Analytics.record({ name: 'siteVisit' });
 
 
