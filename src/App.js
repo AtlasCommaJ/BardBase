@@ -9,7 +9,6 @@ import Amplify, { Analytics } from 'aws-amplify';
 import awsconfig from './aws-exports';
 Amplify.configure(awsconfig);
 
-
 const App = () => {
   const [plays, setPlays] = useState([]);
   const [fullNames, setFullNames] = useState({});
