@@ -4,6 +4,10 @@ import "./Script.css";
 import TextBlock from "./TextBlock";
 import Control from "./Control";
 
+import Amplify, { Analytics } from 'aws-amplify';
+import awsconfig from './aws-exports';
+Amplify.configure(awsconfig);
+
 const Script = (props) => {
   const {
     curPlay,
@@ -157,7 +161,11 @@ const Script = (props) => {
 
   const print = useCallback(() => {
     window.print();
-  }, []);
+    Analytics.record({
+        name: 'print',
+        attributes: { condensed: cueSheetMode}
+      });
+  }, [cueSheetMode]);
 
   if (isMobile) {
     return (

@@ -137,6 +137,22 @@ const App = () => {
         >
           <img src={twitter} alt="twitter link" />
         </a>
+        <br />
+        Text retrieved from the 
+        <a 
+          href="https://shakespeare.folger.edu/" 
+          target="_blank"
+          rel="noopener noreferrer"
+          style={{marginLeft: 4, marginRight: 4}}
+          >Folger Shakespeare Library</a>
+          under a
+          <a 
+          href="https://creativecommons.org/licenses/by-nc/3.0/deed.en_US" 
+          target="_blank"
+          rel="noopener noreferrer"
+          style={{marginLeft: 4}}
+          >Creative Commons Attribution-NonCommercial 3.0 Unported license</a>.
+          
       </div>
     </div>
   );
