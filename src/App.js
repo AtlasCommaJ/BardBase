@@ -122,7 +122,7 @@ const App = () => {
         />
       </div>
       <div className="credit">
-        Created by Jamie Atlas. Version 1.4. Send feedback, comments, notes,
+        Created by James Atlas. Version 1.4. Send feedback, comments, notes,
         errors to AtlasCommaJ@gmail.com.
         <a
           href="https://github.com/AtlasCommaJ/BardBase"

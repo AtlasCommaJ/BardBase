@@ -43,7 +43,8 @@ Ordered first by category, and then date, according to the Riverside's chronolog
 Henry VI before Henry IV makes it look like I just don't understand roman numerals.)
 
 #### Processing
-Scripts were retrieved as text files from the [Folger Shakespeare Library](https://shakespeare.folger.edu/), then processed with Python and output as CSV files. (The raw txt weren't strictly uniform, so a lot of the python script ended up being series of "if" statements trying to catch exceptions to the rules of how character names, lines, and stage directions were formatted.)
+Play scripts were retrieved as text files from the [Folger Shakespeare Library](https://shakespeare.folger.edu/). BardBase uses the same Creative Common's License, which allows use of their content and mine "without additional permission, provided that you follow the terms of that license, including that you cite the Folger Shakespeare Library as the source and you license anything you create using the content under the same or equivalent license." 
+The scripts were then processed with Python and output as CSV files. (The raw txt weren't strictly uniform, so a lot of the python script ended up being series of "if" statements trying to catch exceptions to the rules of how character names, lines, and stage directions were formatted.)
 
 #### Database
 The database contains 37 MySQL tables, each containing the text of a play, as well as one small table mapping play names to their common abbreviations (the abbreviations are used internally to avoid problems with spaces and apostrophes).
