@@ -9,6 +9,7 @@ import Amplify, { Analytics } from 'aws-amplify';
 import awsconfig from './aws-exports';
 Amplify.configure(awsconfig);
 
+
 const App = () => {
   const [plays, setPlays] = useState([]);
   const [fullNames, setFullNames] = useState({});
@@ -24,7 +25,7 @@ const App = () => {
         .then((res) => {
           const data = JSON.parse(res);
           let result = [
-            [" Histories"],
+            ["Histories"],
             ["Tragedies"],
             ["Comedies"],
             ["Romances"],
@@ -71,6 +72,7 @@ const App = () => {
   );
 
   const isMobile = window.innerWidth <= 500;
+
 
   return (
     <div className="allApp box">
