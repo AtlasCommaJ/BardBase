@@ -1,7 +1,7 @@
-# Welcome to [BardBase](bardbase.com)!
+# Welcome to [BardBase](https://bardbase.com)!
 
 ## Development
-BardBase is live at [BardBase.com](bardbase.com). You can also run a local version by doing the following: 
+BardBase is live at [BardBase.com](https://bardbase.com). You can also run a local version by doing the following: 
 ```
 $ git clone https://github.com/AtlasCommaJ/BardBase
 $ cd BardBase
