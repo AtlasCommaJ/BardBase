@@ -5,10 +5,9 @@ import Script from "./Script";
 import twitter from "./assets/twitter.png";
 import github from "./assets/github.png";
 
-import Amplify, { Analytics } from 'aws-amplify';
-import awsconfig from './aws-exports';
-Amplify.configure(awsconfig);
-
+// import Amplify, { Analytics } from "aws-amplify";
+// import awsconfig from "./aws-exports";
+// Amplify.configure(awsconfig);
 
 const App = () => {
   const [plays, setPlays] = useState([]);
@@ -20,10 +19,9 @@ const App = () => {
 
   useEffect(() => {
     const getPlays = async () => {
-      fetch("https://p9hv9v5blg.execute-api.us-east-2.amazonaws.com/Primary")
+      fetch("data/plays.json")
         .then((res) => res.json())
-        .then((res) => {
-          const data = JSON.parse(res);
+        .then((data) => {
           let result = [
             ["Histories"],
             ["Tragedies"],
@@ -47,10 +45,10 @@ const App = () => {
       setCurPlay(play);
       setCurScene("1.1");
       setCurRole([]);
-      Analytics.record({
-        name: 'play', 
-        attributes: { title: play}
-      });
+      // Analytics.record({
+      //   name: "play",
+      //   attributes: { title: play },
+      // });
     },
     [setCurPlay, setCurScene, setCurRole]
   );
@@ -73,7 +71,6 @@ const App = () => {
 
   const isMobile = window.innerWidth <= 500;
 
-
   return (
     <div className="allApp box">
       <div
@@ -92,23 +89,26 @@ const App = () => {
         </div>
         <div className="plays box">
           <table>
-            {plays.map((genre, i) => (
-              <tr>
-                <td> {genre[0]}: </td>
-                <td>
-                  <span className="genres">
-                    {genre.slice(1).map((play) => (
-                      <button
-                        className={play === curPlay ? "selected" : genre[0]}
-                        onClick={() => handlePlayChange(play)}
-                      >
-                        {fullNames[play]}
-                      </button>
-                    ))}
-                  </span>
-                </td>
-              </tr>
-            ))}
+            <tbody>
+              {plays.map((genre, i) => (
+                <tr key={i}>
+                  <td> {genre[0]}: </td>
+                  <td>
+                    <span className="genres">
+                      {genre.slice(1).map((play, j) => (
+                        <button
+                          className={play === curPlay ? "selected" : genre[0]}
+                          onClick={() => handlePlayChange(play)}
+                          key={j}
+                        >
+                          {fullNames[play]}
+                        </button>
+                      ))}
+                    </span>
+                  </td>
+                </tr>
+              ))}
+            </tbody>
           </table>
         </div>
       </div>
@@ -140,21 +140,25 @@ const App = () => {
           <img src={twitter} alt="twitter link" />
         </a>
         <br />
-        Text retrieved from the 
-        <a 
-          href="https://shakespeare.folger.edu/" 
+        Text retrieved from the
+        <a
+          href="https://shakespeare.folger.edu/"
           target="_blank"
           rel="noopener noreferrer"
-          style={{marginLeft: 4, marginRight: 4}}
-          >Folger Shakespeare Library</a>
-          under a
-          <a 
-          href="https://creativecommons.org/licenses/by-nc/3.0/deed.en_US" 
+          style={{ marginLeft: 4, marginRight: 4 }}
+        >
+          Folger Shakespeare Library
+        </a>
+        under a
+        <a
+          href="https://creativecommons.org/licenses/by-nc/3.0/deed.en_US"
           target="_blank"
           rel="noopener noreferrer"
-          style={{marginLeft: 4}}
-          >Creative Commons Attribution-NonCommercial 3.0 Unported license</a>.
-          
+          style={{ marginLeft: 4 }}
+        >
+          Creative Commons Attribution-NonCommercial 3.0 Unported license
+        </a>
+        .
       </div>
     </div>
   );

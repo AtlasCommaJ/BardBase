@@ -1,0 +1,455 @@
+[
+  { "player": "ACT", "playerline": "ACT II" },
+  { "player": "SCENE", "playerline": "SCENE I" },
+  {
+    "player": "DIRECTION",
+    "playerline": "[Enter Edmund, the Bastard and Curan, severally.]"
+  },
+  { "player": "EDMUND", "playerline": "Save thee, Curan." },
+  {
+    "player": "CURAN",
+    "playerline": "And you, sir. I have been with your father and"
+  },
+  {
+    "player": "CURAN",
+    "playerline": "given him notice that the Duke of Cornwall and"
+  },
+  {
+    "player": "CURAN",
+    "playerline": "Regan his duchess will be here with him this night."
+  },
+  { "player": "EDMUND", "playerline": "How comes that?" },
+  {
+    "player": "CURAN",
+    "playerline": "Nay, I know not. You have heard of the news"
+  },
+  {
+    "player": "CURAN",
+    "playerline": "abroad?--I mean the whispered ones, for they are"
+  },
+  { "player": "CURAN", "playerline": "yet but ear-kissing arguments." },
+  { "player": "EDMUND", "playerline": "Not I. Pray you, what are they?" },
+  {
+    "player": "CURAN",
+    "playerline": "Have you heard of no likely wars toward 'twixt"
+  },
+  { "player": "CURAN", "playerline": "the dukes of Cornwall and Albany?" },
+  { "player": "EDMUND", "playerline": "Not a word." },
+  {
+    "player": "CURAN",
+    "playerline": "You may do, then, in time. Fare you well, sir."
+  },
+  { "player": "DIRECTION", "playerline": "[He exits.]" },
+  {
+    "player": "EDMUND",
+    "playerline": "The Duke be here tonight? The better, best."
+  },
+  {
+    "player": "EDMUND",
+    "playerline": "This weaves itself perforce into my business."
+  },
+  {
+    "player": "EDMUND",
+    "playerline": "My father hath set guard to take my brother,"
+  },
+  {
+    "player": "EDMUND",
+    "playerline": "And I have one thing of a queasy question"
+  },
+  {
+    "player": "EDMUND",
+    "playerline": "Which I must act. Briefness and fortune work!--"
+  },
+  {
+    "player": "EDMUND",
+    "playerline": "Brother, a word. Descend. Brother, I say!"
+  },
+  { "player": "DIRECTION", "playerline": "[Enter Edgar.]" },
+  {
+    "player": "EDMUND",
+    "playerline": "My father watches. O sir, fly this place!"
+  },
+  {
+    "player": "EDMUND",
+    "playerline": "Intelligence is given where you are hid."
+  },
+  {
+    "player": "EDMUND",
+    "playerline": "You have now the good advantage of the night."
+  },
+  {
+    "player": "EDMUND",
+    "playerline": "Have you not spoken 'gainst the Duke of Cornwall?"
+  },
+  {
+    "player": "EDMUND",
+    "playerline": "He's coming hither, now, i' th' night, i' th' haste,"
+  },
+  {
+    "player": "EDMUND",
+    "playerline": "And Regan with him. Have you nothing said"
+  },
+  {
+    "player": "EDMUND",
+    "playerline": "Upon his party 'gainst the Duke of Albany?"
+  },
+  { "player": "EDMUND", "playerline": "Advise yourself." },
+  { "player": "EDGAR", "playerline": "I am sure on 't, not a word." },
+  { "player": "EDMUND", "playerline": "I hear my father coming. Pardon me." },
+  {
+    "player": "EDMUND",
+    "playerline": "In cunning I must draw my sword upon you."
+  },
+  {
+    "player": "EDMUND",
+    "playerline": "Draw. Seem to defend yourself. Now, quit you well."
+  },
+  { "player": "DIRECTION", "playerline": "[They draw.]" },
+  {
+    "player": "EDMUND",
+    "playerline": "Yield! Come before my father! Light, hoa, here!"
+  },
+  {
+    "player": "EDMUND",
+    "playerline": "[Aside to Edgar.] Fly, brother.--Torches, torches!"
+  },
+  { "player": "EDMUND", "playerline": "--So, farewell." },
+  { "player": "DIRECTION", "playerline": "[Edgar exits.]" },
+  {
+    "player": "EDMUND",
+    "playerline": "Some blood drawn on me would beget opinion"
+  },
+  {
+    "player": "EDMUND",
+    "playerline": "Of my more fierce endeavor. I have seen drunkards"
+  },
+  { "player": "EDMUND", "playerline": "Do more than this in sport." },
+  { "player": "DIRECTION", "playerline": "[He wounds his arm.]" },
+  { "player": "EDMUND", "playerline": "Father, father!" },
+  { "player": "EDMUND", "playerline": "Stop, stop! No help?" },
+  {
+    "player": "DIRECTION",
+    "playerline": "[Enter Gloucester, and Servants with torches.]"
+  },
+  { "player": "GLOUCESTER", "playerline": "Now, Edmund, where's the villain?" },
+  {
+    "player": "EDMUND",
+    "playerline": "Here stood he in the dark, his sharp sword out,"
+  },
+  {
+    "player": "EDMUND",
+    "playerline": "Mumbling of wicked charms, conjuring the moon"
+  },
+  { "player": "EDMUND", "playerline": "To stand auspicious mistress." },
+  { "player": "GLOUCESTER", "playerline": "But where is he?" },
+  { "player": "EDMUND", "playerline": "Look, sir, I bleed." },
+  { "player": "GLOUCESTER", "playerline": "Where is the villain, Edmund?" },
+  {
+    "player": "EDMUND",
+    "playerline": "Fled this way, sir, when by no means he could--"
+  },
+  {
+    "player": "GLOUCESTER",
+    "playerline": "Pursue him, ho! Go after. [Servants exit.] By no"
+  },
+  { "player": "GLOUCESTER", "playerline": "means what?" },
+  {
+    "player": "EDMUND",
+    "playerline": "Persuade me to the murder of your Lordship,"
+  },
+  {
+    "player": "EDMUND",
+    "playerline": "But that I told him the revenging gods"
+  },
+  {
+    "player": "EDMUND",
+    "playerline": "'Gainst parricides did all the thunder bend,"
+  },
+  {
+    "player": "EDMUND",
+    "playerline": "Spoke with how manifold and strong a bond"
+  },
+  {
+    "player": "EDMUND",
+    "playerline": "The child was bound to th' father--sir, in fine,"
+  },
+  { "player": "EDMUND", "playerline": "Seeing how loathly opposite I stood" },
+  {
+    "player": "EDMUND",
+    "playerline": "To his unnatural purpose, in fell motion"
+  },
+  {
+    "player": "EDMUND",
+    "playerline": "With his prepared sword he charges home"
+  },
+  { "player": "EDMUND", "playerline": "My unprovided body, lanced mine arm;" },
+  {
+    "player": "EDMUND",
+    "playerline": "And when he saw my best alarumed spirits,"
+  },
+  {
+    "player": "EDMUND",
+    "playerline": "Bold in the quarrel's right, roused to th' encounter,"
+  },
+  {
+    "player": "EDMUND",
+    "playerline": "Or whether ghasted by the noise I made,"
+  },
+  { "player": "EDMUND", "playerline": "Full suddenly he fled." },
+  { "player": "GLOUCESTER", "playerline": "Let him fly far!" },
+  {
+    "player": "GLOUCESTER",
+    "playerline": "Not in this land shall he remain uncaught,"
+  },
+  {
+    "player": "GLOUCESTER",
+    "playerline": "And found--dispatch. The noble duke my master,"
+  },
+  {
+    "player": "GLOUCESTER",
+    "playerline": "My worthy arch and patron, comes tonight."
+  },
+  {
+    "player": "GLOUCESTER",
+    "playerline": "By his authority I will proclaim it"
+  },
+  {
+    "player": "GLOUCESTER",
+    "playerline": "That he which finds him shall deserve our thanks,"
+  },
+  {
+    "player": "GLOUCESTER",
+    "playerline": "Bringing the murderous coward to the stake;"
+  },
+  { "player": "GLOUCESTER", "playerline": "He that conceals him, death." },
+  { "player": "EDMUND", "playerline": "When I dissuaded him from his intent" },
+  {
+    "player": "EDMUND",
+    "playerline": "And found him pight to do it, with curst speech"
+  },
+  {
+    "player": "EDMUND",
+    "playerline": "I threatened to discover him. He replied"
+  },
+  {
+    "player": "EDMUND",
+    "playerline": "'Thou unpossessing bastard, dost thou think"
+  },
+  {
+    "player": "EDMUND",
+    "playerline": "If I would stand against thee, would the reposal"
+  },
+  {
+    "player": "EDMUND",
+    "playerline": "Of any trust, virtue, or worth in thee"
+  },
+  {
+    "player": "EDMUND",
+    "playerline": "Make thy words faithed? No. What I should deny--"
+  },
+  {
+    "player": "EDMUND",
+    "playerline": "As this I would, though thou didst produce"
+  },
+  { "player": "EDMUND", "playerline": "My very character--I'd turn it all" },
+  {
+    "player": "EDMUND",
+    "playerline": "To thy suggestion, plot, and damned practice."
+  },
+  {
+    "player": "EDMUND",
+    "playerline": "And thou must make a dullard of the world"
+  },
+  {
+    "player": "EDMUND",
+    "playerline": "If they not thought the profits of my death"
+  },
+  {
+    "player": "EDMUND",
+    "playerline": "Were very pregnant and potential spurs"
+  },
+  { "player": "EDMUND", "playerline": "To make thee seek it.'" },
+  { "player": "GLOUCESTER", "playerline": "O strange and fastened villain!" },
+  {
+    "player": "GLOUCESTER",
+    "playerline": "Would he deny his letter, said he?"
+  },
+  { "player": "GLOUCESTER", "playerline": "I never got him." },
+  { "player": "DIRECTION", "playerline": "[Tucket within.]" },
+  {
+    "player": "GLOUCESTER",
+    "playerline": "Hark, the Duke's trumpets. I know not why he comes."
+  },
+  {
+    "player": "GLOUCESTER",
+    "playerline": "All ports I'll bar. The villain shall not 'scape."
+  },
+  {
+    "player": "GLOUCESTER",
+    "playerline": "The Duke must grant me that. Besides, his picture"
+  },
+  {
+    "player": "GLOUCESTER",
+    "playerline": "I will send far and near, that all the kingdom"
+  },
+  {
+    "player": "GLOUCESTER",
+    "playerline": "May have due note of him. And of my land,"
+  },
+  {
+    "player": "GLOUCESTER",
+    "playerline": "Loyal and natural boy, I'll work the means"
+  },
+  { "player": "GLOUCESTER", "playerline": "To make thee capable." },
+  {
+    "player": "DIRECTION",
+    "playerline": "[Enter Cornwall, Regan, and Attendants.]"
+  },
+  {
+    "player": "CORNWALL",
+    "playerline": "How now, my noble friend? Since I came hither,"
+  },
+  {
+    "player": "CORNWALL",
+    "playerline": "Which I can call but now, I have heard strange news."
+  },
+  {
+    "player": "REGAN",
+    "playerline": "If it be true, all vengeance comes too short"
+  },
+  {
+    "player": "REGAN",
+    "playerline": "Which can pursue th' offender. How dost, my lord?"
+  },
+  {
+    "player": "GLOUCESTER",
+    "playerline": "O madam, my old heart is cracked; it's cracked."
+  },
+  {
+    "player": "REGAN",
+    "playerline": "What, did my father's godson seek your life?"
+  },
+  { "player": "REGAN", "playerline": "He whom my father named, your Edgar?" },
+  {
+    "player": "GLOUCESTER",
+    "playerline": "O lady, lady, shame would have it hid!"
+  },
+  {
+    "player": "REGAN",
+    "playerline": "Was he not companion with the riotous knights"
+  },
+  { "player": "REGAN", "playerline": "That tended upon my father?" },
+  {
+    "player": "GLOUCESTER",
+    "playerline": "I know not, madam. 'Tis too bad, too bad."
+  },
+  { "player": "EDMUND", "playerline": "Yes, madam, he was of that consort." },
+  {
+    "player": "REGAN",
+    "playerline": "No marvel, then, though he were ill affected."
+  },
+  {
+    "player": "REGAN",
+    "playerline": "'Tis they have put him on the old man's death,"
+  },
+  {
+    "player": "REGAN",
+    "playerline": "To have th' expense and waste of his revenues."
+  },
+  {
+    "player": "REGAN",
+    "playerline": "I have this present evening from my sister"
+  },
+  {
+    "player": "REGAN",
+    "playerline": "Been well informed of them, and with such cautions"
+  },
+  {
+    "player": "REGAN",
+    "playerline": "That if they come to sojourn at my house"
+  },
+  { "player": "REGAN", "playerline": "I'll not be there." },
+  { "player": "CORNWALL", "playerline": "Nor I, assure thee, Regan.--" },
+  {
+    "player": "CORNWALL",
+    "playerline": "Edmund, I hear that you have shown your father"
+  },
+  { "player": "CORNWALL", "playerline": "A childlike office." },
+  { "player": "EDMUND", "playerline": "It was my duty, sir." },
+  {
+    "player": "GLOUCESTER",
+    "playerline": "He did bewray his practice, and received"
+  },
+  {
+    "player": "GLOUCESTER",
+    "playerline": "This hurt you see striving to apprehend him."
+  },
+  { "player": "CORNWALL", "playerline": "Is he pursued?" },
+  { "player": "GLOUCESTER", "playerline": "Ay, my good lord." },
+  { "player": "CORNWALL", "playerline": "If he be taken, he shall never more" },
+  {
+    "player": "CORNWALL",
+    "playerline": "Be feared of doing harm. Make your own purpose,"
+  },
+  {
+    "player": "CORNWALL",
+    "playerline": "How in my strength you please.--For you, Edmund,"
+  },
+  {
+    "player": "CORNWALL",
+    "playerline": "Whose virtue and obedience doth this instant"
+  },
+  {
+    "player": "CORNWALL",
+    "playerline": "So much commend itself, you shall be ours."
+  },
+  {
+    "player": "CORNWALL",
+    "playerline": "Natures of such deep trust we shall much need."
+  },
+  { "player": "CORNWALL", "playerline": "You we first seize on." },
+  { "player": "EDMUND", "playerline": "I shall serve you, sir," },
+  { "player": "EDMUND", "playerline": "Truly, however else." },
+  { "player": "GLOUCESTER", "playerline": "For him I thank your Grace." },
+  {
+    "player": "CORNWALL",
+    "playerline": "You know not why we came to visit you--"
+  },
+  {
+    "player": "REGAN",
+    "playerline": "Thus out of season, threading dark-eyed night."
+  },
+  {
+    "player": "REGAN",
+    "playerline": "Occasions, noble Gloucester, of some poise,"
+  },
+  {
+    "player": "REGAN",
+    "playerline": "Wherein we must have use of your advice."
+  },
+  {
+    "player": "REGAN",
+    "playerline": "Our father he hath writ, so hath our sister,"
+  },
+  {
+    "player": "REGAN",
+    "playerline": "Of differences, which I best thought it fit"
+  },
+  {
+    "player": "REGAN",
+    "playerline": "To answer from our home. The several messengers"
+  },
+  {
+    "player": "REGAN",
+    "playerline": "From hence attend dispatch. Our good old friend,"
+  },
+  { "player": "REGAN", "playerline": "Lay comforts to your bosom and bestow" },
+  {
+    "player": "REGAN",
+    "playerline": "Your needful counsel to our businesses,"
+  },
+  { "player": "REGAN", "playerline": "Which craves the instant use." },
+  { "player": "GLOUCESTER", "playerline": "I serve you, madam." },
+  { "player": "GLOUCESTER", "playerline": "Your Graces are right welcome." },
+  { "player": "DIRECTION", "playerline": "[Flourish. They exit.]" }
+]

@@ -1,0 +1,500 @@
+[
+  { "player": "SCENE", "playerline": "SCENE III" },
+  { "player": "DIRECTION", "playerline": "[Enter Cloten and Lords.]" },
+  {
+    "player": "FIRST LORD",
+    "playerline": "Your Lordship is the most patient man in"
+  },
+  {
+    "player": "FIRST LORD",
+    "playerline": "loss, the most coldest that ever turned up ace."
+  },
+  { "player": "CLOTEN", "playerline": "It would make any man cold to lose." },
+  {
+    "player": "FIRST LORD",
+    "playerline": "But not every man patient after the noble"
+  },
+  {
+    "player": "FIRST LORD",
+    "playerline": "temper of your Lordship. You are most hot and"
+  },
+  { "player": "FIRST LORD", "playerline": "furious when you win." },
+  {
+    "player": "CLOTEN",
+    "playerline": "Winning will put any man into courage. If I"
+  },
+  {
+    "player": "CLOTEN",
+    "playerline": "could get this foolish Imogen, I should have gold"
+  },
+  {
+    "player": "CLOTEN",
+    "playerline": "enough. It's almost morning, is 't not?"
+  },
+  { "player": "FIRST LORD", "playerline": "Day, my lord." },
+  {
+    "player": "CLOTEN",
+    "playerline": "I would this music would come. I am advised"
+  },
+  {
+    "player": "CLOTEN",
+    "playerline": "to give her music a-mornings; they say it will penetrate."
+  },
+  { "player": "DIRECTION", "playerline": "[Enter Musicians.]" },
+  {
+    "player": "CLOTEN",
+    "playerline": "Come on, tune. If you can penetrate her with your"
+  },
+  {
+    "player": "CLOTEN",
+    "playerline": "fingering, so. We'll try with tongue, too. If none"
+  },
+  {
+    "player": "CLOTEN",
+    "playerline": "will do, let her remain, but I'll never give o'er. First,"
+  },
+  {
+    "player": "CLOTEN",
+    "playerline": "a very excellent good-conceited thing; after, a wonderful"
+  },
+  {
+    "player": "CLOTEN",
+    "playerline": "sweet air, with admirable rich words to it,"
+  },
+  { "player": "CLOTEN", "playerline": "and then let her consider." },
+  { "player": "DIRECTION", "playerline": "[Musicians begin to play.]" },
+  { "player": "CLOTEN", "playerline": "Song." },
+  {
+    "player": "CLOTEN",
+    "playerline": "Hark, hark, the lark at heaven's gate sings,"
+  },
+  { "player": "CLOTEN", "playerline": "And Phoebus gins arise," },
+  { "player": "CLOTEN", "playerline": "His steeds to water at those springs" },
+  { "player": "CLOTEN", "playerline": "On chaliced flowers that lies;" },
+  { "player": "CLOTEN", "playerline": "And winking Mary-buds begin" },
+  { "player": "CLOTEN", "playerline": "To ope their golden eyes." },
+  { "player": "CLOTEN", "playerline": "With everything that pretty is," },
+  { "player": "CLOTEN", "playerline": "My lady sweet, arise," },
+  { "player": "CLOTEN", "playerline": "Arise, arise." },
+  {
+    "player": "CLOTEN",
+    "playerline": "So, get you gone. If this penetrate, I will"
+  },
+  {
+    "player": "CLOTEN",
+    "playerline": "consider your music the better. If it do not, it is a"
+  },
+  {
+    "player": "CLOTEN",
+    "playerline": "vice in her ears which horsehairs and calves'"
+  },
+  {
+    "player": "CLOTEN",
+    "playerline": "guts, nor the voice of unpaved eunuch to boot, can"
+  },
+  { "player": "CLOTEN", "playerline": "never amend." },
+  { "player": "DIRECTION", "playerline": "[Musicians exit.]" },
+  {
+    "player": "DIRECTION",
+    "playerline": "[Enter Cymbeline and Queen, with Attendants.]"
+  },
+  { "player": "SECOND LORD", "playerline": "Here comes the King." },
+  {
+    "player": "CLOTEN",
+    "playerline": "I am glad I was up so late, for that's the reason"
+  },
+  {
+    "player": "CLOTEN",
+    "playerline": "I was up so early. He cannot choose but take this"
+  },
+  {
+    "player": "CLOTEN",
+    "playerline": "service I have done fatherly.--Good morrow to"
+  },
+  {
+    "player": "CLOTEN",
+    "playerline": "your Majesty and to my gracious mother."
+  },
+  {
+    "player": "CYMBELINE",
+    "playerline": "Attend you here the door of our stern daughter?"
+  },
+  { "player": "CYMBELINE", "playerline": "Will she not forth?" },
+  {
+    "player": "CLOTEN",
+    "playerline": "I have assailed her with musics, but she"
+  },
+  { "player": "CLOTEN", "playerline": "vouchsafes no notice." },
+  {
+    "player": "CYMBELINE",
+    "playerline": "The exile of her minion is too new;"
+  },
+  {
+    "player": "CYMBELINE",
+    "playerline": "She hath not yet forgot him. Some more time"
+  },
+  {
+    "player": "CYMBELINE",
+    "playerline": "Must wear the print of his remembrance on 't,"
+  },
+  { "player": "CYMBELINE", "playerline": "And then she's yours." },
+  { "player": "QUEEN", "playerline": "You are most bound to th' King," },
+  { "player": "QUEEN", "playerline": "Who lets go by no vantages that may" },
+  {
+    "player": "QUEEN",
+    "playerline": "Prefer you to his daughter. Frame yourself"
+  },
+  { "player": "QUEEN", "playerline": "To orderly solicits and be friended" },
+  {
+    "player": "QUEEN",
+    "playerline": "With aptness of the season. Make denials"
+  },
+  { "player": "QUEEN", "playerline": "Increase your services. So seem as if" },
+  {
+    "player": "QUEEN",
+    "playerline": "You were inspired to do those duties which"
+  },
+  {
+    "player": "QUEEN",
+    "playerline": "You tender to her; that you in all obey her,"
+  },
+  {
+    "player": "QUEEN",
+    "playerline": "Save when command to your dismission tends,"
+  },
+  { "player": "QUEEN", "playerline": "And therein you are senseless." },
+  { "player": "CLOTEN", "playerline": "Senseless? Not so." },
+  { "player": "DIRECTION", "playerline": "[Enter a Messenger.]" },
+  {
+    "player": "MESSENGER",
+    "playerline": "So like you, sir, ambassadors from Rome;"
+  },
+  { "player": "MESSENGER", "playerline": "The one is Caius Lucius." },
+  { "player": "DIRECTION", "playerline": "[Messenger exits.]" },
+  { "player": "CYMBELINE", "playerline": "A worthy fellow," },
+  {
+    "player": "CYMBELINE",
+    "playerline": "Albeit he comes on angry purpose now."
+  },
+  {
+    "player": "CYMBELINE",
+    "playerline": "But that's no fault of his. We must receive him"
+  },
+  {
+    "player": "CYMBELINE",
+    "playerline": "According to the honor of his sender,"
+  },
+  {
+    "player": "CYMBELINE",
+    "playerline": "And towards himself, his goodness forespent on us,"
+  },
+  {
+    "player": "CYMBELINE",
+    "playerline": "We must extend our notice.--Our dear son,"
+  },
+  {
+    "player": "CYMBELINE",
+    "playerline": "When you have given good morning to your mistress,"
+  },
+  {
+    "player": "CYMBELINE",
+    "playerline": "Attend the Queen and us. We shall have need"
+  },
+  {
+    "player": "CYMBELINE",
+    "playerline": "T' employ you towards this Roman.--Come, our queen."
+  },
+  { "player": "DIRECTION", "playerline": "[Cymbeline and Queen exit, with" },
+  { "player": "DIRECTION", "playerline": "Lords and Attendants.]" },
+  {
+    "player": "CLOTEN",
+    "playerline": "If she be up, I'll speak with her; if not,"
+  },
+  {
+    "player": "CLOTEN",
+    "playerline": "Let her lie still and dream. [(He knocks.)] By your"
+  },
+  { "player": "CLOTEN", "playerline": "leave, ho!--" },
+  { "player": "CLOTEN", "playerline": "I know her women are about her. What" },
+  {
+    "player": "CLOTEN",
+    "playerline": "If I do line one of their hands? 'Tis gold"
+  },
+  {
+    "player": "CLOTEN",
+    "playerline": "Which buys admittance--oft it doth--yea, and makes"
+  },
+  {
+    "player": "CLOTEN",
+    "playerline": "Diana's rangers false themselves, yield up"
+  },
+  {
+    "player": "CLOTEN",
+    "playerline": "Their deer to th' stand o' th' stealer; and 'tis gold"
+  },
+  {
+    "player": "CLOTEN",
+    "playerline": "Which makes the true man killed and saves the thief,"
+  },
+  {
+    "player": "CLOTEN",
+    "playerline": "Nay, sometime hangs both thief and true man. What"
+  },
+  { "player": "CLOTEN", "playerline": "Can it not do and undo? I will make" },
+  { "player": "CLOTEN", "playerline": "One of her women lawyer to me, for" },
+  { "player": "CLOTEN", "playerline": "I yet not understand the case myself." },
+  { "player": "CLOTEN", "playerline": "By your leave." },
+  { "player": "DIRECTION", "playerline": "[Knocks.]" },
+  { "player": "DIRECTION", "playerline": "[Enter a Lady.]" },
+  { "player": "LADY", "playerline": "Who's there that knocks?" },
+  { "player": "CLOTEN", "playerline": "A gentleman." },
+  { "player": "LADY", "playerline": "No more?" },
+  { "player": "CLOTEN", "playerline": "Yes, and a gentlewoman's son." },
+  { "player": "LADY", "playerline": "That's more" },
+  {
+    "player": "LADY",
+    "playerline": "Than some whose tailors are as dear as yours"
+  },
+  {
+    "player": "LADY",
+    "playerline": "Can justly boast of. What's your Lordship's pleasure?"
+  },
+  { "player": "CLOTEN", "playerline": "Your lady's person. Is she ready?" },
+  { "player": "LADY", "playerline": "Ay," },
+  { "player": "LADY", "playerline": "To keep her chamber." },
+  { "player": "CLOTEN", "playerline": "There is gold for you." },
+  { "player": "CLOTEN", "playerline": "Sell me your good report." },
+  { "player": "DIRECTION", "playerline": "[He offers a purse.]" },
+  { "player": "LADY", "playerline": "How, my good name? Or to report of you" },
+  { "player": "LADY", "playerline": "What I shall think is good?" },
+  { "player": "DIRECTION", "playerline": "[Enter Imogen.]" },
+  { "player": "LADY", "playerline": "The Princess." },
+  { "player": "DIRECTION", "playerline": "[Lady exits.]" },
+  {
+    "player": "CLOTEN",
+    "playerline": "Good morrow, fairest sister. Your sweet hand."
+  },
+  {
+    "player": "IMOGEN",
+    "playerline": "Good morrow, sir. You lay out too much pains"
+  },
+  {
+    "player": "IMOGEN",
+    "playerline": "For purchasing but trouble. The thanks I give"
+  },
+  {
+    "player": "IMOGEN",
+    "playerline": "Is telling you that I am poor of thanks"
+  },
+  { "player": "IMOGEN", "playerline": "And scarce can spare them." },
+  { "player": "CLOTEN", "playerline": "Still I swear I love you." },
+  {
+    "player": "IMOGEN",
+    "playerline": "If you but said so, 'twere as deep with me."
+  },
+  {
+    "player": "IMOGEN",
+    "playerline": "If you swear still, your recompense is still"
+  },
+  { "player": "IMOGEN", "playerline": "That I regard it not." },
+  { "player": "CLOTEN", "playerline": "This is no answer." },
+  {
+    "player": "IMOGEN",
+    "playerline": "But that you shall not say I yield being silent,"
+  },
+  {
+    "player": "IMOGEN",
+    "playerline": "I would not speak. I pray you, spare me. Faith,"
+  },
+  { "player": "IMOGEN", "playerline": "I shall unfold equal discourtesy" },
+  {
+    "player": "IMOGEN",
+    "playerline": "To your best kindness. One of your great knowing"
+  },
+  {
+    "player": "IMOGEN",
+    "playerline": "Should learn, being taught, forbearance."
+  },
+  {
+    "player": "CLOTEN",
+    "playerline": "To leave you in your madness 'twere my sin."
+  },
+  { "player": "CLOTEN", "playerline": "I will not." },
+  { "player": "IMOGEN", "playerline": "Fools are not mad folks." },
+  { "player": "CLOTEN", "playerline": "Do you call me fool?" },
+  { "player": "IMOGEN", "playerline": "As I am mad, I do." },
+  {
+    "player": "IMOGEN",
+    "playerline": "If you'll be patient, I'll no more be mad."
+  },
+  {
+    "player": "IMOGEN",
+    "playerline": "That cures us both. I am much sorry, sir,"
+  },
+  { "player": "IMOGEN", "playerline": "You put me to forget a lady's manners" },
+  {
+    "player": "IMOGEN",
+    "playerline": "By being so verbal; and learn now for all"
+  },
+  {
+    "player": "IMOGEN",
+    "playerline": "That I, which know my heart, do here pronounce,"
+  },
+  {
+    "player": "IMOGEN",
+    "playerline": "By th' very truth of it, I care not for you,"
+  },
+  { "player": "IMOGEN", "playerline": "And am so near the lack of charity" },
+  {
+    "player": "IMOGEN",
+    "playerline": "To accuse myself I hate you--which I had rather"
+  },
+  { "player": "IMOGEN", "playerline": "You felt than make 't my boast." },
+  { "player": "CLOTEN", "playerline": "You sin against" },
+  {
+    "player": "CLOTEN",
+    "playerline": "Obedience, which you owe your father. For"
+  },
+  {
+    "player": "CLOTEN",
+    "playerline": "The contract you pretend with that base wretch--"
+  },
+  {
+    "player": "CLOTEN",
+    "playerline": "One bred of alms and fostered with cold dishes,"
+  },
+  {
+    "player": "CLOTEN",
+    "playerline": "With scraps o' th' court--it is no contract, none;"
+  },
+  {
+    "player": "CLOTEN",
+    "playerline": "And though it be allowed in meaner parties--"
+  },
+  {
+    "player": "CLOTEN",
+    "playerline": "Yet who than he more mean?--to knit their souls,"
+  },
+  { "player": "CLOTEN", "playerline": "On whom there is no more dependency" },
+  {
+    "player": "CLOTEN",
+    "playerline": "But brats and beggary, in self-figured knot;"
+  },
+  {
+    "player": "CLOTEN",
+    "playerline": "Yet you are curbed from that enlargement by"
+  },
+  {
+    "player": "CLOTEN",
+    "playerline": "The consequence o' th' crown, and must not foil"
+  },
+  {
+    "player": "CLOTEN",
+    "playerline": "The precious note of it with a base slave,"
+  },
+  {
+    "player": "CLOTEN",
+    "playerline": "A hilding for a livery, a squire's cloth,"
+  },
+  { "player": "CLOTEN", "playerline": "A pantler--not so eminent." },
+  { "player": "IMOGEN", "playerline": "Profane fellow," },
+  {
+    "player": "IMOGEN",
+    "playerline": "Wert thou the son of Jupiter and no more"
+  },
+  {
+    "player": "IMOGEN",
+    "playerline": "But what thou art besides, thou wert too base"
+  },
+  {
+    "player": "IMOGEN",
+    "playerline": "To be his groom. Thou wert dignified enough,"
+  },
+  {
+    "player": "IMOGEN",
+    "playerline": "Even to the point of envy, if 'twere made"
+  },
+  {
+    "player": "IMOGEN",
+    "playerline": "Comparative for your virtues to be styled"
+  },
+  {
+    "player": "IMOGEN",
+    "playerline": "The under-hangman of his kingdom and hated"
+  },
+  { "player": "IMOGEN", "playerline": "For being preferred so well." },
+  { "player": "CLOTEN", "playerline": "The south fog rot him!" },
+  {
+    "player": "IMOGEN",
+    "playerline": "He never can meet more mischance than come"
+  },
+  {
+    "player": "IMOGEN",
+    "playerline": "To be but named of thee. His mean'st garment"
+  },
+  {
+    "player": "IMOGEN",
+    "playerline": "That ever hath but clipped his body is dearer"
+  },
+  {
+    "player": "IMOGEN",
+    "playerline": "In my respect than all the hairs above thee,"
+  },
+  {
+    "player": "IMOGEN",
+    "playerline": "Were they all made such men.--How now, Pisanio!"
+  },
+  { "player": "DIRECTION", "playerline": "[Enter Pisanio.]" },
+  { "player": "CLOTEN", "playerline": "'His garment'? Now the devil--" },
+  {
+    "player": "IMOGEN",
+    "playerline": "To Dorothy, my woman, hie thee presently."
+  },
+  { "player": "CLOTEN", "playerline": "'His garment'?" },
+  { "player": "IMOGEN", "playerline": "I am sprighted with a fool," },
+  {
+    "player": "IMOGEN",
+    "playerline": "Frighted and angered worse. Go bid my woman"
+  },
+  { "player": "IMOGEN", "playerline": "Search for a jewel that too casually" },
+  {
+    "player": "IMOGEN",
+    "playerline": "Hath left mine arm. It was thy master's. Shrew me"
+  },
+  { "player": "IMOGEN", "playerline": "If I would lose it for a revenue" },
+  { "player": "IMOGEN", "playerline": "Of any king's in Europe. I do think" },
+  { "player": "IMOGEN", "playerline": "I saw 't this morning. Confident I am" },
+  {
+    "player": "IMOGEN",
+    "playerline": "Last night 'twas on mine arm; I kissed it."
+  },
+  { "player": "IMOGEN", "playerline": "I hope it be not gone to tell my lord" },
+  { "player": "IMOGEN", "playerline": "That I kiss aught but he." },
+  { "player": "PISANIO", "playerline": "'Twill not be lost." },
+  { "player": "IMOGEN", "playerline": "I hope so. Go and search." },
+  { "player": "DIRECTION", "playerline": "[Pisanio exits.]" },
+  { "player": "CLOTEN", "playerline": "You have abused me." },
+  { "player": "CLOTEN", "playerline": "'His meanest garment'?" },
+  { "player": "IMOGEN", "playerline": "Ay, I said so, sir." },
+  {
+    "player": "IMOGEN",
+    "playerline": "If you will make 't an action, call witness to 't."
+  },
+  { "player": "CLOTEN", "playerline": "I will inform your father." },
+  { "player": "IMOGEN", "playerline": "Your mother too." },
+  {
+    "player": "IMOGEN",
+    "playerline": "She's my good lady and will conceive, I hope,"
+  },
+  {
+    "player": "IMOGEN",
+    "playerline": "But the worst of me. So I leave you, sir,"
+  },
+  { "player": "IMOGEN", "playerline": "To th' worst of discontent." },
+  { "player": "DIRECTION", "playerline": "[She exits.]" },
+  {
+    "player": "CLOTEN",
+    "playerline": "I'll be revenged! 'His mean'st garment'? Well."
+  },
+  { "player": "DIRECTION", "playerline": "[He exits.]" }
+]

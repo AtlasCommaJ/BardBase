@@ -1,0 +1,105 @@
+[
+  { "player": "SCENE", "playerline": "SCENE III" },
+  {
+    "player": "DIRECTION",
+    "playerline": "[Enter Goneril and Oswald, her Steward.]"
+  },
+  {
+    "player": "GONERIL",
+    "playerline": "Did my father strike my gentleman for chiding"
+  },
+  { "player": "GONERIL", "playerline": "of his Fool?" },
+  { "player": "OSWALD", "playerline": "Ay, madam." },
+  {
+    "player": "GONERIL",
+    "playerline": "By day and night he wrongs me. Every hour"
+  },
+  {
+    "player": "GONERIL",
+    "playerline": "He flashes into one gross crime or other"
+  },
+  {
+    "player": "GONERIL",
+    "playerline": "That sets us all at odds. I'll not endure it."
+  },
+  {
+    "player": "GONERIL",
+    "playerline": "His knights grow riotous, and himself upbraids us"
+  },
+  {
+    "player": "GONERIL",
+    "playerline": "On every trifle. When he returns from hunting,"
+  },
+  {
+    "player": "GONERIL",
+    "playerline": "I will not speak with him. Say I am sick."
+  },
+  {
+    "player": "GONERIL",
+    "playerline": "If you come slack of former services,"
+  },
+  {
+    "player": "GONERIL",
+    "playerline": "You shall do well. The fault of it I'll answer."
+  },
+  { "player": "OSWALD", "playerline": "He's coming, madam. I hear him." },
+  {
+    "player": "GONERIL",
+    "playerline": "Put on what weary negligence you please,"
+  },
+  {
+    "player": "GONERIL",
+    "playerline": "You and your fellows. I'd have it come to question."
+  },
+  {
+    "player": "GONERIL",
+    "playerline": "If he distaste it, let him to my sister,"
+  },
+  {
+    "player": "GONERIL",
+    "playerline": "Whose mind and mine I know in that are one,"
+  },
+  { "player": "GONERIL", "playerline": "Not to be overruled. Idle old man" },
+  {
+    "player": "GONERIL",
+    "playerline": "That still would manage those authorities"
+  },
+  {
+    "player": "GONERIL",
+    "playerline": "That he hath given away. Now, by my life,"
+  },
+  {
+    "player": "GONERIL",
+    "playerline": "Old fools are babes again and must be used"
+  },
+  {
+    "player": "GONERIL",
+    "playerline": "With checks as flatteries, when they are seen abused."
+  },
+  { "player": "GONERIL", "playerline": "Remember what I have said." },
+  { "player": "OSWALD", "playerline": "Well, madam." },
+  {
+    "player": "GONERIL",
+    "playerline": "And let his knights have colder looks among you."
+  },
+  {
+    "player": "GONERIL",
+    "playerline": "What grows of it, no matter. Advise your fellows so."
+  },
+  {
+    "player": "GONERIL",
+    "playerline": "I would breed from hence occasions, and I shall,"
+  },
+  {
+    "player": "GONERIL",
+    "playerline": "That I may speak. I'll write straight to my sister"
+  },
+  {
+    "player": "GONERIL",
+    "playerline": "To hold my very course. Prepare for dinner."
+  },
+  {
+    "player": "DIRECTION",
+    "playerline": "[They exit in different directions.]"
+  }
+]

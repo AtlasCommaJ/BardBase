@@ -1,0 +1,138 @@
+[
+  { "player": "SCENE", "playerline": "SCENE III" },
+  { "player": "DIRECTION", "playerline": "[Enter Imogen and Pisanio.]" },
+  {
+    "player": "IMOGEN",
+    "playerline": "I would thou grew'st unto the shores o' th' haven"
+  },
+  {
+    "player": "IMOGEN",
+    "playerline": "And questionedst every sail. If he should write"
+  },
+  {
+    "player": "IMOGEN",
+    "playerline": "And I not have it, 'twere a paper lost"
+  },
+  {
+    "player": "IMOGEN",
+    "playerline": "As offered mercy is. What was the last"
+  },
+  { "player": "IMOGEN", "playerline": "That he spake to thee?" },
+  { "player": "PISANIO", "playerline": "It was his queen, his queen!" },
+  { "player": "IMOGEN", "playerline": "Then waved his handkerchief?" },
+  { "player": "PISANIO", "playerline": "And kissed it, madam." },
+  {
+    "player": "IMOGEN",
+    "playerline": "Senseless linen, happier therein than I."
+  },
+  { "player": "IMOGEN", "playerline": "And that was all?" },
+  { "player": "PISANIO", "playerline": "No, madam. For so long" },
+  {
+    "player": "PISANIO",
+    "playerline": "As he could make me with this eye or ear"
+  },
+  {
+    "player": "PISANIO",
+    "playerline": "Distinguish him from others, he did keep"
+  },
+  {
+    "player": "PISANIO",
+    "playerline": "The deck, with glove or hat or handkerchief"
+  },
+  {
+    "player": "PISANIO",
+    "playerline": "Still waving, as the fits and stirs of 's mind"
+  },
+  {
+    "player": "PISANIO",
+    "playerline": "Could best express how slow his soul sailed on,"
+  },
+  { "player": "PISANIO", "playerline": "How swift his ship." },
+  { "player": "IMOGEN", "playerline": "Thou shouldst have made him" },
+  {
+    "player": "IMOGEN",
+    "playerline": "As little as a crow, or less, ere left"
+  },
+  { "player": "IMOGEN", "playerline": "To after-eye him." },
+  { "player": "PISANIO", "playerline": "Madam, so I did." },
+  {
+    "player": "IMOGEN",
+    "playerline": "I would have broke mine eyestrings, cracked them, but"
+  },
+  { "player": "IMOGEN", "playerline": "To look upon him till the diminution" },
+  {
+    "player": "IMOGEN",
+    "playerline": "Of space had pointed him sharp as my needle;"
+  },
+  {
+    "player": "IMOGEN",
+    "playerline": "Nay, followed him till he had melted from"
+  },
+  {
+    "player": "IMOGEN",
+    "playerline": "The smallness of a gnat to air; and then"
+  },
+  {
+    "player": "IMOGEN",
+    "playerline": "Have turned mine eye and wept. But, good Pisanio,"
+  },
+  { "player": "IMOGEN", "playerline": "When shall we hear from him?" },
+  { "player": "PISANIO", "playerline": "Be assured, madam," },
+  { "player": "PISANIO", "playerline": "With his next vantage." },
+  {
+    "player": "IMOGEN",
+    "playerline": "I did not take my leave of him, but had"
+  },
+  {
+    "player": "IMOGEN",
+    "playerline": "Most pretty things to say. Ere I could tell him"
+  },
+  {
+    "player": "IMOGEN",
+    "playerline": "How I would think on him at certain hours"
+  },
+  {
+    "player": "IMOGEN",
+    "playerline": "Such thoughts and such; or I could make him swear"
+  },
+  { "player": "IMOGEN", "playerline": "The shes of Italy should not betray" },
+  {
+    "player": "IMOGEN",
+    "playerline": "Mine interest and his honor; or have charged him"
+  },
+  {
+    "player": "IMOGEN",
+    "playerline": "At the sixth hour of morn, at noon, at midnight"
+  },
+  {
+    "player": "IMOGEN",
+    "playerline": "T' encounter me with orisons, for then"
+  },
+  {
+    "player": "IMOGEN",
+    "playerline": "I am in heaven for him; or ere I could"
+  },
+  {
+    "player": "IMOGEN",
+    "playerline": "Give him that parting kiss which I had set"
+  },
+  {
+    "player": "IMOGEN",
+    "playerline": "Betwixt two charming words, comes in my father,"
+  },
+  {
+    "player": "IMOGEN",
+    "playerline": "And like the tyrannous breathing of the north"
+  },
+  { "player": "IMOGEN", "playerline": "Shakes all our buds from growing." },
+  { "player": "DIRECTION", "playerline": "[Enter a Lady.]" },
+  { "player": "LADY", "playerline": "The Queen, madam," },
+  { "player": "LADY", "playerline": "Desires your Highness' company." },
+  {
+    "player": "IMOGEN",
+    "playerline": "Those things I bid you do, get them dispatched."
+  },
+  { "player": "IMOGEN", "playerline": "I will attend the Queen." },
+  { "player": "PISANIO", "playerline": "Madam, I shall." },
+  { "player": "DIRECTION", "playerline": "[They exit.]" }
+]

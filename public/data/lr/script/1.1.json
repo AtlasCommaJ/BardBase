@@ -1,0 +1,1014 @@
+[
+  { "player": "ACT", "playerline": "ACT I" },
+  {
+    "player": "DIRECTION",
+    "playerline": "[Enter Kent, Gloucester, and Edmund.]"
+  },
+  {
+    "player": "KENT",
+    "playerline": "I thought the King had more affected the Duke"
+  },
+  { "player": "KENT", "playerline": "of Albany than Cornwall." },
+  {
+    "player": "GLOUCESTER",
+    "playerline": "It did always seem so to us, but now in"
+  },
+  {
+    "player": "GLOUCESTER",
+    "playerline": "the division of the kingdom, it appears not which"
+  },
+  {
+    "player": "GLOUCESTER",
+    "playerline": "of the dukes he values most, for equalities are so"
+  },
+  {
+    "player": "GLOUCESTER",
+    "playerline": "weighed that curiosity in neither can make choice"
+  },
+  { "player": "GLOUCESTER", "playerline": "of either's moiety." },
+  { "player": "KENT", "playerline": "Is not this your son, my lord?" },
+  {
+    "player": "GLOUCESTER",
+    "playerline": "His breeding, sir, hath been at my"
+  },
+  {
+    "player": "GLOUCESTER",
+    "playerline": "charge. I have so often blushed to acknowledge"
+  },
+  { "player": "GLOUCESTER", "playerline": "him that now I am brazed to 't." },
+  { "player": "KENT", "playerline": "I cannot conceive you." },
+  {
+    "player": "GLOUCESTER",
+    "playerline": "Sir, this young fellow's mother could,"
+  },
+  {
+    "player": "GLOUCESTER",
+    "playerline": "whereupon she grew round-wombed and had indeed,"
+  },
+  {
+    "player": "GLOUCESTER",
+    "playerline": "sir, a son for her cradle ere she had a husband"
+  },
+  {
+    "player": "GLOUCESTER",
+    "playerline": "for her bed. Do you smell a fault?"
+  },
+  {
+    "player": "KENT",
+    "playerline": "I cannot wish the fault undone, the issue of it"
+  },
+  { "player": "KENT", "playerline": "being so proper." },
+  {
+    "player": "GLOUCESTER",
+    "playerline": "But I have a son, sir, by order of law,"
+  },
+  {
+    "player": "GLOUCESTER",
+    "playerline": "some year elder than this, who yet is no dearer in"
+  },
+  {
+    "player": "GLOUCESTER",
+    "playerline": "my account. Though this knave came something"
+  },
+  {
+    "player": "GLOUCESTER",
+    "playerline": "saucily to the world before he was sent for, yet was"
+  },
+  {
+    "player": "GLOUCESTER",
+    "playerline": "his mother fair, there was good sport at his making,"
+  },
+  {
+    "player": "GLOUCESTER",
+    "playerline": "and the whoreson must be acknowledged.--Do you"
+  },
+  {
+    "player": "GLOUCESTER",
+    "playerline": "know this noble gentleman, Edmund?"
+  },
+  { "player": "EDMUND", "playerline": "No, my lord." },
+  {
+    "player": "GLOUCESTER",
+    "playerline": "My lord of Kent. Remember him hereafter"
+  },
+  { "player": "GLOUCESTER", "playerline": "as my honorable friend." },
+  { "player": "EDMUND", "playerline": "My services to your Lordship." },
+  {
+    "player": "KENT",
+    "playerline": "I must love you and sue to know you better."
+  },
+  { "player": "EDMUND", "playerline": "Sir, I shall study deserving." },
+  {
+    "player": "GLOUCESTER",
+    "playerline": "He hath been out nine years, and away he"
+  },
+  {
+    "player": "GLOUCESTER",
+    "playerline": "shall again. [(Sennet.)] The King is coming."
+  },
+  {
+    "player": "DIRECTION",
+    "playerline": "[Enter King Lear, Cornwall, Albany, Goneril, Regan,"
+  },
+  { "player": "DIRECTION", "playerline": "Cordelia, and Attendants.]" },
+  {
+    "player": "LEAR",
+    "playerline": "Attend the lords of France and Burgundy, Gloucester."
+  },
+  { "player": "GLOUCESTER", "playerline": "I shall, my lord." },
+  { "player": "DIRECTION", "playerline": "[He exits.]" },
+  {
+    "player": "LEAR",
+    "playerline": "Meantime we shall express our darker purpose.--"
+  },
+  { "player": "LEAR", "playerline": "Give me the map there." },
+  { "player": "DIRECTION", "playerline": "[He is handed a map.]" },
+  { "player": "LEAR", "playerline": "Know that we have divided" },
+  {
+    "player": "LEAR",
+    "playerline": "In three our kingdom, and 'tis our fast intent"
+  },
+  {
+    "player": "LEAR",
+    "playerline": "To shake all cares and business from our age,"
+  },
+  {
+    "player": "LEAR",
+    "playerline": "Conferring them on younger strengths, while we"
+  },
+  {
+    "player": "LEAR",
+    "playerline": "Unburdened crawl toward death. Our son of Cornwall"
+  },
+  {
+    "player": "LEAR",
+    "playerline": "And you, our no less loving son of Albany,"
+  },
+  {
+    "player": "LEAR",
+    "playerline": "We have this hour a constant will to publish"
+  },
+  {
+    "player": "LEAR",
+    "playerline": "Our daughters' several dowers, that future strife"
+  },
+  { "player": "LEAR", "playerline": "May be prevented now." },
+  {
+    "player": "LEAR",
+    "playerline": "The two great princes, France and Burgundy,"
+  },
+  {
+    "player": "LEAR",
+    "playerline": "Great rivals in our youngest daughter's love,"
+  },
+  {
+    "player": "LEAR",
+    "playerline": "Long in our court have made their amorous sojourn"
+  },
+  {
+    "player": "LEAR",
+    "playerline": "And here are to be answered. Tell me, my daughters--"
+  },
+  {
+    "player": "LEAR",
+    "playerline": "Since now we will divest us both of rule,"
+  },
+  { "player": "LEAR", "playerline": "Interest of territory, cares of state--" },
+  {
+    "player": "LEAR",
+    "playerline": "Which of you shall we say doth love us most,"
+  },
+  { "player": "LEAR", "playerline": "That we our largest bounty may extend" },
+  {
+    "player": "LEAR",
+    "playerline": "Where nature doth with merit challenge. Goneril,"
+  },
+  { "player": "LEAR", "playerline": "Our eldest born, speak first." },
+  {
+    "player": "GONERIL",
+    "playerline": "Sir, I love you more than word can wield the matter,"
+  },
+  {
+    "player": "GONERIL",
+    "playerline": "Dearer than eyesight, space, and liberty,"
+  },
+  {
+    "player": "GONERIL",
+    "playerline": "Beyond what can be valued, rich or rare,"
+  },
+  {
+    "player": "GONERIL",
+    "playerline": "No less than life, with grace, health, beauty, honor;"
+  },
+  {
+    "player": "GONERIL",
+    "playerline": "As much as child e'er loved, or father found;"
+  },
+  {
+    "player": "GONERIL",
+    "playerline": "A love that makes breath poor, and speech unable."
+  },
+  {
+    "player": "GONERIL",
+    "playerline": "Beyond all manner of so much I love you."
+  },
+  {
+    "player": "CORDELIA",
+    "playerline": "What shall Cordelia speak? Love, and be silent."
+  },
+  {
+    "player": "LEAR",
+    "playerline": "Of all these bounds, even from this line to this,"
+  },
+  {
+    "player": "LEAR",
+    "playerline": "With shadowy forests and with champains riched,"
+  },
+  {
+    "player": "LEAR",
+    "playerline": "With plenteous rivers and wide-skirted meads,"
+  },
+  {
+    "player": "LEAR",
+    "playerline": "We make thee lady. To thine and Albany's issue"
+  },
+  {
+    "player": "LEAR",
+    "playerline": "Be this perpetual.--What says our second daughter,"
+  },
+  {
+    "player": "LEAR",
+    "playerline": "Our dearest Regan, wife of Cornwall? Speak."
+  },
+  {
+    "player": "REGAN",
+    "playerline": "I am made of that self mettle as my sister"
+  },
+  {
+    "player": "REGAN",
+    "playerline": "And prize me at her worth. In my true heart"
+  },
+  { "player": "REGAN", "playerline": "I find she names my very deed of love;" },
+  {
+    "player": "REGAN",
+    "playerline": "Only she comes too short, that I profess"
+  },
+  { "player": "REGAN", "playerline": "Myself an enemy to all other joys" },
+  {
+    "player": "REGAN",
+    "playerline": "Which the most precious square of sense possesses,"
+  },
+  { "player": "REGAN", "playerline": "And find I am alone felicitate" },
+  { "player": "REGAN", "playerline": "In your dear Highness' love." },
+  { "player": "CORDELIA", "playerline": "Then poor Cordelia!" },
+  {
+    "player": "CORDELIA",
+    "playerline": "And yet not so, since I am sure my love's"
+  },
+  { "player": "CORDELIA", "playerline": "More ponderous than my tongue." },
+  { "player": "LEAR", "playerline": "To thee and thine hereditary ever" },
+  {
+    "player": "LEAR",
+    "playerline": "Remain this ample third of our fair kingdom,"
+  },
+  {
+    "player": "LEAR",
+    "playerline": "No less in space, validity, and pleasure"
+  },
+  {
+    "player": "LEAR",
+    "playerline": "Than that conferred on Goneril.--Now, our joy,"
+  },
+  {
+    "player": "LEAR",
+    "playerline": "Although our last and least, to whose young love"
+  },
+  {
+    "player": "LEAR",
+    "playerline": "The vines of France and milk of Burgundy"
+  },
+  {
+    "player": "LEAR",
+    "playerline": "Strive to be interessed, what can you say to draw"
+  },
+  {
+    "player": "LEAR",
+    "playerline": "A third more opulent than your sisters'? Speak."
+  },
+  { "player": "CORDELIA", "playerline": "Nothing, my lord." },
+  { "player": "LEAR", "playerline": "Nothing?" },
+  { "player": "CORDELIA", "playerline": "Nothing." },
+  {
+    "player": "LEAR",
+    "playerline": "Nothing will come of nothing. Speak again."
+  },
+  { "player": "CORDELIA", "playerline": "Unhappy that I am, I cannot heave" },
+  {
+    "player": "CORDELIA",
+    "playerline": "My heart into my mouth. I love your Majesty"
+  },
+  {
+    "player": "CORDELIA",
+    "playerline": "According to my bond, no more nor less."
+  },
+  {
+    "player": "LEAR",
+    "playerline": "How, how, Cordelia? Mend your speech a little,"
+  },
+  { "player": "LEAR", "playerline": "Lest you may mar your fortunes." },
+  { "player": "CORDELIA", "playerline": "Good my lord," },
+  {
+    "player": "CORDELIA",
+    "playerline": "You have begot me, bred me, loved me."
+  },
+  {
+    "player": "CORDELIA",
+    "playerline": "I return those duties back as are right fit:"
+  },
+  {
+    "player": "CORDELIA",
+    "playerline": "Obey you, love you, and most honor you."
+  },
+  {
+    "player": "CORDELIA",
+    "playerline": "Why have my sisters husbands if they say"
+  },
+  {
+    "player": "CORDELIA",
+    "playerline": "They love you all? Haply, when I shall wed,"
+  },
+  {
+    "player": "CORDELIA",
+    "playerline": "That lord whose hand must take my plight shall carry"
+  },
+  {
+    "player": "CORDELIA",
+    "playerline": "Half my love with him, half my care and duty."
+  },
+  {
+    "player": "CORDELIA",
+    "playerline": "Sure I shall never marry like my sisters,"
+  },
+  { "player": "CORDELIA", "playerline": "To love my father all." },
+  { "player": "LEAR", "playerline": "But goes thy heart with this?" },
+  { "player": "CORDELIA", "playerline": "Ay, my good lord." },
+  { "player": "LEAR", "playerline": "So young and so untender?" },
+  { "player": "CORDELIA", "playerline": "So young, my lord, and true." },
+  {
+    "player": "LEAR",
+    "playerline": "Let it be so. Thy truth, then, be thy dower,"
+  },
+  { "player": "LEAR", "playerline": "For by the sacred radiance of the sun," },
+  { "player": "LEAR", "playerline": "The mysteries of Hecate and the night," },
+  { "player": "LEAR", "playerline": "By all the operation of the orbs" },
+  { "player": "LEAR", "playerline": "From whom we do exist and cease to be," },
+  { "player": "LEAR", "playerline": "Here I disclaim all my paternal care," },
+  { "player": "LEAR", "playerline": "Propinquity, and property of blood," },
+  { "player": "LEAR", "playerline": "And as a stranger to my heart and me" },
+  {
+    "player": "LEAR",
+    "playerline": "Hold thee from this forever. The barbarous Scythian,"
+  },
+  { "player": "LEAR", "playerline": "Or he that makes his generation messes" },
+  {
+    "player": "LEAR",
+    "playerline": "To gorge his appetite, shall to my bosom"
+  },
+  {
+    "player": "LEAR",
+    "playerline": "Be as well neighbored, pitied, and relieved"
+  },
+  { "player": "LEAR", "playerline": "As thou my sometime daughter." },
+  { "player": "KENT", "playerline": "Good my liege--" },
+  { "player": "LEAR", "playerline": "Peace, Kent." },
+  {
+    "player": "LEAR",
+    "playerline": "Come not between the dragon and his wrath."
+  },
+  {
+    "player": "LEAR",
+    "playerline": "I loved her most and thought to set my rest"
+  },
+  {
+    "player": "LEAR",
+    "playerline": "On her kind nursery. [To Cordelia.] Hence and avoid"
+  },
+  { "player": "LEAR", "playerline": "my sight!--" },
+  { "player": "LEAR", "playerline": "So be my grave my peace as here I give" },
+  {
+    "player": "LEAR",
+    "playerline": "Her father's heart from her.--Call France. Who stirs?"
+  },
+  {
+    "player": "LEAR",
+    "playerline": "Call Burgundy. [An Attendant exits.] Cornwall and Albany,"
+  },
+  {
+    "player": "LEAR",
+    "playerline": "With my two daughters' dowers digest the third."
+  },
+  {
+    "player": "LEAR",
+    "playerline": "Let pride, which she calls plainness, marry her."
+  },
+  { "player": "LEAR", "playerline": "I do invest you jointly with my power," },
+  { "player": "LEAR", "playerline": "Preeminence, and all the large effects" },
+  {
+    "player": "LEAR",
+    "playerline": "That troop with majesty. Ourself by monthly course,"
+  },
+  { "player": "LEAR", "playerline": "With reservation of an hundred knights" },
+  { "player": "LEAR", "playerline": "By you to be sustained, shall our abode" },
+  {
+    "player": "LEAR",
+    "playerline": "Make with you by due turn. Only we shall retain"
+  },
+  {
+    "player": "LEAR",
+    "playerline": "The name and all th' addition to a king."
+  },
+  {
+    "player": "LEAR",
+    "playerline": "The sway, revenue, execution of the rest,"
+  },
+  {
+    "player": "LEAR",
+    "playerline": "Beloved sons, be yours, which to confirm,"
+  },
+  { "player": "LEAR", "playerline": "This coronet part between you." },
+  { "player": "KENT", "playerline": "Royal Lear," },
+  { "player": "KENT", "playerline": "Whom I have ever honored as my king," },
+  {
+    "player": "KENT",
+    "playerline": "Loved as my father, as my master followed,"
+  },
+  {
+    "player": "KENT",
+    "playerline": "As my great patron thought on in my prayers--"
+  },
+  {
+    "player": "LEAR",
+    "playerline": "The bow is bent and drawn. Make from the shaft."
+  },
+  {
+    "player": "KENT",
+    "playerline": "Let it fall rather, though the fork invade"
+  },
+  {
+    "player": "KENT",
+    "playerline": "The region of my heart. Be Kent unmannerly"
+  },
+  {
+    "player": "KENT",
+    "playerline": "When Lear is mad. What wouldst thou do, old man?"
+  },
+  {
+    "player": "KENT",
+    "playerline": "Think'st thou that duty shall have dread to speak"
+  },
+  {
+    "player": "KENT",
+    "playerline": "When power to flattery bows? To plainness honor's bound"
+  },
+  {
+    "player": "KENT",
+    "playerline": "When majesty falls to folly. Reserve thy state,"
+  },
+  { "player": "KENT", "playerline": "And in thy best consideration check" },
+  {
+    "player": "KENT",
+    "playerline": "This hideous rashness. Answer my life my judgment,"
+  },
+  {
+    "player": "KENT",
+    "playerline": "Thy youngest daughter does not love thee least,"
+  },
+  {
+    "player": "KENT",
+    "playerline": "Nor are those empty-hearted whose low sounds"
+  },
+  { "player": "KENT", "playerline": "Reverb no hollowness." },
+  { "player": "LEAR", "playerline": "Kent, on thy life, no more." },
+  { "player": "KENT", "playerline": "My life I never held but as a pawn" },
+  {
+    "player": "KENT",
+    "playerline": "To wage against thine enemies, nor fear to lose it,"
+  },
+  { "player": "KENT", "playerline": "Thy safety being motive." },
+  { "player": "LEAR", "playerline": "Out of my sight!" },
+  {
+    "player": "KENT",
+    "playerline": "See better, Lear, and let me still remain"
+  },
+  { "player": "KENT", "playerline": "The true blank of thine eye." },
+  { "player": "LEAR", "playerline": "Now, by Apollo--" },
+  { "player": "KENT", "playerline": "Now, by Apollo, king," },
+  { "player": "KENT", "playerline": "Thou swear'st thy gods in vain." },
+  { "player": "LEAR", "playerline": "O vassal! Miscreant!" },
+  { "player": "ALBANY/CORNWALL", "playerline": "Dear sir, forbear." },
+  { "player": "KENT", "playerline": "Kill thy physician, and thy fee bestow" },
+  { "player": "KENT", "playerline": "Upon the foul disease. Revoke thy gift," },
+  {
+    "player": "KENT",
+    "playerline": "Or whilst I can vent clamor from my throat,"
+  },
+  { "player": "KENT", "playerline": "I'll tell thee thou dost evil." },
+  {
+    "player": "LEAR",
+    "playerline": "Hear me, recreant; on thine allegiance, hear me!"
+  },
+  {
+    "player": "LEAR",
+    "playerline": "That thou hast sought to make us break our vows--"
+  },
+  {
+    "player": "LEAR",
+    "playerline": "Which we durst never yet--and with strained pride"
+  },
+  {
+    "player": "LEAR",
+    "playerline": "To come betwixt our sentence and our power,"
+  },
+  {
+    "player": "LEAR",
+    "playerline": "Which nor our nature nor our place can bear,"
+  },
+  { "player": "LEAR", "playerline": "Our potency made good, take thy reward:" },
+  {
+    "player": "LEAR",
+    "playerline": "Five days we do allot thee for provision"
+  },
+  {
+    "player": "LEAR",
+    "playerline": "To shield thee from disasters of the world,"
+  },
+  { "player": "LEAR", "playerline": "And on the sixth to turn thy hated back" },
+  {
+    "player": "LEAR",
+    "playerline": "Upon our kingdom. If on the tenth day following"
+  },
+  {
+    "player": "LEAR",
+    "playerline": "Thy banished trunk be found in our dominions,"
+  },
+  {
+    "player": "LEAR",
+    "playerline": "The moment is thy death. Away! By Jupiter,"
+  },
+  { "player": "LEAR", "playerline": "This shall not be revoked." },
+  {
+    "player": "KENT",
+    "playerline": "Fare thee well, king. Sith thus thou wilt appear,"
+  },
+  {
+    "player": "KENT",
+    "playerline": "Freedom lives hence, and banishment is here."
+  },
+  {
+    "player": "KENT",
+    "playerline": "[To Cordelia.] The gods to their dear shelter take"
+  },
+  { "player": "KENT", "playerline": "thee, maid," },
+  {
+    "player": "KENT",
+    "playerline": "That justly think'st and hast most rightly said."
+  },
+  {
+    "player": "KENT",
+    "playerline": "[To Goneril and Regan.] And your large speeches"
+  },
+  { "player": "KENT", "playerline": "may your deeds approve," },
+  {
+    "player": "KENT",
+    "playerline": "That good effects may spring from words of love.--"
+  },
+  {
+    "player": "KENT",
+    "playerline": "Thus Kent, O princes, bids you all adieu."
+  },
+  {
+    "player": "KENT",
+    "playerline": "He'll shape his old course in a country new."
+  },
+  { "player": "DIRECTION", "playerline": "[He exits.]" },
+  {
+    "player": "DIRECTION",
+    "playerline": "[Flourish. Enter Gloucester with France, and Burgundy,"
+  },
+  { "player": "DIRECTION", "playerline": "and Attendants.]" },
+  {
+    "player": "GLOUCESTER",
+    "playerline": "Here's France and Burgundy, my noble lord."
+  },
+  { "player": "LEAR", "playerline": "My lord of Burgundy," },
+  {
+    "player": "LEAR",
+    "playerline": "We first address toward you, who with this king"
+  },
+  {
+    "player": "LEAR",
+    "playerline": "Hath rivaled for our daughter. What in the least"
+  },
+  {
+    "player": "LEAR",
+    "playerline": "Will you require in present dower with her,"
+  },
+  { "player": "LEAR", "playerline": "Or cease your quest of love?" },
+  { "player": "BURGUNDY", "playerline": "Most royal Majesty," },
+  {
+    "player": "BURGUNDY",
+    "playerline": "I crave no more than hath your Highness offered,"
+  },
+  { "player": "BURGUNDY", "playerline": "Nor will you tender less." },
+  { "player": "LEAR", "playerline": "Right noble Burgundy," },
+  {
+    "player": "LEAR",
+    "playerline": "When she was dear to us, we did hold her so,"
+  },
+  {
+    "player": "LEAR",
+    "playerline": "But now her price is fallen. Sir, there she stands."
+  },
+  {
+    "player": "LEAR",
+    "playerline": "If aught within that little seeming substance,"
+  },
+  {
+    "player": "LEAR",
+    "playerline": "Or all of it, with our displeasure pieced"
+  },
+  {
+    "player": "LEAR",
+    "playerline": "And nothing more, may fitly like your Grace,"
+  },
+  { "player": "LEAR", "playerline": "She's there, and she is yours." },
+  { "player": "BURGUNDY", "playerline": "I know no answer." },
+  {
+    "player": "LEAR",
+    "playerline": "Will you, with those infirmities she owes,"
+  },
+  { "player": "LEAR", "playerline": "Unfriended, new-adopted to our hate," },
+  {
+    "player": "LEAR",
+    "playerline": "Dowered with our curse and strangered with our oath,"
+  },
+  { "player": "LEAR", "playerline": "Take her or leave her?" },
+  { "player": "BURGUNDY", "playerline": "Pardon me, royal sir," },
+  {
+    "player": "BURGUNDY",
+    "playerline": "Election makes not up in such conditions."
+  },
+  {
+    "player": "LEAR",
+    "playerline": "Then leave her, sir, for by the power that made me"
+  },
+  {
+    "player": "LEAR",
+    "playerline": "I tell you all her wealth.--For you, great king,"
+  },
+  {
+    "player": "LEAR",
+    "playerline": "I would not from your love make such a stray"
+  },
+  {
+    "player": "LEAR",
+    "playerline": "To match you where I hate. Therefore beseech you"
+  },
+  {
+    "player": "LEAR",
+    "playerline": "T' avert your liking a more worthier way"
+  },
+  { "player": "LEAR", "playerline": "Than on a wretch whom Nature is ashamed" },
+  { "player": "LEAR", "playerline": "Almost t' acknowledge hers." },
+  { "player": "FRANCE", "playerline": "This is most strange," },
+  {
+    "player": "FRANCE",
+    "playerline": "That she whom even but now was your best object,"
+  },
+  {
+    "player": "FRANCE",
+    "playerline": "The argument of your praise, balm of your age,"
+  },
+  {
+    "player": "FRANCE",
+    "playerline": "The best, the dearest, should in this trice of time"
+  },
+  {
+    "player": "FRANCE",
+    "playerline": "Commit a thing so monstrous to dismantle"
+  },
+  {
+    "player": "FRANCE",
+    "playerline": "So many folds of favor. Sure her offense"
+  },
+  { "player": "FRANCE", "playerline": "Must be of such unnatural degree" },
+  {
+    "player": "FRANCE",
+    "playerline": "That monsters it, or your forevouched affection"
+  },
+  {
+    "player": "FRANCE",
+    "playerline": "Fall into taint; which to believe of her"
+  },
+  {
+    "player": "FRANCE",
+    "playerline": "Must be a faith that reason without miracle"
+  },
+  { "player": "FRANCE", "playerline": "Should never plant in me." },
+  { "player": "CORDELIA", "playerline": "I yet beseech your Majesty--" },
+  {
+    "player": "CORDELIA",
+    "playerline": "If for I want that glib and oily art"
+  },
+  {
+    "player": "CORDELIA",
+    "playerline": "To speak and purpose not, since what I well intend"
+  },
+  {
+    "player": "CORDELIA",
+    "playerline": "I'll do 't before I speak--that you make known"
+  },
+  {
+    "player": "CORDELIA",
+    "playerline": "It is no vicious blot, murder, or foulness,"
+  },
+  {
+    "player": "CORDELIA",
+    "playerline": "No unchaste action or dishonored step"
+  },
+  {
+    "player": "CORDELIA",
+    "playerline": "That hath deprived me of your grace and favor,"
+  },
+  {
+    "player": "CORDELIA",
+    "playerline": "But even for want of that for which I am richer:"
+  },
+  {
+    "player": "CORDELIA",
+    "playerline": "A still-soliciting eye and such a tongue"
+  },
+  {
+    "player": "CORDELIA",
+    "playerline": "That I am glad I have not, though not to have it"
+  },
+  { "player": "CORDELIA", "playerline": "Hath lost me in your liking." },
+  { "player": "LEAR", "playerline": "Better thou" },
+  {
+    "player": "LEAR",
+    "playerline": "Hadst not been born than not t' have pleased me better."
+  },
+  { "player": "FRANCE", "playerline": "Is it but this--a tardiness in nature" },
+  {
+    "player": "FRANCE",
+    "playerline": "Which often leaves the history unspoke"
+  },
+  {
+    "player": "FRANCE",
+    "playerline": "That it intends to do?--My lord of Burgundy,"
+  },
+  {
+    "player": "FRANCE",
+    "playerline": "What say you to the lady? Love's not love"
+  },
+  {
+    "player": "FRANCE",
+    "playerline": "When it is mingled with regards that stands"
+  },
+  {
+    "player": "FRANCE",
+    "playerline": "Aloof from th' entire point. Will you have her?"
+  },
+  { "player": "FRANCE", "playerline": "She is herself a dowry." },
+  { "player": "BURGUNDY", "playerline": "Royal king," },
+  {
+    "player": "BURGUNDY",
+    "playerline": "Give but that portion which yourself proposed,"
+  },
+  {
+    "player": "BURGUNDY",
+    "playerline": "And here I take Cordelia by the hand,"
+  },
+  { "player": "BURGUNDY", "playerline": "Duchess of Burgundy." },
+  { "player": "LEAR", "playerline": "Nothing. I have sworn. I am firm." },
+  {
+    "player": "BURGUNDY",
+    "playerline": "I am sorry, then, you have so lost a father"
+  },
+  { "player": "BURGUNDY", "playerline": "That you must lose a husband." },
+  { "player": "CORDELIA", "playerline": "Peace be with Burgundy." },
+  {
+    "player": "CORDELIA",
+    "playerline": "Since that respect and fortunes are his love,"
+  },
+  { "player": "CORDELIA", "playerline": "I shall not be his wife." },
+  {
+    "player": "FRANCE",
+    "playerline": "Fairest Cordelia, that art most rich being poor;"
+  },
+  {
+    "player": "FRANCE",
+    "playerline": "Most choice, forsaken; and most loved, despised,"
+  },
+  {
+    "player": "FRANCE",
+    "playerline": "Thee and thy virtues here I seize upon,"
+  },
+  {
+    "player": "FRANCE",
+    "playerline": "Be it lawful I take up what's cast away."
+  },
+  {
+    "player": "FRANCE",
+    "playerline": "Gods, gods! 'Tis strange that from their cold'st neglect"
+  },
+  {
+    "player": "FRANCE",
+    "playerline": "My love should kindle to enflamed respect.--"
+  },
+  {
+    "player": "FRANCE",
+    "playerline": "Thy dowerless daughter, king, thrown to my chance,"
+  },
+  {
+    "player": "FRANCE",
+    "playerline": "Is queen of us, of ours, and our fair France."
+  },
+  {
+    "player": "FRANCE",
+    "playerline": "Not all the dukes of wat'rish Burgundy"
+  },
+  {
+    "player": "FRANCE",
+    "playerline": "Can buy this unprized precious maid of me.--"
+  },
+  {
+    "player": "FRANCE",
+    "playerline": "Bid them farewell, Cordelia, though unkind."
+  },
+  {
+    "player": "FRANCE",
+    "playerline": "Thou losest here a better where to find."
+  },
+  {
+    "player": "LEAR",
+    "playerline": "Thou hast her, France. Let her be thine, for we"
+  },
+  {
+    "player": "LEAR",
+    "playerline": "Have no such daughter, nor shall ever see"
+  },
+  {
+    "player": "LEAR",
+    "playerline": "That face of hers again. [To Cordelia.] Therefore begone"
+  },
+  {
+    "player": "LEAR",
+    "playerline": "Without our grace, our love, our benison.--"
+  },
+  { "player": "LEAR", "playerline": "Come, noble Burgundy." },
+  {
+    "player": "DIRECTION",
+    "playerline": "[Flourish. All but France, Cordelia,"
+  },
+  { "player": "DIRECTION", "playerline": "Goneril, and Regan exit.]" },
+  { "player": "FRANCE", "playerline": "Bid farewell to your sisters." },
+  {
+    "player": "CORDELIA",
+    "playerline": "The jewels of our father, with washed eyes"
+  },
+  {
+    "player": "CORDELIA",
+    "playerline": "Cordelia leaves you. I know you what you are,"
+  },
+  {
+    "player": "CORDELIA",
+    "playerline": "And like a sister am most loath to call"
+  },
+  {
+    "player": "CORDELIA",
+    "playerline": "Your faults as they are named. Love well our father."
+  },
+  {
+    "player": "CORDELIA",
+    "playerline": "To your professed bosoms I commit him;"
+  },
+  {
+    "player": "CORDELIA",
+    "playerline": "But yet, alas, stood I within his grace,"
+  },
+  {
+    "player": "CORDELIA",
+    "playerline": "I would prefer him to a better place."
+  },
+  { "player": "CORDELIA", "playerline": "So farewell to you both." },
+  { "player": "REGAN", "playerline": "Prescribe not us our duty." },
+  { "player": "GONERIL", "playerline": "Let your study" },
+  {
+    "player": "GONERIL",
+    "playerline": "Be to content your lord, who hath received you"
+  },
+  {
+    "player": "GONERIL",
+    "playerline": "At Fortune's alms. You have obedience scanted"
+  },
+  {
+    "player": "GONERIL",
+    "playerline": "And well are worth the want that you have wanted."
+  },
+  {
+    "player": "CORDELIA",
+    "playerline": "Time shall unfold what plighted cunning hides,"
+  },
+  {
+    "player": "CORDELIA",
+    "playerline": "Who covers faults at last with shame derides."
+  },
+  { "player": "CORDELIA", "playerline": "Well may you prosper." },
+  { "player": "FRANCE", "playerline": "Come, my fair Cordelia." },
+  { "player": "DIRECTION", "playerline": "[France and Cordelia exit.]" },
+  {
+    "player": "GONERIL",
+    "playerline": "Sister, it is not little I have to say of what"
+  },
+  {
+    "player": "GONERIL",
+    "playerline": "most nearly appertains to us both. I think our"
+  },
+  { "player": "GONERIL", "playerline": "father will hence tonight." },
+  {
+    "player": "REGAN",
+    "playerline": "That's most certain, and with you; next month"
+  },
+  { "player": "REGAN", "playerline": "with us." },
+  {
+    "player": "GONERIL",
+    "playerline": "You see how full of changes his age is; the"
+  },
+  {
+    "player": "GONERIL",
+    "playerline": "observation we have made of it hath not been"
+  },
+  {
+    "player": "GONERIL",
+    "playerline": "little. He always loved our sister most, and with"
+  },
+  {
+    "player": "GONERIL",
+    "playerline": "what poor judgment he hath now cast her off"
+  },
+  { "player": "GONERIL", "playerline": "appears too grossly." },
+  {
+    "player": "REGAN",
+    "playerline": "'Tis the infirmity of his age. Yet he hath ever"
+  },
+  { "player": "REGAN", "playerline": "but slenderly known himself." },
+  {
+    "player": "GONERIL",
+    "playerline": "The best and soundest of his time hath been"
+  },
+  {
+    "player": "GONERIL",
+    "playerline": "but rash. Then must we look from his age to"
+  },
+  {
+    "player": "GONERIL",
+    "playerline": "receive not alone the imperfections of long-engraffed"
+  },
+  {
+    "player": "GONERIL",
+    "playerline": "condition, but therewithal the unruly waywardness"
+  },
+  {
+    "player": "GONERIL",
+    "playerline": "that infirm and choleric years bring with them."
+  },
+  {
+    "player": "REGAN",
+    "playerline": "Such unconstant starts are we like to have"
+  },
+  { "player": "REGAN", "playerline": "from him as this of Kent's banishment." },
+  {
+    "player": "GONERIL",
+    "playerline": "There is further compliment of leave-taking"
+  },
+  {
+    "player": "GONERIL",
+    "playerline": "between France and him. Pray you, let us sit"
+  },
+  {
+    "player": "GONERIL",
+    "playerline": "together. If our father carry authority with such"
+  },
+  {
+    "player": "GONERIL",
+    "playerline": "disposition as he bears, this last surrender of his will"
+  },
+  { "player": "GONERIL", "playerline": "but offend us." },
+  { "player": "REGAN", "playerline": "We shall further think of it." },
+  {
+    "player": "GONERIL",
+    "playerline": "We must do something, and i' th' heat."
+  },
+  { "player": "DIRECTION", "playerline": "[They exit.]" }
+]

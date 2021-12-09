@@ -1,0 +1,230 @@
+[
+  {
+    "play": "King John",
+    "abbreviation": "jn",
+    "genrecode": 0,
+    "id": 0
+  },
+  {
+    "play": "Titus Andronicus",
+    "abbreviation": "tit",
+    "genrecode": 1,
+    "id": 0
+  },
+  {
+    "play": "The Comedy of Errors",
+    "abbreviation": "err",
+    "genrecode": 2,
+    "id": 0
+  },
+  {
+    "play": "Pericles",
+    "abbreviation": "per",
+    "genrecode": 3,
+    "id": 0
+  },
+  {
+    "play": "Romeo and Juliet",
+    "abbreviation": "rom",
+    "genrecode": 1,
+    "id": 1
+  },
+  {
+    "play": "Taming of the Shrew",
+    "abbreviation": "shr",
+    "genrecode": 2,
+    "id": 1
+  },
+  {
+    "play": "Richard II",
+    "abbreviation": "r2",
+    "genrecode": 0,
+    "id": 1
+  },
+  {
+    "play": "Cymbeline",
+    "abbreviation": "cym",
+    "genrecode": 3,
+    "id": 1
+  },
+  {
+    "play": "Henry IV Part 1",
+    "abbreviation": "h41",
+    "genrecode": 0,
+    "id": 2
+  },
+  {
+    "play": "Two Gentlemen of Verona",
+    "abbreviation": "tgv",
+    "genrecode": 2,
+    "id": 2
+  },
+  {
+    "play": "The Winter's Tale",
+    "abbreviation": "wt",
+    "genrecode": 3,
+    "id": 2
+  },
+  {
+    "play": "Julius Caesar",
+    "abbreviation": "jc",
+    "genrecode": 1,
+    "id": 2
+  },
+  {
+    "play": "Love's Labour's Lost",
+    "abbreviation": "lll",
+    "genrecode": 2,
+    "id": 3
+  },
+  {
+    "play": "Hamlet",
+    "abbreviation": "ham",
+    "genrecode": 1,
+    "id": 3
+  },
+  {
+    "play": "Henry IV Part 2",
+    "abbreviation": "h42",
+    "genrecode": 0,
+    "id": 3
+  },
+  {
+    "play": "The Tempest",
+    "abbreviation": "tmp",
+    "genrecode": 3,
+    "id": 3
+  },
+  {
+    "play": "Othello",
+    "abbreviation": "oth",
+    "genrecode": 1,
+    "id": 4
+  },
+  {
+    "play": "The Two Noble Kinsmen",
+    "abbreviation": "tnk",
+    "genrecode": 3,
+    "id": 4
+  },
+  {
+    "play": "Henry V",
+    "abbreviation": "h5",
+    "genrecode": 0,
+    "id": 4
+  },
+  {
+    "play": "A Midsummer Night's Dream",
+    "abbreviation": "mnd",
+    "genrecode": 2,
+    "id": 4
+  },
+  {
+    "play": "Henry VI Part 1",
+    "abbreviation": "h61",
+    "genrecode": 0,
+    "id": 5
+  },
+  {
+    "play": "Merchant of Venice",
+    "abbreviation": "mv",
+    "genrecode": 2,
+    "id": 5
+  },
+  {
+    "play": "King Lear",
+    "abbreviation": "lr",
+    "genrecode": 1,
+    "id": 5
+  },
+  {
+    "play": "Merry Wives of Windsor",
+    "abbreviation": "wiv",
+    "genrecode": 2,
+    "id": 6
+  },
+  {
+    "play": "Henry VI Part 2",
+    "abbreviation": "h62",
+    "genrecode": 0,
+    "id": 6
+  },
+  {
+    "play": "Macbeth",
+    "abbreviation": "mac",
+    "genrecode": 1,
+    "id": 6
+  },
+  {
+    "play": "Much Ado About Nothing",
+    "abbreviation": "ado",
+    "genrecode": 2,
+    "id": 7
+  },
+  {
+    "play": "Henry VI Part 3",
+    "abbreviation": "h63",
+    "genrecode": 0,
+    "id": 7
+  },
+  {
+    "play": "Antony and Cleopatra",
+    "abbreviation": "ant",
+    "genrecode": 1,
+    "id": 7
+  },
+  {
+    "play": "As You Like It",
+    "abbreviation": "ayl",
+    "genrecode": 2,
+    "id": 8
+  },
+  {
+    "play": "Coriolanus",
+    "abbreviation": "cor",
+    "genrecode": 1,
+    "id": 8
+  },
+  {
+    "play": "Richard III",
+    "abbreviation": "r3",
+    "genrecode": 0,
+    "id": 8
+  },
+  {
+    "play": "Timon of Athens",
+    "abbreviation": "tim",
+    "genrecode": 1,
+    "id": 9
+  },
+  {
+    "play": "Henry VIII",
+    "abbreviation": "h8",
+    "genrecode": 0,
+    "id": 9
+  },
+  {
+    "play": "Twelfth Night",
+    "abbreviation": "tn",
+    "genrecode": 2,
+    "id": 9
+  },
+  {
+    "play": "Troilus and Cressida",
+    "abbreviation": "tro",
+    "genrecode": 2,
+    "id": 10
+  },
+  {
+    "play": "All's Well That Ends Well",
+    "abbreviation": "aww",
+    "genrecode": 2,
+    "id": 11
+  },
+  {
+    "play": "Measure for Measure",
+    "abbreviation": "mm",
+    "genrecode": 2,
+    "id": 12
+  }
+]

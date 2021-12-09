@@ -1,0 +1,647 @@
+[
+  { "player": "SCENE", "playerline": "SCENE II" },
+  { "player": "DIRECTION", "playerline": "[Enter Edmund, the Bastard.]" },
+  {
+    "player": "EDMUND",
+    "playerline": "Thou, Nature, art my goddess. To thy law"
+  },
+  {
+    "player": "EDMUND",
+    "playerline": "My services are bound. Wherefore should I"
+  },
+  {
+    "player": "EDMUND",
+    "playerline": "Stand in the plague of custom, and permit"
+  },
+  {
+    "player": "EDMUND",
+    "playerline": "The curiosity of nations to deprive me"
+  },
+  {
+    "player": "EDMUND",
+    "playerline": "For that I am some twelve or fourteen moonshines"
+  },
+  {
+    "player": "EDMUND",
+    "playerline": "Lag of a brother? why 'bastard'? Wherefore 'base,'"
+  },
+  {
+    "player": "EDMUND",
+    "playerline": "When my dimensions are as well compact,"
+  },
+  {
+    "player": "EDMUND",
+    "playerline": "My mind as generous and my shape as true"
+  },
+  {
+    "player": "EDMUND",
+    "playerline": "As honest madam's issue? Why brand they us"
+  },
+  {
+    "player": "EDMUND",
+    "playerline": "With 'base,' with 'baseness,' 'bastardy,' 'base,' 'base,'"
+  },
+  {
+    "player": "EDMUND",
+    "playerline": "Who, in the lusty stealth of nature, take"
+  },
+  { "player": "EDMUND", "playerline": "More composition and fierce quality" },
+  {
+    "player": "EDMUND",
+    "playerline": "Than doth within a dull, stale, tired bed"
+  },
+  {
+    "player": "EDMUND",
+    "playerline": "Go to th' creating a whole tribe of fops"
+  },
+  {
+    "player": "EDMUND",
+    "playerline": "Got 'tween asleep and wake? Well then,"
+  },
+  {
+    "player": "EDMUND",
+    "playerline": "Legitimate Edgar, I must have your land."
+  },
+  {
+    "player": "EDMUND",
+    "playerline": "Our father's love is to the bastard Edmund"
+  },
+  {
+    "player": "EDMUND",
+    "playerline": "As to th' legitimate. Fine word, 'legitimate.'"
+  },
+  {
+    "player": "EDMUND",
+    "playerline": "Well, my legitimate, if this letter speed"
+  },
+  {
+    "player": "EDMUND",
+    "playerline": "And my invention thrive, Edmund the base"
+  },
+  {
+    "player": "EDMUND",
+    "playerline": "Shall top th' legitimate. I grow, I prosper."
+  },
+  { "player": "EDMUND", "playerline": "Now, gods, stand up for bastards!" },
+  { "player": "DIRECTION", "playerline": "[Enter Gloucester.]" },
+  {
+    "player": "GLOUCESTER",
+    "playerline": "Kent banished thus? And France in choler parted?"
+  },
+  {
+    "player": "GLOUCESTER",
+    "playerline": "And the King gone tonight, prescribed his power,"
+  },
+  {
+    "player": "GLOUCESTER",
+    "playerline": "Confined to exhibition? All this done"
+  },
+  {
+    "player": "GLOUCESTER",
+    "playerline": "Upon the gad?--Edmund, how now? What news?"
+  },
+  {
+    "player": "EDMUND",
+    "playerline": "So please your Lordship, none. [He puts a"
+  },
+  { "player": "EDMUND", "playerline": "paper in his pocket.]" },
+  {
+    "player": "GLOUCESTER",
+    "playerline": "Why so earnestly seek you to put up that letter?"
+  },
+  { "player": "EDMUND", "playerline": "I know no news, my lord." },
+  { "player": "GLOUCESTER", "playerline": "What paper were you reading?" },
+  { "player": "EDMUND", "playerline": "Nothing, my lord." },
+  {
+    "player": "GLOUCESTER",
+    "playerline": "No? What needed then that terrible dispatch"
+  },
+  {
+    "player": "GLOUCESTER",
+    "playerline": "of it into your pocket? The quality of nothing"
+  },
+  {
+    "player": "GLOUCESTER",
+    "playerline": "hath not such need to hide itself. Let's see. Come, if"
+  },
+  {
+    "player": "GLOUCESTER",
+    "playerline": "it be nothing, I shall not need spectacles."
+  },
+  {
+    "player": "EDMUND",
+    "playerline": "I beseech you, sir, pardon me. It is a letter"
+  },
+  {
+    "player": "EDMUND",
+    "playerline": "from my brother that I have not all o'erread; and"
+  },
+  {
+    "player": "EDMUND",
+    "playerline": "for so much as I have perused, I find it not fit for"
+  },
+  { "player": "EDMUND", "playerline": "your o'erlooking." },
+  { "player": "GLOUCESTER", "playerline": "Give me the letter, sir." },
+  {
+    "player": "EDMUND",
+    "playerline": "I shall offend either to detain or give it. The"
+  },
+  {
+    "player": "EDMUND",
+    "playerline": "contents, as in part I understand them, are to blame."
+  },
+  { "player": "GLOUCESTER", "playerline": "Let's see, let's see." },
+  { "player": "DIRECTION", "playerline": "[Edmund gives him the paper.]" },
+  {
+    "player": "EDMUND",
+    "playerline": "I hope, for my brother's justification, he"
+  },
+  {
+    "player": "EDMUND",
+    "playerline": "wrote this but as an essay or taste of my virtue."
+  },
+  { "player": "GLOUCESTER", "playerline": "This policy and reverence of age" },
+  {
+    "player": "GLOUCESTER",
+    "playerline": "makes the world bitter to the best of our times, keeps"
+  },
+  {
+    "player": "GLOUCESTER",
+    "playerline": "our fortunes from us till our oldness cannot relish"
+  },
+  {
+    "player": "GLOUCESTER",
+    "playerline": "them. I begin to find an idle and fond bondage in the"
+  },
+  {
+    "player": "GLOUCESTER",
+    "playerline": "oppression of aged tyranny, who sways not as it hath"
+  },
+  {
+    "player": "GLOUCESTER",
+    "playerline": "power but as it is suffered. Come to me, that of this I"
+  },
+  {
+    "player": "GLOUCESTER",
+    "playerline": "may speak more. If our father would sleep till I waked"
+  },
+  {
+    "player": "GLOUCESTER",
+    "playerline": "him, you should enjoy half his revenue forever and"
+  },
+  { "player": "GLOUCESTER", "playerline": "live the beloved of your brother." },
+  { "player": "GLOUCESTER", "playerline": "Edgar." },
+  {
+    "player": "GLOUCESTER",
+    "playerline": "Hum? Conspiracy? 'Sleep till I wake him, you"
+  },
+  {
+    "player": "GLOUCESTER",
+    "playerline": "should enjoy half his revenue.' My son Edgar! Had"
+  },
+  {
+    "player": "GLOUCESTER",
+    "playerline": "he a hand to write this? A heart and brain to breed it"
+  },
+  {
+    "player": "GLOUCESTER",
+    "playerline": "in?--When came you to this? Who brought it?"
+  },
+  {
+    "player": "EDMUND",
+    "playerline": "It was not brought me, my lord; there's the"
+  },
+  {
+    "player": "EDMUND",
+    "playerline": "cunning of it. I found it thrown in at the casement"
+  },
+  { "player": "EDMUND", "playerline": "of my closet." },
+  {
+    "player": "GLOUCESTER",
+    "playerline": "You know the character to be your brother's?"
+  },
+  {
+    "player": "EDMUND",
+    "playerline": "If the matter were good, my lord, I durst"
+  },
+  {
+    "player": "EDMUND",
+    "playerline": "swear it were his; but in respect of that, I would"
+  },
+  { "player": "EDMUND", "playerline": "fain think it were not." },
+  { "player": "GLOUCESTER", "playerline": "It is his." },
+  {
+    "player": "EDMUND",
+    "playerline": "It is his hand, my lord, but I hope his heart is"
+  },
+  { "player": "EDMUND", "playerline": "not in the contents." },
+  {
+    "player": "GLOUCESTER",
+    "playerline": "Has he never before sounded you in this business?"
+  },
+  {
+    "player": "EDMUND",
+    "playerline": "Never, my lord. But I have heard him oft"
+  },
+  {
+    "player": "EDMUND",
+    "playerline": "maintain it to be fit that, sons at perfect age and"
+  },
+  {
+    "player": "EDMUND",
+    "playerline": "fathers declined, the father should be as ward to the"
+  },
+  { "player": "EDMUND", "playerline": "son, and the son manage his revenue." },
+  {
+    "player": "GLOUCESTER",
+    "playerline": "O villain, villain! His very opinion in the"
+  },
+  {
+    "player": "GLOUCESTER",
+    "playerline": "letter. Abhorred villain! Unnatural, detested, brutish"
+  },
+  {
+    "player": "GLOUCESTER",
+    "playerline": "villain! Worse than brutish!--Go, sirrah, seek"
+  },
+  {
+    "player": "GLOUCESTER",
+    "playerline": "him. I'll apprehend him.--Abominable villain!--"
+  },
+  { "player": "GLOUCESTER", "playerline": "Where is he?" },
+  {
+    "player": "EDMUND",
+    "playerline": "I do not well know, my lord. If it shall please"
+  },
+  {
+    "player": "EDMUND",
+    "playerline": "you to suspend your indignation against my brother"
+  },
+  {
+    "player": "EDMUND",
+    "playerline": "till you can derive from him better testimony of his"
+  },
+  {
+    "player": "EDMUND",
+    "playerline": "intent, you should run a certain course; where, if"
+  },
+  {
+    "player": "EDMUND",
+    "playerline": "you violently proceed against him, mistaking his"
+  },
+  {
+    "player": "EDMUND",
+    "playerline": "purpose, it would make a great gap in your own"
+  },
+  {
+    "player": "EDMUND",
+    "playerline": "honor and shake in pieces the heart of his obedience."
+  },
+  {
+    "player": "EDMUND",
+    "playerline": "I dare pawn down my life for him that he hath"
+  },
+  {
+    "player": "EDMUND",
+    "playerline": "writ this to feel my affection to your Honor, and to"
+  },
+  { "player": "EDMUND", "playerline": "no other pretense of danger." },
+  { "player": "GLOUCESTER", "playerline": "Think you so?" },
+  {
+    "player": "EDMUND",
+    "playerline": "If your Honor judge it meet, I will place you"
+  },
+  {
+    "player": "EDMUND",
+    "playerline": "where you shall hear us confer of this, and by an"
+  },
+  {
+    "player": "EDMUND",
+    "playerline": "auricular assurance have your satisfaction, and that"
+  },
+  {
+    "player": "EDMUND",
+    "playerline": "without any further delay than this very evening."
+  },
+  { "player": "GLOUCESTER", "playerline": "He cannot be such a monster." },
+  { "player": "EDMUND", "playerline": "Nor is not, sure." },
+  {
+    "player": "GLOUCESTER",
+    "playerline": "To his father, that so tenderly and entirely"
+  },
+  {
+    "player": "GLOUCESTER",
+    "playerline": "loves him! Heaven and Earth! Edmund, seek him"
+  },
+  {
+    "player": "GLOUCESTER",
+    "playerline": "out; wind me into him, I pray you. Frame the"
+  },
+  {
+    "player": "GLOUCESTER",
+    "playerline": "business after your own wisdom. I would unstate"
+  },
+  { "player": "GLOUCESTER", "playerline": "myself to be in a due resolution." },
+  {
+    "player": "EDMUND",
+    "playerline": "I will seek him, sir, presently, convey the"
+  },
+  {
+    "player": "EDMUND",
+    "playerline": "business as I shall find means, and acquaint you withal."
+  },
+  {
+    "player": "GLOUCESTER",
+    "playerline": "These late eclipses in the sun and moon"
+  },
+  {
+    "player": "GLOUCESTER",
+    "playerline": "portend no good to us. Though the wisdom of"
+  },
+  {
+    "player": "GLOUCESTER",
+    "playerline": "nature can reason it thus and thus, yet nature finds"
+  },
+  {
+    "player": "GLOUCESTER",
+    "playerline": "itself scourged by the sequent effects. Love cools,"
+  },
+  {
+    "player": "GLOUCESTER",
+    "playerline": "friendship falls off, brothers divide; in cities, mutinies;"
+  },
+  {
+    "player": "GLOUCESTER",
+    "playerline": "in countries, discord; in palaces, treason; and"
+  },
+  {
+    "player": "GLOUCESTER",
+    "playerline": "the bond cracked 'twixt son and father. This villain"
+  },
+  {
+    "player": "GLOUCESTER",
+    "playerline": "of mine comes under the prediction: there's son"
+  },
+  {
+    "player": "GLOUCESTER",
+    "playerline": "against father. The King falls from bias of nature:"
+  },
+  {
+    "player": "GLOUCESTER",
+    "playerline": "there's father against child. We have seen the best of"
+  },
+  {
+    "player": "GLOUCESTER",
+    "playerline": "our time. Machinations, hollowness, treachery, and"
+  },
+  {
+    "player": "GLOUCESTER",
+    "playerline": "all ruinous disorders follow us disquietly to our"
+  },
+  {
+    "player": "GLOUCESTER",
+    "playerline": "graves.--Find out this villain, Edmund. It shall"
+  },
+  {
+    "player": "GLOUCESTER",
+    "playerline": "lose thee nothing. Do it carefully.--And the noble"
+  },
+  {
+    "player": "GLOUCESTER",
+    "playerline": "and true-hearted Kent banished! His offense, honesty!"
+  },
+  { "player": "GLOUCESTER", "playerline": "'Tis strange." },
+  { "player": "DIRECTION", "playerline": "[He exits.]" },
+  {
+    "player": "EDMUND",
+    "playerline": "This is the excellent foppery of the world, that"
+  },
+  {
+    "player": "EDMUND",
+    "playerline": "when we are sick in fortune (often the surfeits of"
+  },
+  {
+    "player": "EDMUND",
+    "playerline": "our own behavior) we make guilty of our disasters"
+  },
+  {
+    "player": "EDMUND",
+    "playerline": "the sun, the moon, and stars, as if we were villains"
+  },
+  {
+    "player": "EDMUND",
+    "playerline": "on necessity; fools by heavenly compulsion; knaves,"
+  },
+  {
+    "player": "EDMUND",
+    "playerline": "thieves, and treachers by spherical predominance;"
+  },
+  {
+    "player": "EDMUND",
+    "playerline": "drunkards, liars, and adulterers by an enforced"
+  },
+  {
+    "player": "EDMUND",
+    "playerline": "obedience of planetary influence; and all that we"
+  },
+  {
+    "player": "EDMUND",
+    "playerline": "are evil in, by a divine thrusting on. An admirable"
+  },
+  {
+    "player": "EDMUND",
+    "playerline": "evasion of whoremaster man, to lay his goatish"
+  },
+  {
+    "player": "EDMUND",
+    "playerline": "disposition on the charge of a star! My father"
+  },
+  {
+    "player": "EDMUND",
+    "playerline": "compounded with my mother under the Dragon's"
+  },
+  {
+    "player": "EDMUND",
+    "playerline": "tail, and my nativity was under Ursa Major, so that it"
+  },
+  {
+    "player": "EDMUND",
+    "playerline": "follows I am rough and lecherous. Fut, I should"
+  },
+  {
+    "player": "EDMUND",
+    "playerline": "have been that I am, had the maidenliest star in the"
+  },
+  {
+    "player": "EDMUND",
+    "playerline": "firmament twinkled on my bastardizing. Edgar--"
+  },
+  { "player": "DIRECTION", "playerline": "[Enter Edgar.]" },
+  {
+    "player": "EDMUND",
+    "playerline": "and pat he comes like the catastrophe of the old"
+  },
+  {
+    "player": "EDMUND",
+    "playerline": "comedy. My cue is villainous melancholy, with a"
+  },
+  {
+    "player": "EDMUND",
+    "playerline": "sigh like Tom o' Bedlam.--O, these eclipses do"
+  },
+  {
+    "player": "EDMUND",
+    "playerline": "portend these divisions. Fa, sol, la, mi."
+  },
+  {
+    "player": "EDGAR",
+    "playerline": "How now, brother Edmund, what serious contemplation"
+  },
+  { "player": "EDGAR", "playerline": "are you in?" },
+  {
+    "player": "EDMUND",
+    "playerline": "I am thinking, brother, of a prediction I read"
+  },
+  {
+    "player": "EDMUND",
+    "playerline": "this other day, what should follow these eclipses."
+  },
+  { "player": "EDGAR", "playerline": "Do you busy yourself with that?" },
+  {
+    "player": "EDMUND",
+    "playerline": "I promise you, the effects he writes of succeed"
+  },
+  {
+    "player": "EDMUND",
+    "playerline": "unhappily, as of unnaturalness between the"
+  },
+  {
+    "player": "EDMUND",
+    "playerline": "child and the parent, death, dearth, dissolutions of"
+  },
+  {
+    "player": "EDMUND",
+    "playerline": "ancient amities, divisions in state, menaces and"
+  },
+  {
+    "player": "EDMUND",
+    "playerline": "maledictions against king and nobles, needless diffidences,"
+  },
+  {
+    "player": "EDMUND",
+    "playerline": "banishment of friends, dissipation of cohorts,"
+  },
+  {
+    "player": "EDMUND",
+    "playerline": "nuptial breaches, and I know not what."
+  },
+  {
+    "player": "EDGAR",
+    "playerline": "How long have you been a sectary astronomical?"
+  },
+  {
+    "player": "EDMUND",
+    "playerline": "Come, come, when saw you my father last?"
+  },
+  { "player": "EDGAR", "playerline": "The night gone by." },
+  { "player": "EDMUND", "playerline": "Spake you with him?" },
+  { "player": "EDGAR", "playerline": "Ay, two hours together." },
+  {
+    "player": "EDMUND",
+    "playerline": "Parted you in good terms? Found you no"
+  },
+  {
+    "player": "EDMUND",
+    "playerline": "displeasure in him by word nor countenance?"
+  },
+  { "player": "EDGAR", "playerline": "None at all." },
+  {
+    "player": "EDMUND",
+    "playerline": "Bethink yourself wherein you may have offended"
+  },
+  {
+    "player": "EDMUND",
+    "playerline": "him, and at my entreaty forbear his presence"
+  },
+  {
+    "player": "EDMUND",
+    "playerline": "until some little time hath qualified the heat"
+  },
+  {
+    "player": "EDMUND",
+    "playerline": "of his displeasure, which at this instant so rageth in"
+  },
+  {
+    "player": "EDMUND",
+    "playerline": "him that with the mischief of your person it would"
+  },
+  { "player": "EDMUND", "playerline": "scarcely allay." },
+  { "player": "EDGAR", "playerline": "Some villain hath done me wrong." },
+  {
+    "player": "EDMUND",
+    "playerline": "That's my fear. I pray you have a continent"
+  },
+  {
+    "player": "EDMUND",
+    "playerline": "forbearance till the speed of his rage goes slower;"
+  },
+  {
+    "player": "EDMUND",
+    "playerline": "and, as I say, retire with me to my lodging, from"
+  },
+  {
+    "player": "EDMUND",
+    "playerline": "whence I will fitly bring you to hear my lord speak."
+  },
+  {
+    "player": "EDMUND",
+    "playerline": "Pray you go. There's my key. If you do stir abroad,"
+  },
+  { "player": "EDMUND", "playerline": "go armed." },
+  { "player": "EDGAR", "playerline": "Armed, brother?" },
+  {
+    "player": "EDMUND",
+    "playerline": "Brother, I advise you to the best. I am no"
+  },
+  {
+    "player": "EDMUND",
+    "playerline": "honest man if there be any good meaning toward"
+  },
+  {
+    "player": "EDMUND",
+    "playerline": "you. I have told you what I have seen and heard, but"
+  },
+  {
+    "player": "EDMUND",
+    "playerline": "faintly, nothing like the image and horror of it. Pray"
+  },
+  { "player": "EDMUND", "playerline": "you, away." },
+  { "player": "EDGAR", "playerline": "Shall I hear from you anon?" },
+  { "player": "EDMUND", "playerline": "I do serve you in this business." },
+  { "player": "DIRECTION", "playerline": "[Edgar exits.]" },
+  {
+    "player": "EDMUND",
+    "playerline": "A credulous father and a brother noble,"
+  },
+  {
+    "player": "EDMUND",
+    "playerline": "Whose nature is so far from doing harms"
+  },
+  {
+    "player": "EDMUND",
+    "playerline": "That he suspects none; on whose foolish honesty"
+  },
+  {
+    "player": "EDMUND",
+    "playerline": "My practices ride easy. I see the business."
+  },
+  {
+    "player": "EDMUND",
+    "playerline": "Let me, if not by birth, have lands by wit."
+  },
+  {
+    "player": "EDMUND",
+    "playerline": "All with me's meet that I can fashion fit."
+  },
+  { "player": "DIRECTION", "playerline": "[He exits.]" }
+]

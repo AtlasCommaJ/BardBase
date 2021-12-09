@@ -4,9 +4,9 @@ import "./Script.css";
 import TextBlock from "./TextBlock";
 import Control from "./Control";
 
-import Amplify, { Analytics } from 'aws-amplify';
-import awsconfig from './aws-exports';
-Amplify.configure(awsconfig);
+// import Amplify, { Analytics } from "aws-amplify";
+// import awsconfig from "./aws-exports";
+// Amplify.configure(awsconfig);
 
 const Script = (props) => {
   const {
@@ -75,12 +75,9 @@ const Script = (props) => {
 
   useEffect(() => {
     const getLines = async () => {
-      fetch(
-        `https://p9hv9v5blg.execute-api.us-east-2.amazonaws.com/Primary/${curPlay}/${curScene}/lines`
-      )
+      fetch(`data/${curPlay}/script/${curScene}.json`)
         .then((res) => res.json())
-        .then((res) => {
-          const data = JSON.parse(res);
+        .then((data) => {
           condenseScript(data);
         });
     };
@@ -136,7 +133,7 @@ const Script = (props) => {
           counter = 0;
         }
         blocks.push(
-          <p>
+          <p key={index}>
             <TextBlock
               handleScroll={() => handleScroll(id)}
               myRef={lineRefs[id]}
@@ -161,10 +158,10 @@ const Script = (props) => {
 
   const print = useCallback(() => {
     window.print();
-    Analytics.record({
-        name: 'print',
-        attributes: { condensed: cueSheetMode}
-      });
+    // Analytics.record({
+    //   name: "print",
+    //   attributes: { condensed: cueSheetMode },
+    // });
   }, [cueSheetMode]);
 
   if (isMobile) {
