@@ -2,8 +2,6 @@ import React, { useState, useEffect, useCallback } from "react";
 import { usePersistentState, useComplexPersistentState } from "./hooks";
 import "./App.css";
 import Script from "./Script";
-import twitter from "./assets/twitter.png";
-import github from "./assets/github.png";
 
 // import Amplify, { Analytics } from "aws-amplify";
 // import awsconfig from "./aws-exports";
@@ -125,20 +123,6 @@ const App = () => {
       <div className="credit">
         Created by James Atlas. Version 1.4. Send feedback, comments, notes,
         errors to AtlasCommaJ@gmail.com.
-        <a
-          href="https://github.com/AtlasCommaJ/BardBase"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          <img src={github} alt="github link" />
-        </a>
-        <a
-          href="https://twitter.com/AlasJetsam"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          <img src={twitter} alt="twitter link" />
-        </a>
         <br />
         Text retrieved from the
         <a
