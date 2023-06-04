@@ -1,0 +1,222 @@
+[
+    {
+        "player": "SCENE",
+        "playerline": "SCENE X"
+    },
+    {
+        "player": "DIRECTION",
+        "playerline": "[Canidius marcheth with his land army one way"
+    },
+    {
+        "player": "DIRECTION",
+        "playerline": "over the stage, and Taurus the lieutenant of Caesar"
+    },
+    {
+        "player": "DIRECTION",
+        "playerline": "the other way. After their going in is heard the"
+    },
+    {
+        "player": "DIRECTION",
+        "playerline": "noise of a sea fight.]"
+    },
+    {
+        "player": "DIRECTION",
+        "playerline": "[Alarum. Enter Enobarbus.]"
+    },
+    {
+        "player": "ENOBARBUS",
+        "playerline": "Naught, naught, all naught! I can behold no longer."
+    },
+    {
+        "player": "ENOBARBUS",
+        "playerline": "Th' Antoniad, the Egyptian admiral,"
+    },
+    {
+        "player": "ENOBARBUS",
+        "playerline": "With all their sixty, fly and turn the rudder."
+    },
+    {
+        "player": "ENOBARBUS",
+        "playerline": "To see 't mine eyes are blasted."
+    },
+    {
+        "player": "DIRECTION",
+        "playerline": "[Enter Scarus.]"
+    },
+    {
+        "player": "SCARUS",
+        "playerline": "Gods and goddesses,"
+    },
+    {
+        "player": "SCARUS",
+        "playerline": "All the whole synod of them!"
+    },
+    {
+        "player": "ENOBARBUS",
+        "playerline": "What's thy passion?"
+    },
+    {
+        "player": "SCARUS",
+        "playerline": "The greater cantle of the world is lost"
+    },
+    {
+        "player": "SCARUS",
+        "playerline": "With very ignorance. We have kissed away"
+    },
+    {
+        "player": "SCARUS",
+        "playerline": "Kingdoms and provinces."
+    },
+    {
+        "player": "ENOBARBUS",
+        "playerline": "How appears the fight?"
+    },
+    {
+        "player": "SCARUS",
+        "playerline": "On our side, like the tokened pestilence,"
+    },
+    {
+        "player": "SCARUS",
+        "playerline": "Where death is sure. Yon ribaudred nag of Egypt,"
+    },
+    {
+        "player": "SCARUS",
+        "playerline": "Whom leprosy o'ertake, i' th' midst o' th' fight,"
+    },
+    {
+        "player": "SCARUS",
+        "playerline": "When vantage like a pair of twins appeared"
+    },
+    {
+        "player": "SCARUS",
+        "playerline": "Both as the same--or, rather, ours the elder--"
+    },
+    {
+        "player": "SCARUS",
+        "playerline": "The breeze upon her like a cow in June,"
+    },
+    {
+        "player": "SCARUS",
+        "playerline": "Hoists sails and flies."
+    },
+    {
+        "player": "ENOBARBUS",
+        "playerline": "That I beheld."
+    },
+    {
+        "player": "ENOBARBUS",
+        "playerline": "Mine eyes did sicken at the sight and could not"
+    },
+    {
+        "player": "ENOBARBUS",
+        "playerline": "Endure a further view."
+    },
+    {
+        "player": "SCARUS",
+        "playerline": "She once being loofed,"
+    },
+    {
+        "player": "SCARUS",
+        "playerline": "The noble ruin of her magic, Antony,"
+    },
+    {
+        "player": "SCARUS",
+        "playerline": "Claps on his sea-wing and, like a doting mallard,"
+    },
+    {
+        "player": "SCARUS",
+        "playerline": "Leaving the fight in height, flies after her."
+    },
+    {
+        "player": "SCARUS",
+        "playerline": "I never saw an action of such shame."
+    },
+    {
+        "player": "SCARUS",
+        "playerline": "Experience, manhood, honor ne'er before"
+    },
+    {
+        "player": "SCARUS",
+        "playerline": "Did violate so itself."
+    },
+    {
+        "player": "ENOBARBUS",
+        "playerline": "Alack, alack."
+    },
+    {
+        "player": "DIRECTION",
+        "playerline": "[Enter Canidius.]"
+    },
+    {
+        "player": "CANIDIUS",
+        "playerline": "Our fortune on the sea is out of breath"
+    },
+    {
+        "player": "CANIDIUS",
+        "playerline": "And sinks most lamentably. Had our general"
+    },
+    {
+        "player": "CANIDIUS",
+        "playerline": "Been what he knew himself, it had gone well."
+    },
+    {
+        "player": "CANIDIUS",
+        "playerline": "O, he has given example for our flight"
+    },
+    {
+        "player": "CANIDIUS",
+        "playerline": "Most grossly by his own."
+    },
+    {
+        "player": "ENOBARBUS",
+        "playerline": "Ay, are you thereabouts? Why then goodnight indeed."
+    },
+    {
+        "player": "CANIDIUS",
+        "playerline": "Toward Peloponnesus are they fled."
+    },
+    {
+        "player": "SCARUS",
+        "playerline": "'Tis easy to 't, and there I will attend"
+    },
+    {
+        "player": "SCARUS",
+        "playerline": "What further comes."
+    },
+    {
+        "player": "DIRECTION",
+        "playerline": "[He exits.]"
+    },
+    {
+        "player": "CANIDIUS",
+        "playerline": "To Caesar will I render"
+    },
+    {
+        "player": "CANIDIUS",
+        "playerline": "My legions and my horse. Six kings already"
+    },
+    {
+        "player": "CANIDIUS",
+        "playerline": "Show me the way of yielding."
+    },
+    {
+        "player": "DIRECTION",
+        "playerline": "[He exits.]"
+    },
+    {
+        "player": "ENOBARBUS",
+        "playerline": "I'll yet follow"
+    },
+    {
+        "player": "ENOBARBUS",
+        "playerline": "The wounded chance of Antony, though my reason"
+    },
+    {
+        "player": "ENOBARBUS",
+        "playerline": "Sits in the wind against me."
+    },
+    {
+        "player": "DIRECTION",
+        "playerline": "[He exits.]"
+    }
+]

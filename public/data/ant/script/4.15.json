@@ -1,0 +1,466 @@
+[
+    {
+        "player": "SCENE",
+        "playerline": "SCENE XV"
+    },
+    {
+        "player": "DIRECTION",
+        "playerline": "[Enter Cleopatra and her maids aloft, with"
+    },
+    {
+        "player": "DIRECTION",
+        "playerline": "Charmian and Iras.]"
+    },
+    {
+        "player": "CLEOPATRA",
+        "playerline": "O Charmian, I will never go from hence."
+    },
+    {
+        "player": "CHARMIAN",
+        "playerline": "Be comforted, dear madam."
+    },
+    {
+        "player": "CLEOPATRA",
+        "playerline": "No, I will not."
+    },
+    {
+        "player": "CLEOPATRA",
+        "playerline": "All strange and terrible events are welcome,"
+    },
+    {
+        "player": "CLEOPATRA",
+        "playerline": "But comforts we despise. Our size of sorrow,"
+    },
+    {
+        "player": "CLEOPATRA",
+        "playerline": "Proportioned to our cause, must be as great"
+    },
+    {
+        "player": "CLEOPATRA",
+        "playerline": "As that which makes it."
+    },
+    {
+        "player": "DIRECTION",
+        "playerline": "[Enter Diomedes below.]"
+    },
+    {
+        "player": "CLEOPATRA",
+        "playerline": "How now? Is he dead?"
+    },
+    {
+        "player": "DIOMEDES",
+        "playerline": "His death's upon him, but not dead."
+    },
+    {
+        "player": "DIOMEDES",
+        "playerline": "Look out o' th' other side your monument."
+    },
+    {
+        "player": "DIOMEDES",
+        "playerline": "His guard have brought him thither."
+    },
+    {
+        "player": "DIRECTION",
+        "playerline": "[Enter Antony below, and the Guard bearing him.]"
+    },
+    {
+        "player": "CLEOPATRA",
+        "playerline": "O sun,"
+    },
+    {
+        "player": "CLEOPATRA",
+        "playerline": "Burn the great sphere thou mov'st in. Darkling stand"
+    },
+    {
+        "player": "CLEOPATRA",
+        "playerline": "The varying shore o' th' world! O Antony, Antony,"
+    },
+    {
+        "player": "CLEOPATRA",
+        "playerline": "Antony! Help, Charmian! Help, Iras, help!"
+    },
+    {
+        "player": "CLEOPATRA",
+        "playerline": "Help, friends below! Let's draw him hither."
+    },
+    {
+        "player": "ANTONY",
+        "playerline": "Peace!"
+    },
+    {
+        "player": "ANTONY",
+        "playerline": "Not Caesar's valor hath o'erthrown Antony,"
+    },
+    {
+        "player": "ANTONY",
+        "playerline": "But Antony's hath triumphed on itself."
+    },
+    {
+        "player": "CLEOPATRA",
+        "playerline": "So it should be that none but Antony"
+    },
+    {
+        "player": "CLEOPATRA",
+        "playerline": "Should conquer Antony, but woe 'tis so!"
+    },
+    {
+        "player": "ANTONY",
+        "playerline": "I am dying, Egypt, dying. Only"
+    },
+    {
+        "player": "ANTONY",
+        "playerline": "I here importune death awhile until"
+    },
+    {
+        "player": "ANTONY",
+        "playerline": "Of many thousand kisses the poor last"
+    },
+    {
+        "player": "ANTONY",
+        "playerline": "I lay upon thy lips."
+    },
+    {
+        "player": "CLEOPATRA",
+        "playerline": "I dare not, dear,"
+    },
+    {
+        "player": "CLEOPATRA",
+        "playerline": "Dear my lord, pardon, I dare not,"
+    },
+    {
+        "player": "CLEOPATRA",
+        "playerline": "Lest I be taken. Not th' imperious show"
+    },
+    {
+        "player": "CLEOPATRA",
+        "playerline": "Of the full-fortuned Caesar ever shall"
+    },
+    {
+        "player": "CLEOPATRA",
+        "playerline": "Be brooched with me; if knife, drugs, serpents have"
+    },
+    {
+        "player": "CLEOPATRA",
+        "playerline": "Edge, sting, or operation, I am safe."
+    },
+    {
+        "player": "CLEOPATRA",
+        "playerline": "Your wife Octavia, with her modest eyes"
+    },
+    {
+        "player": "CLEOPATRA",
+        "playerline": "And still conclusion, shall acquire no honor"
+    },
+    {
+        "player": "CLEOPATRA",
+        "playerline": "Demuring upon me. But come, come, Antony.--"
+    },
+    {
+        "player": "CLEOPATRA",
+        "playerline": "Help me, my women!--We must draw thee up.--"
+    },
+    {
+        "player": "CLEOPATRA",
+        "playerline": "Assist, good friends."
+    },
+    {
+        "player": "DIRECTION",
+        "playerline": "[They begin lifting him.]"
+    },
+    {
+        "player": "ANTONY",
+        "playerline": "O, quick, or I am gone."
+    },
+    {
+        "player": "CLEOPATRA",
+        "playerline": "Here's sport indeed. How heavy weighs my lord!"
+    },
+    {
+        "player": "CLEOPATRA",
+        "playerline": "Our strength is all gone into heaviness;"
+    },
+    {
+        "player": "CLEOPATRA",
+        "playerline": "That makes the weight. Had I great Juno's power,"
+    },
+    {
+        "player": "CLEOPATRA",
+        "playerline": "The strong-winged Mercury should fetch thee up"
+    },
+    {
+        "player": "CLEOPATRA",
+        "playerline": "And set thee by Jove's side. Yet come a little."
+    },
+    {
+        "player": "CLEOPATRA",
+        "playerline": "Wishers were ever fools. O, come, come, come!"
+    },
+    {
+        "player": "DIRECTION",
+        "playerline": "[They heave Antony aloft to Cleopatra.]"
+    },
+    {
+        "player": "CLEOPATRA",
+        "playerline": "And welcome, welcome! Die when thou hast lived;"
+    },
+    {
+        "player": "CLEOPATRA",
+        "playerline": "Quicken with kissing. Had my lips that power,"
+    },
+    {
+        "player": "CLEOPATRA",
+        "playerline": "Thus would I wear them out."
+    },
+    {
+        "player": "DIRECTION",
+        "playerline": "[She kisses him.]"
+    },
+    {
+        "player": "ALL",
+        "playerline": "A heavy sight!"
+    },
+    {
+        "player": "ANTONY",
+        "playerline": "I am dying, Egypt, dying."
+    },
+    {
+        "player": "ANTONY",
+        "playerline": "Give me some wine, and let me speak a little."
+    },
+    {
+        "player": "CLEOPATRA",
+        "playerline": "No, let me speak, and let me rail so high"
+    },
+    {
+        "player": "CLEOPATRA",
+        "playerline": "That the false huswife Fortune break her wheel,"
+    },
+    {
+        "player": "CLEOPATRA",
+        "playerline": "Provoked by my offense."
+    },
+    {
+        "player": "ANTONY",
+        "playerline": "One word, sweet queen:"
+    },
+    {
+        "player": "ANTONY",
+        "playerline": "Of Caesar seek your honor with your safety--O!"
+    },
+    {
+        "player": "CLEOPATRA",
+        "playerline": "They do not go together."
+    },
+    {
+        "player": "ANTONY",
+        "playerline": "Gentle, hear me."
+    },
+    {
+        "player": "ANTONY",
+        "playerline": "None about Caesar trust but Proculeius."
+    },
+    {
+        "player": "CLEOPATRA",
+        "playerline": "My resolution and my hands I'll trust,"
+    },
+    {
+        "player": "CLEOPATRA",
+        "playerline": "None about Caesar."
+    },
+    {
+        "player": "ANTONY",
+        "playerline": "The miserable change now at my end"
+    },
+    {
+        "player": "ANTONY",
+        "playerline": "Lament nor sorrow at, but please your thoughts"
+    },
+    {
+        "player": "ANTONY",
+        "playerline": "In feeding them with those my former fortunes"
+    },
+    {
+        "player": "ANTONY",
+        "playerline": "Wherein I lived the greatest prince o' th' world,"
+    },
+    {
+        "player": "ANTONY",
+        "playerline": "The noblest, and do now not basely die,"
+    },
+    {
+        "player": "ANTONY",
+        "playerline": "Not cowardly put off my helmet to"
+    },
+    {
+        "player": "ANTONY",
+        "playerline": "My countryman--a Roman by a Roman"
+    },
+    {
+        "player": "ANTONY",
+        "playerline": "Valiantly vanquished. Now my spirit is going;"
+    },
+    {
+        "player": "ANTONY",
+        "playerline": "I can no more."
+    },
+    {
+        "player": "CLEOPATRA",
+        "playerline": "Noblest of men, woo't die?"
+    },
+    {
+        "player": "CLEOPATRA",
+        "playerline": "Hast thou no care of me? Shall I abide"
+    },
+    {
+        "player": "CLEOPATRA",
+        "playerline": "In this dull world, which in thy absence is"
+    },
+    {
+        "player": "CLEOPATRA",
+        "playerline": "No better than a sty? O see, my women,"
+    },
+    {
+        "player": "CLEOPATRA",
+        "playerline": "The crown o' th' Earth doth melt.--My lord!"
+    },
+    {
+        "player": "DIRECTION",
+        "playerline": "[Antony dies.]"
+    },
+    {
+        "player": "CLEOPATRA",
+        "playerline": "O, withered is the garland of the war;"
+    },
+    {
+        "player": "CLEOPATRA",
+        "playerline": "The soldier's pole is fall'n; young boys and girls"
+    },
+    {
+        "player": "CLEOPATRA",
+        "playerline": "Are level now with men. The odds is gone,"
+    },
+    {
+        "player": "CLEOPATRA",
+        "playerline": "And there is nothing left remarkable"
+    },
+    {
+        "player": "CLEOPATRA",
+        "playerline": "Beneath the visiting moon."
+    },
+    {
+        "player": "CHARMIAN",
+        "playerline": "O, quietness, lady!"
+    },
+    {
+        "player": "DIRECTION",
+        "playerline": "[Cleopatra swoons.]"
+    },
+    {
+        "player": "IRAS",
+        "playerline": "She's dead, too, our sovereign."
+    },
+    {
+        "player": "CHARMIAN",
+        "playerline": "Lady!"
+    },
+    {
+        "player": "IRAS",
+        "playerline": "Madam!"
+    },
+    {
+        "player": "CHARMIAN",
+        "playerline": "O madam, madam, madam!"
+    },
+    {
+        "player": "IRAS",
+        "playerline": "Royal Egypt! Empress!"
+    },
+    {
+        "player": "DIRECTION",
+        "playerline": "[Cleopatra stirs.]"
+    },
+    {
+        "player": "CHARMIAN",
+        "playerline": "Peace, peace, Iras!"
+    },
+    {
+        "player": "CLEOPATRA",
+        "playerline": "No more but e'en a woman, and commanded"
+    },
+    {
+        "player": "CLEOPATRA",
+        "playerline": "By such poor passion as the maid that milks"
+    },
+    {
+        "player": "CLEOPATRA",
+        "playerline": "And does the meanest chares. It were for me"
+    },
+    {
+        "player": "CLEOPATRA",
+        "playerline": "To throw my scepter at the injurious gods,"
+    },
+    {
+        "player": "CLEOPATRA",
+        "playerline": "To tell them that this world did equal theirs"
+    },
+    {
+        "player": "CLEOPATRA",
+        "playerline": "Till they had stolen our jewel. All's but naught."
+    },
+    {
+        "player": "CLEOPATRA",
+        "playerline": "Patience is sottish, and impatience does"
+    },
+    {
+        "player": "CLEOPATRA",
+        "playerline": "Become a dog that's mad. Then is it sin"
+    },
+    {
+        "player": "CLEOPATRA",
+        "playerline": "To rush into the secret house of death"
+    },
+    {
+        "player": "CLEOPATRA",
+        "playerline": "Ere death dare come to us? How do you, women?"
+    },
+    {
+        "player": "CLEOPATRA",
+        "playerline": "What, what, good cheer! Why, how now, Charmian?"
+    },
+    {
+        "player": "CLEOPATRA",
+        "playerline": "My noble girls! Ah, women, women! Look,"
+    },
+    {
+        "player": "CLEOPATRA",
+        "playerline": "Our lamp is spent; it's out. Good sirs, take heart."
+    },
+    {
+        "player": "CLEOPATRA",
+        "playerline": "We'll bury him; and then, what's brave, what's noble,"
+    },
+    {
+        "player": "CLEOPATRA",
+        "playerline": "Let's do 't after the high Roman fashion"
+    },
+    {
+        "player": "CLEOPATRA",
+        "playerline": "And make death proud to take us. Come, away."
+    },
+    {
+        "player": "CLEOPATRA",
+        "playerline": "This case of that huge spirit now is cold."
+    },
+    {
+        "player": "CLEOPATRA",
+        "playerline": "Ah women, women! Come, we have no friend"
+    },
+    {
+        "player": "CLEOPATRA",
+        "playerline": "But resolution and the briefest end."
+    },
+    {
+        "player": "DIRECTION",
+        "playerline": "[They exit, bearing off Antony's body.]"
+    }
+]

@@ -1,0 +1,1000 @@
+[{
+    "player": "SCENE",
+    "playerline": "SCENE XIII"
+},
+{
+    "player": "DIRECTION",
+    "playerline": "[Enter Cleopatra, Enobarbus, Charmian, and Iras.]"
+},
+{
+    "player": "CLEOPATRA",
+    "playerline": "What shall we do, Enobarbus?"
+},
+{
+    "player": "ENOBARBUS",
+    "playerline": "Think, and die."
+},
+{
+    "player": "CLEOPATRA",
+    "playerline": "Is Antony or we in fault for this?"
+},
+{
+    "player": "ENOBARBUS",
+    "playerline": "Antony only, that would make his will"
+},
+{
+    "player": "ENOBARBUS",
+    "playerline": "Lord of his reason. What though you fled"
+},
+{
+    "player": "ENOBARBUS",
+    "playerline": "From that great face of war, whose several ranges"
+},
+{
+    "player": "ENOBARBUS",
+    "playerline": "Frighted each other? Why should he follow?"
+},
+{
+    "player": "ENOBARBUS",
+    "playerline": "The itch of his affection should not then"
+},
+{
+    "player": "ENOBARBUS",
+    "playerline": "Have nicked his captainship, at such a point,"
+},
+{
+    "player": "ENOBARBUS",
+    "playerline": "When half to half the world opposed, he being"
+},
+{
+    "player": "ENOBARBUS",
+    "playerline": "The mered question. 'Twas a shame no less"
+},
+{
+    "player": "ENOBARBUS",
+    "playerline": "Than was his loss, to course your flying flags"
+},
+{
+    "player": "ENOBARBUS",
+    "playerline": "And leave his navy gazing."
+},
+{
+    "player": "CLEOPATRA",
+    "playerline": "Prithee, peace."
+},
+{
+    "player": "DIRECTION",
+    "playerline": "[Enter the Ambassador with Antony.]"
+},
+{
+    "player": "ANTONY",
+    "playerline": "Is that his answer?"
+},
+{
+    "player": "AMBASSADOR",
+    "playerline": "Ay, my lord."
+},
+{
+    "player": "ANTONY",
+    "playerline": "The Queen shall then have courtesy, so she"
+},
+{
+    "player": "ANTONY",
+    "playerline": "Will yield us up?"
+},
+{
+    "player": "AMBASSADOR",
+    "playerline": "He says so."
+},
+{
+    "player": "ANTONY",
+    "playerline": "Let her know 't.--"
+},
+{
+    "player": "ANTONY",
+    "playerline": "To the boy Caesar send this grizzled head,"
+},
+{
+    "player": "ANTONY",
+    "playerline": "And he will fill thy wishes to the brim"
+},
+{
+    "player": "ANTONY",
+    "playerline": "With principalities."
+},
+{
+    "player": "CLEOPATRA",
+    "playerline": "That head, my lord?"
+},
+{
+    "player": "ANTONY",
+    "playerline": "To him again. Tell him he wears the rose"
+},
+{
+    "player": "ANTONY",
+    "playerline": "Of youth upon him, from which the world should note"
+},
+{
+    "player": "ANTONY",
+    "playerline": "Something particular: his coin, ships, legions"
+},
+{
+    "player": "ANTONY",
+    "playerline": "May be a coward's, whose ministers would prevail"
+},
+{
+    "player": "ANTONY",
+    "playerline": "Under the service of a child as soon"
+},
+{
+    "player": "ANTONY",
+    "playerline": "As i' th' command of Caesar. I dare him therefore"
+},
+{
+    "player": "ANTONY",
+    "playerline": "To lay his gay caparisons apart"
+},
+{
+    "player": "ANTONY",
+    "playerline": "And answer me declined, sword against sword,"
+},
+{
+    "player": "ANTONY",
+    "playerline": "Ourselves alone. I'll write it. Follow me."
+},
+{
+    "player": "DIRECTION",
+    "playerline": "[Antony and Ambassador exit.]"
+},
+{
+    "player": "ENOBARBUS",
+    "playerline": "Yes, like enough, high-battled Caesar will"
+},
+{
+    "player": "ENOBARBUS",
+    "playerline": "Unstate his happiness and be staged to th' show"
+},
+{
+    "player": "ENOBARBUS",
+    "playerline": "Against a sworder! I see men's judgments are"
+},
+{
+    "player": "ENOBARBUS",
+    "playerline": "A parcel of their fortunes, and things outward"
+},
+{
+    "player": "ENOBARBUS",
+    "playerline": "Do draw the inward quality after them"
+},
+{
+    "player": "ENOBARBUS",
+    "playerline": "To suffer all alike. That he should dream,"
+},
+{
+    "player": "ENOBARBUS",
+    "playerline": "Knowing all measures, the full Caesar will"
+},
+{
+    "player": "ENOBARBUS",
+    "playerline": "Answer his emptiness! Caesar, thou hast subdued"
+},
+{
+    "player": "ENOBARBUS",
+    "playerline": "His judgment too."
+},
+{
+    "player": "DIRECTION",
+    "playerline": "[Enter a Servant.]"
+},
+{
+    "player": "SERVANT",
+    "playerline": "A messenger from Caesar."
+},
+{
+    "player": "CLEOPATRA",
+    "playerline": "What, no more ceremony? See, my women,"
+},
+{
+    "player": "CLEOPATRA",
+    "playerline": "Against the blown rose may they stop their nose"
+},
+{
+    "player": "CLEOPATRA",
+    "playerline": "That kneeled unto the buds.--Admit him, sir."
+},
+{
+    "player": "DIRECTION",
+    "playerline": "[Servant exits.]"
+},
+{
+    "player": "ENOBARBUS",
+    "playerline": "Mine honesty and I begin to square."
+},
+{
+    "player": "ENOBARBUS",
+    "playerline": "The loyalty well held to fools does make"
+},
+{
+    "player": "ENOBARBUS",
+    "playerline": "Our faith mere folly. Yet he that can endure"
+},
+{
+    "player": "ENOBARBUS",
+    "playerline": "To follow with allegiance a fall'n lord"
+},
+{
+    "player": "ENOBARBUS",
+    "playerline": "Does conquer him that did his master conquer,"
+},
+{
+    "player": "ENOBARBUS",
+    "playerline": "And earns a place i' th' story."
+},
+{
+    "player": "DIRECTION",
+    "playerline": "[Enter Thidias.]"
+},
+{
+    "player": "CLEOPATRA",
+    "playerline": "Caesar's will?"
+},
+{
+    "player": "THIDIAS",
+    "playerline": "Hear it apart."
+},
+{
+    "player": "CLEOPATRA",
+    "playerline": "None but friends. Say boldly."
+},
+{
+    "player": "THIDIAS",
+    "playerline": "So haply are they friends to Antony."
+},
+{
+    "player": "ENOBARBUS",
+    "playerline": "He needs as many, sir, as Caesar has,"
+},
+{
+    "player": "ENOBARBUS",
+    "playerline": "Or needs not us. If Caesar please, our master"
+},
+{
+    "player": "ENOBARBUS",
+    "playerline": "Will leap to be his friend. For us, you know"
+},
+{
+    "player": "ENOBARBUS",
+    "playerline": "Whose he is we are, and that is Caesar's."
+},
+{
+    "player": "THIDIAS",
+    "playerline": "So.--"
+},
+{
+    "player": "THIDIAS",
+    "playerline": "Thus then, thou most renowned: Caesar entreats"
+},
+{
+    "player": "THIDIAS",
+    "playerline": "Not to consider in what case thou stand'st"
+},
+{
+    "player": "THIDIAS",
+    "playerline": "Further than he is Caesar."
+},
+{
+    "player": "CLEOPATRA",
+    "playerline": "Go on; right royal."
+},
+{
+    "player": "THIDIAS",
+    "playerline": "He knows that you embrace not Antony"
+},
+{
+    "player": "THIDIAS",
+    "playerline": "As you did love, but as you feared him."
+},
+{
+    "player": "THIDIAS",
+    "playerline": "The scars upon your honor therefore he"
+},
+{
+    "player": "THIDIAS",
+    "playerline": "Does pity as constrained blemishes,"
+},
+{
+    "player": "THIDIAS",
+    "playerline": "Not as deserved."
+},
+{
+    "player": "CLEOPATRA",
+    "playerline": "He is a god and knows"
+},
+{
+    "player": "CLEOPATRA",
+    "playerline": "What is most right. Mine honor was not yielded,"
+},
+{
+    "player": "CLEOPATRA",
+    "playerline": "But conquered merely."
+},
+{
+    "player": "ENOBARBUS",
+    "playerline": "To be sure of that,"
+},
+{
+    "player": "ENOBARBUS",
+    "playerline": "I will ask Antony. Sir, sir, thou art so leaky"
+},
+{
+    "player": "ENOBARBUS",
+    "playerline": "That we must leave thee to thy sinking, for"
+},
+{
+    "player": "ENOBARBUS",
+    "playerline": "Thy dearest quit thee."
+},
+{
+    "player": "DIRECTION",
+    "playerline": "[Enobarbus exits.]"
+},
+{
+    "player": "THIDIAS",
+    "playerline": "Shall I say to Caesar"
+},
+{
+    "player": "THIDIAS",
+    "playerline": "What you require of him? For he partly begs"
+},
+{
+    "player": "THIDIAS",
+    "playerline": "To be desired to give. It much would please him"
+},
+{
+    "player": "THIDIAS",
+    "playerline": "That of his fortunes you should make a staff"
+},
+{
+    "player": "THIDIAS",
+    "playerline": "To lean upon. But it would warm his spirits"
+},
+{
+    "player": "THIDIAS",
+    "playerline": "To hear from me you had left Antony"
+},
+{
+    "player": "THIDIAS",
+    "playerline": "And put yourself under his shroud,"
+},
+{
+    "player": "THIDIAS",
+    "playerline": "The universal landlord."
+},
+{
+    "player": "CLEOPATRA",
+    "playerline": "What's your name?"
+},
+{
+    "player": "THIDIAS",
+    "playerline": "My name is Thidias."
+},
+{
+    "player": "CLEOPATRA",
+    "playerline": "Most kind messenger,"
+},
+{
+    "player": "CLEOPATRA",
+    "playerline": "Say to great Caesar this in deputation:"
+},
+{
+    "player": "CLEOPATRA",
+    "playerline": "I kiss his conqu'ring hand. Tell him I am prompt"
+},
+{
+    "player": "CLEOPATRA",
+    "playerline": "To lay my crown at 's feet, and there to kneel."
+},
+{
+    "player": "CLEOPATRA",
+    "playerline": "Tell him, from his all-obeying breath I hear"
+},
+{
+    "player": "CLEOPATRA",
+    "playerline": "The doom of Egypt."
+},
+{
+    "player": "THIDIAS",
+    "playerline": "'Tis your noblest course."
+},
+{
+    "player": "THIDIAS",
+    "playerline": "Wisdom and fortune combating together,"
+},
+{
+    "player": "THIDIAS",
+    "playerline": "If that the former dare but what it can,"
+},
+{
+    "player": "THIDIAS",
+    "playerline": "No chance may shake it. Give me grace to lay"
+},
+{
+    "player": "THIDIAS",
+    "playerline": "My duty on your hand."
+},
+{
+    "player": "DIRECTION",
+    "playerline": "[She gives him her hand to kiss.]"
+},
+{
+    "player": "CLEOPATRA",
+    "playerline": "Your Caesar's father oft,"
+},
+{
+    "player": "CLEOPATRA",
+    "playerline": "When he hath mused of taking kingdoms in,"
+},
+{
+    "player": "CLEOPATRA",
+    "playerline": "Bestowed his lips on that unworthy place"
+},
+{
+    "player": "CLEOPATRA",
+    "playerline": "As it rained kisses."
+},
+{
+    "player": "DIRECTION",
+    "playerline": "[Enter Antony and Enobarbus.]"
+},
+{
+    "player": "ANTONY",
+    "playerline": "Favors? By Jove that thunders!"
+},
+{
+    "player": "ANTONY",
+    "playerline": "What art thou, fellow?"
+},
+{
+    "player": "THIDIAS",
+    "playerline": "One that but performs"
+},
+{
+    "player": "THIDIAS",
+    "playerline": "The bidding of the fullest man and worthiest"
+},
+{
+    "player": "THIDIAS",
+    "playerline": "To have command obeyed."
+},
+{
+    "player": "ENOBARBUS",
+    "playerline": "You will be whipped."
+},
+{
+    "player": "ANTONY",
+    "playerline": "Approach there!--Ah, you kite!--Now, gods and devils,"
+},
+{
+    "player": "ANTONY",
+    "playerline": "Authority melts from me. Of late when I cried 'Ho!'"
+},
+{
+    "player": "ANTONY",
+    "playerline": "Like boys unto a muss kings would start forth"
+},
+{
+    "player": "ANTONY",
+    "playerline": "And cry 'Your will?' Have you no ears? I am"
+},
+{
+    "player": "ANTONY",
+    "playerline": "Antony yet."
+},
+{
+    "player": "DIRECTION",
+    "playerline": "[Enter Servants.]"
+},
+{
+    "player": "ANTONY",
+    "playerline": "Take hence this jack and whip him."
+},
+{
+    "player": "ENOBARBUS",
+    "playerline": "'Tis better playing with a lion's whelp"
+},
+{
+    "player": "ENOBARBUS",
+    "playerline": "Than with an old one dying."
+},
+{
+    "player": "ANTONY",
+    "playerline": "Moon and stars!"
+},
+{
+    "player": "ANTONY",
+    "playerline": "Whip him! Were 't twenty of the greatest tributaries"
+},
+{
+    "player": "ANTONY",
+    "playerline": "That do acknowledge Caesar, should I find them"
+},
+{
+    "player": "ANTONY",
+    "playerline": "So saucy with the hand of she here--what's her name"
+},
+{
+    "player": "ANTONY",
+    "playerline": "Since she was Cleopatra? Whip him, fellows,"
+},
+{
+    "player": "ANTONY",
+    "playerline": "Till like a boy you see him cringe his face"
+},
+{
+    "player": "ANTONY",
+    "playerline": "And whine aloud for mercy. Take him hence."
+},
+{
+    "player": "THIDIAS",
+    "playerline": "Mark Antony--"
+},
+{
+    "player": "ANTONY",
+    "playerline": "Tug him away. Being whipped,"
+},
+{
+    "player": "ANTONY",
+    "playerline": "Bring him again. This jack of Caesar's shall"
+},
+{
+    "player": "ANTONY",
+    "playerline": "Bear us an errand to him."
+},
+{
+    "player": "DIRECTION",
+    "playerline": "[Servants exit with Thidias.]"
+},
+{
+    "player": "ANTONY",
+    "playerline": "[To Cleopatra.] You were half blasted ere I knew you. Ha!"
+},
+{
+    "player": "ANTONY",
+    "playerline": "Have I my pillow left unpressed in Rome,"
+},
+{
+    "player": "ANTONY",
+    "playerline": "Forborne the getting of a lawful race,"
+},
+{
+    "player": "ANTONY",
+    "playerline": "And by a gem of women, to be abused"
+},
+{
+    "player": "ANTONY",
+    "playerline": "By one that looks on feeders?"
+},
+{
+    "player": "CLEOPATRA",
+    "playerline": "Good my lord--"
+},
+{
+    "player": "ANTONY",
+    "playerline": "You have been a boggler ever."
+},
+{
+    "player": "ANTONY",
+    "playerline": "But when we in our viciousness grow hard--"
+},
+{
+    "player": "ANTONY",
+    "playerline": "O, misery on 't!--the wise gods seel our eyes,"
+},
+{
+    "player": "ANTONY",
+    "playerline": "In our own filth drop our clear judgments, make us"
+},
+{
+    "player": "ANTONY",
+    "playerline": "Adore our errors, laugh at 's while we strut"
+},
+{
+    "player": "ANTONY",
+    "playerline": "To our confusion."
+},
+{
+    "player": "CLEOPATRA",
+    "playerline": "O, is 't come to this?"
+},
+{
+    "player": "ANTONY",
+    "playerline": "I found you as a morsel cold upon"
+},
+{
+    "player": "ANTONY",
+    "playerline": "Dead Caesar's trencher; nay, you were a fragment"
+},
+{
+    "player": "ANTONY",
+    "playerline": "Of Gneius Pompey's, besides what hotter hours,"
+},
+{
+    "player": "ANTONY",
+    "playerline": "Unregistered in vulgar fame, you have"
+},
+{
+    "player": "ANTONY",
+    "playerline": "Luxuriously picked out. For I am sure,"
+},
+{
+    "player": "ANTONY",
+    "playerline": "Though you can guess what temperance should be,"
+},
+{
+    "player": "ANTONY",
+    "playerline": "You know not what it is."
+},
+{
+    "player": "CLEOPATRA",
+    "playerline": "Wherefore is this?"
+},
+{
+    "player": "ANTONY",
+    "playerline": "To let a fellow that will take rewards"
+},
+{
+    "player": "ANTONY",
+    "playerline": "And say 'God quit you!' be familiar with"
+},
+{
+    "player": "ANTONY",
+    "playerline": "My playfellow, your hand, this kingly seal"
+},
+{
+    "player": "ANTONY",
+    "playerline": "And plighter of high hearts! O, that I were"
+},
+{
+    "player": "ANTONY",
+    "playerline": "Upon the hill of Basan, to outroar"
+},
+{
+    "player": "ANTONY",
+    "playerline": "The horned herd! For I have savage cause,"
+},
+{
+    "player": "ANTONY",
+    "playerline": "And to proclaim it civilly were like"
+},
+{
+    "player": "ANTONY",
+    "playerline": "A haltered neck which does the hangman thank"
+},
+{
+    "player": "ANTONY",
+    "playerline": "For being yare about him."
+},
+{
+    "player": "DIRECTION",
+    "playerline": "[Enter a Servant with Thidias.]"
+},
+{
+    "player": "ANTONY",
+    "playerline": "Is he whipped?"
+},
+{
+    "player": "SERVANT",
+    "playerline": "Soundly, my lord."
+},
+{
+    "player": "ANTONY",
+    "playerline": "Cried he? And begged he pardon?"
+},
+{
+    "player": "SERVANT",
+    "playerline": "He did ask favor."
+},
+{
+    "player": "ANTONY",
+    "playerline": "If that thy father live, let him repent"
+},
+{
+    "player": "ANTONY",
+    "playerline": "Thou wast not made his daughter; and be thou sorry"
+},
+{
+    "player": "ANTONY",
+    "playerline": "To follow Caesar in his triumph, since"
+},
+{
+    "player": "ANTONY",
+    "playerline": "Thou hast been whipped for following him. Henceforth"
+},
+{
+    "player": "ANTONY",
+    "playerline": "The white hand of a lady fever thee;"
+},
+{
+    "player": "ANTONY",
+    "playerline": "Shake thou to look on 't. Get thee back to Caesar."
+},
+{
+    "player": "ANTONY",
+    "playerline": "Tell him thy entertainment. Look thou say"
+},
+{
+    "player": "ANTONY",
+    "playerline": "He makes me angry with him; for he seems"
+},
+{
+    "player": "ANTONY",
+    "playerline": "Proud and disdainful, harping on what I am,"
+},
+{
+    "player": "ANTONY",
+    "playerline": "Not what he knew I was. He makes me angry,"
+},
+{
+    "player": "ANTONY",
+    "playerline": "And at this time most easy 'tis to do 't,"
+},
+{
+    "player": "ANTONY",
+    "playerline": "When my good stars that were my former guides"
+},
+{
+    "player": "ANTONY",
+    "playerline": "Have empty left their orbs and shot their fires"
+},
+{
+    "player": "ANTONY",
+    "playerline": "Into th' abysm of hell. If he mislike"
+},
+{
+    "player": "ANTONY",
+    "playerline": "My speech and what is done, tell him he has"
+},
+{
+    "player": "ANTONY",
+    "playerline": "Hipparchus, my enfranched bondman, whom"
+},
+{
+    "player": "ANTONY",
+    "playerline": "He may at pleasure whip, or hang, or torture,"
+},
+{
+    "player": "ANTONY",
+    "playerline": "As he shall like to quit me. Urge it thou."
+},
+{
+    "player": "ANTONY",
+    "playerline": "Hence with thy stripes, begone!"
+},
+{
+    "player": "DIRECTION",
+    "playerline": "[Thidias exits.]"
+},
+{
+    "player": "CLEOPATRA",
+    "playerline": "Have you done yet?"
+},
+{
+    "player": "ANTONY",
+    "playerline": "Alack, our terrene moon is now eclipsed,"
+},
+{
+    "player": "ANTONY",
+    "playerline": "And it portends alone the fall of Antony."
+},
+{
+    "player": "CLEOPATRA",
+    "playerline": "I must stay his time."
+},
+{
+    "player": "ANTONY",
+    "playerline": "To flatter Caesar, would you mingle eyes"
+},
+{
+    "player": "ANTONY",
+    "playerline": "With one that ties his points?"
+},
+{
+    "player": "CLEOPATRA",
+    "playerline": "Not know me yet?"
+},
+{
+    "player": "ANTONY",
+    "playerline": "Coldhearted toward me?"
+},
+{
+    "player": "CLEOPATRA",
+    "playerline": "Ah, dear, if I be so,"
+},
+{
+    "player": "CLEOPATRA",
+    "playerline": "From my cold heart let heaven engender hail"
+},
+{
+    "player": "CLEOPATRA",
+    "playerline": "And poison it in the source, and the first stone"
+},
+{
+    "player": "CLEOPATRA",
+    "playerline": "Drop in my neck; as it determines, so"
+},
+{
+    "player": "CLEOPATRA",
+    "playerline": "Dissolve my life! The next Caesarion smite,"
+},
+{
+    "player": "CLEOPATRA",
+    "playerline": "Till by degrees the memory of my womb,"
+},
+{
+    "player": "CLEOPATRA",
+    "playerline": "Together with my brave Egyptians all,"
+},
+{
+    "player": "CLEOPATRA",
+    "playerline": "By the discandying of this pelleted storm"
+},
+{
+    "player": "CLEOPATRA",
+    "playerline": "Lie graveless till the flies and gnats of Nile"
+},
+{
+    "player": "CLEOPATRA",
+    "playerline": "Have buried them for prey!"
+},
+{
+    "player": "ANTONY",
+    "playerline": "I am satisfied."
+},
+{
+    "player": "ANTONY",
+    "playerline": "Caesar sits down in Alexandria, where"
+},
+{
+    "player": "ANTONY",
+    "playerline": "I will oppose his fate. Our force by land"
+},
+{
+    "player": "ANTONY",
+    "playerline": "Hath nobly held; our severed navy too"
+},
+{
+    "player": "ANTONY",
+    "playerline": "Have knit again, and fleet, threatening most sealike."
+},
+{
+    "player": "ANTONY",
+    "playerline": "Where hast thou been, my heart? Dost thou hear, lady?"
+},
+{
+    "player": "ANTONY",
+    "playerline": "If from the field I shall return once more"
+},
+{
+    "player": "ANTONY",
+    "playerline": "To kiss these lips, I will appear in blood."
+},
+{
+    "player": "ANTONY",
+    "playerline": "I and my sword will earn our chronicle."
+},
+{
+    "player": "ANTONY",
+    "playerline": "There's hope in 't yet."
+},
+{
+    "player": "CLEOPATRA",
+    "playerline": "That's my brave lord!"
+},
+{
+    "player": "ANTONY",
+    "playerline": "I will be treble-sinewed, -hearted, -breathed,"
+},
+{
+    "player": "ANTONY",
+    "playerline": "And fight maliciously; for when mine hours"
+},
+{
+    "player": "ANTONY",
+    "playerline": "Were nice and lucky, men did ransom lives"
+},
+{
+    "player": "ANTONY",
+    "playerline": "Of me for jests. But now I'll set my teeth"
+},
+{
+    "player": "ANTONY",
+    "playerline": "And send to darkness all that stop me. Come,"
+},
+{
+    "player": "ANTONY",
+    "playerline": "Let's have one other gaudy night. Call to me"
+},
+{
+    "player": "ANTONY",
+    "playerline": "All my sad captains. Fill our bowls once more."
+},
+{
+    "player": "ANTONY",
+    "playerline": "Let's mock the midnight bell."
+},
+{
+    "player": "CLEOPATRA",
+    "playerline": "It is my birthday."
+},
+{
+    "player": "CLEOPATRA",
+    "playerline": "I had thought t' have held it poor. But since my lord"
+},
+{
+    "player": "CLEOPATRA",
+    "playerline": "Is Antony again, I will be Cleopatra."
+},
+{
+    "player": "ANTONY",
+    "playerline": "We will yet do well."
+},
+{
+    "player": "CLEOPATRA",
+    "playerline": "Call all his noble captains to my lord."
+},
+{
+    "player": "ANTONY",
+    "playerline": "Do so; we'll speak to them, and tonight I'll force"
+},
+{
+    "player": "ANTONY",
+    "playerline": "The wine peep through their scars.--Come on, my queen,"
+},
+{
+    "player": "ANTONY",
+    "playerline": "There's sap in 't yet. The next time I do fight"
+},
+{
+    "player": "ANTONY",
+    "playerline": "I'll make Death love me, for I will contend"
+},
+{
+    "player": "ANTONY",
+    "playerline": "Even with his pestilent scythe."
+},
+{
+    "player": "DIRECTION",
+    "playerline": "[All but Enobarbus exit.]"
+},
+{
+    "player": "ENOBARBUS",
+    "playerline": "Now he'll outstare the lightning. To be furious"
+},
+{
+    "player": "ENOBARBUS",
+    "playerline": "Is to be frighted out of fear, and in that mood"
+},
+{
+    "player": "ENOBARBUS",
+    "playerline": "The dove will peck the estridge; and I see still"
+},
+{
+    "player": "ENOBARBUS",
+    "playerline": "A diminution in our captain's brain"
+},
+{
+    "player": "ENOBARBUS",
+    "playerline": "Restores his heart. When valor preys on reason,"
+},
+{
+    "player": "ENOBARBUS",
+    "playerline": "It eats the sword it fights with. I will seek"
+},
+{
+    "player": "ENOBARBUS",
+    "playerline": "Some way to leave him."
+},
+{
+    "player": "DIRECTION",
+    "playerline": "[He exits.]"
+}]

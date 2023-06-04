@@ -1,0 +1,52 @@
+[{
+    "player": "SCENE",
+    "playerline": "SCENE X"
+},
+{
+    "player": "DIRECTION",
+    "playerline": "[Enter Antony and Scarus, with their army.]"
+},
+{
+    "player": "ANTONY",
+    "playerline": "Their preparation is today by sea;"
+},
+{
+    "player": "ANTONY",
+    "playerline": "We please them not by land."
+},
+{
+    "player": "SCARUS",
+    "playerline": "For both, my lord."
+},
+{
+    "player": "ANTONY",
+    "playerline": "I would they'd fight i' th' fire or i' th' air;"
+},
+{
+    "player": "ANTONY",
+    "playerline": "We'd fight there too. But this it is: our foot"
+},
+{
+    "player": "ANTONY",
+    "playerline": "Upon the hills adjoining to the city"
+},
+{
+    "player": "ANTONY",
+    "playerline": "Shall stay with us--order for sea is given;"
+},
+{
+    "player": "ANTONY",
+    "playerline": "They have put forth the haven--"
+},
+{
+    "player": "ANTONY",
+    "playerline": "Where their appointment we may best discover"
+},
+{
+    "player": "ANTONY",
+    "playerline": "And look on their endeavor."
+},
+{
+    "player": "DIRECTION",
+    "playerline": "[They exit.]"
+}]

@@ -1,0 +1,748 @@
+[{
+    "player": "SCENE",
+    "playerline": "SCENE XIV"
+},
+{
+    "player": "DIRECTION",
+    "playerline": "[Enter Antony and Eros.]"
+},
+{
+    "player": "ANTONY",
+    "playerline": "Eros, thou yet behold'st me?"
+},
+{
+    "player": "EROS",
+    "playerline": "Ay, noble lord."
+},
+{
+    "player": "ANTONY",
+    "playerline": "Sometime we see a cloud that's dragonish,"
+},
+{
+    "player": "ANTONY",
+    "playerline": "A vapor sometime like a bear or lion,"
+},
+{
+    "player": "ANTONY",
+    "playerline": "A towered citadel, a pendent rock,"
+},
+{
+    "player": "ANTONY",
+    "playerline": "A forked mountain, or blue promontory"
+},
+{
+    "player": "ANTONY",
+    "playerline": "With trees upon 't that nod unto the world"
+},
+{
+    "player": "ANTONY",
+    "playerline": "And mock our eyes with air. Thou hast seen these signs."
+},
+{
+    "player": "ANTONY",
+    "playerline": "They are black vesper's pageants."
+},
+{
+    "player": "EROS",
+    "playerline": "Ay, my lord."
+},
+{
+    "player": "ANTONY",
+    "playerline": "That which is now a horse, even with a thought"
+},
+{
+    "player": "ANTONY",
+    "playerline": "The rack dislimns and makes it indistinct"
+},
+{
+    "player": "ANTONY",
+    "playerline": "As water is in water."
+},
+{
+    "player": "EROS",
+    "playerline": "It does, my lord."
+},
+{
+    "player": "ANTONY",
+    "playerline": "My good knave Eros, now thy captain is"
+},
+{
+    "player": "ANTONY",
+    "playerline": "Even such a body. Here I am Antony,"
+},
+{
+    "player": "ANTONY",
+    "playerline": "Yet cannot hold this visible shape, my knave."
+},
+{
+    "player": "ANTONY",
+    "playerline": "I made these wars for Egypt, and the Queen,"
+},
+{
+    "player": "ANTONY",
+    "playerline": "Whose heart I thought I had, for she had mine--"
+},
+{
+    "player": "ANTONY",
+    "playerline": "Which whilst it was mine had annexed unto 't"
+},
+{
+    "player": "ANTONY",
+    "playerline": "A million more, now lost--she, Eros, has"
+},
+{
+    "player": "ANTONY",
+    "playerline": "Packed cards with Caesar and false-played my glory"
+},
+{
+    "player": "ANTONY",
+    "playerline": "Unto an enemy's triumph."
+},
+{
+    "player": "ANTONY",
+    "playerline": "Nay, weep not, gentle Eros. There is left us"
+},
+{
+    "player": "ANTONY",
+    "playerline": "Ourselves to end ourselves."
+},
+{
+    "player": "DIRECTION",
+    "playerline": "[Enter Mardian.]"
+},
+{
+    "player": "ANTONY",
+    "playerline": "O, thy vile lady!"
+},
+{
+    "player": "ANTONY",
+    "playerline": "She has robbed me of my sword."
+},
+{
+    "player": "MARDIAN",
+    "playerline": "No, Antony,"
+},
+{
+    "player": "MARDIAN",
+    "playerline": "My mistress loved thee and her fortunes mingled"
+},
+{
+    "player": "MARDIAN",
+    "playerline": "With thine entirely."
+},
+{
+    "player": "ANTONY",
+    "playerline": "Hence, saucy eunuch! Peace!"
+},
+{
+    "player": "ANTONY",
+    "playerline": "She hath betrayed me and shall die the death."
+},
+{
+    "player": "MARDIAN",
+    "playerline": "Death of one person can be paid but once,"
+},
+{
+    "player": "MARDIAN",
+    "playerline": "And that she has discharged. What thou wouldst do"
+},
+{
+    "player": "MARDIAN",
+    "playerline": "Is done unto thy hand. The last she spake"
+},
+{
+    "player": "MARDIAN",
+    "playerline": "Was 'Antony, most noble Antony.'"
+},
+{
+    "player": "MARDIAN",
+    "playerline": "Then in the midst a tearing groan did break"
+},
+{
+    "player": "MARDIAN",
+    "playerline": "The name of Antony; it was divided"
+},
+{
+    "player": "MARDIAN",
+    "playerline": "Between her heart and lips. She rendered life"
+},
+{
+    "player": "MARDIAN",
+    "playerline": "Thy name so buried in her."
+},
+{
+    "player": "ANTONY",
+    "playerline": "Dead, then?"
+},
+{
+    "player": "MARDIAN",
+    "playerline": "Dead."
+},
+{
+    "player": "ANTONY",
+    "playerline": "Unarm, Eros. The long day's task is done,"
+},
+{
+    "player": "ANTONY",
+    "playerline": "And we must sleep.--That thou depart'st hence safe"
+},
+{
+    "player": "ANTONY",
+    "playerline": "Does pay thy labor richly. Go."
+},
+{
+    "player": "DIRECTION",
+    "playerline": "[Mardian exits.]"
+},
+{
+    "player": "ANTONY",
+    "playerline": "Off, pluck off!"
+},
+{
+    "player": "DIRECTION",
+    "playerline": "[Eros begins to remove Antony's armor.]"
+},
+{
+    "player": "ANTONY",
+    "playerline": "The sevenfold shield of Ajax cannot keep"
+},
+{
+    "player": "ANTONY",
+    "playerline": "The battery from my heart. O, cleave, my sides!"
+},
+{
+    "player": "ANTONY",
+    "playerline": "Heart, once be stronger than thy continent;"
+},
+{
+    "player": "ANTONY",
+    "playerline": "Crack thy frail case. Apace, Eros, apace!"
+},
+{
+    "player": "ANTONY",
+    "playerline": "No more a soldier. Bruised pieces, go."
+},
+{
+    "player": "ANTONY",
+    "playerline": "You have been nobly borne.--From me awhile."
+},
+{
+    "player": "DIRECTION",
+    "playerline": "[Eros exits.]"
+},
+{
+    "player": "ANTONY",
+    "playerline": "I will o'ertake thee, Cleopatra, and"
+},
+{
+    "player": "ANTONY",
+    "playerline": "Weep for my pardon. So it must be, for now"
+},
+{
+    "player": "ANTONY",
+    "playerline": "All length is torture. Since the torch is out,"
+},
+{
+    "player": "ANTONY",
+    "playerline": "Lie down and stray no farther. Now all labor"
+},
+{
+    "player": "ANTONY",
+    "playerline": "Mars what it does; yea, very force entangles"
+},
+{
+    "player": "ANTONY",
+    "playerline": "Itself with strength. Seal, then, and all is done.--"
+},
+{
+    "player": "ANTONY",
+    "playerline": "Eros!--I come, my queen.--Eros!--Stay for me."
+},
+{
+    "player": "ANTONY",
+    "playerline": "Where souls do couch on flowers, we'll hand in hand,"
+},
+{
+    "player": "ANTONY",
+    "playerline": "And with our sprightly port make the ghosts gaze."
+},
+{
+    "player": "ANTONY",
+    "playerline": "Dido and her Aeneas shall want troops,"
+},
+{
+    "player": "ANTONY",
+    "playerline": "And all the haunt be ours.--Come, Eros, Eros!"
+},
+{
+    "player": "DIRECTION",
+    "playerline": "[Enter Eros.]"
+},
+{
+    "player": "EROS",
+    "playerline": "What would my lord?"
+},
+{
+    "player": "ANTONY",
+    "playerline": "Since Cleopatra died"
+},
+{
+    "player": "ANTONY",
+    "playerline": "I have lived in such dishonor that the gods"
+},
+{
+    "player": "ANTONY",
+    "playerline": "Detest my baseness. I, that with my sword"
+},
+{
+    "player": "ANTONY",
+    "playerline": "Quartered the world and o'er green Neptune's back"
+},
+{
+    "player": "ANTONY",
+    "playerline": "With ships made cities, condemn myself to lack"
+},
+{
+    "player": "ANTONY",
+    "playerline": "The courage of a woman--less noble mind"
+},
+{
+    "player": "ANTONY",
+    "playerline": "Than she which, by her death, our Caesar tells"
+},
+{
+    "player": "ANTONY",
+    "playerline": "'I am conqueror of myself.' Thou art sworn, Eros,"
+},
+{
+    "player": "ANTONY",
+    "playerline": "That when the exigent should come, which now"
+},
+{
+    "player": "ANTONY",
+    "playerline": "Is come indeed, when I should see behind me"
+},
+{
+    "player": "ANTONY",
+    "playerline": "Th' inevitable prosecution of"
+},
+{
+    "player": "ANTONY",
+    "playerline": "Disgrace and horror, that on my command"
+},
+{
+    "player": "ANTONY",
+    "playerline": "Thou then wouldst kill me. Do 't. The time is come."
+},
+{
+    "player": "ANTONY",
+    "playerline": "Thou strik'st not me; 'tis Caesar thou defeat'st."
+},
+{
+    "player": "ANTONY",
+    "playerline": "Put color in thy cheek."
+},
+{
+    "player": "EROS",
+    "playerline": "The gods withhold me!"
+},
+{
+    "player": "EROS",
+    "playerline": "Shall I do that which all the Parthian darts,"
+},
+{
+    "player": "EROS",
+    "playerline": "Though enemy, lost aim and could not?"
+},
+{
+    "player": "ANTONY",
+    "playerline": "Eros,"
+},
+{
+    "player": "ANTONY",
+    "playerline": "Wouldst thou be windowed in great Rome and see"
+},
+{
+    "player": "ANTONY",
+    "playerline": "Thy master thus with pleached arms, bending down"
+},
+{
+    "player": "ANTONY",
+    "playerline": "His corrigible neck, his face subdued"
+},
+{
+    "player": "ANTONY",
+    "playerline": "To penetrative shame, whilst the wheeled seat"
+},
+{
+    "player": "ANTONY",
+    "playerline": "Of fortunate Caesar, drawn before him, branded"
+},
+{
+    "player": "ANTONY",
+    "playerline": "His baseness that ensued?"
+},
+{
+    "player": "EROS",
+    "playerline": "I would not see 't."
+},
+{
+    "player": "ANTONY",
+    "playerline": "Come, then, for with a wound I must be cured."
+},
+{
+    "player": "ANTONY",
+    "playerline": "Draw that thy honest sword, which thou hast worn"
+},
+{
+    "player": "ANTONY",
+    "playerline": "Most useful for thy country."
+},
+{
+    "player": "EROS",
+    "playerline": "O, sir, pardon me!"
+},
+{
+    "player": "ANTONY",
+    "playerline": "When I did make thee free, swor'st thou not then"
+},
+{
+    "player": "ANTONY",
+    "playerline": "To do this when I bade thee? Do it at once,"
+},
+{
+    "player": "ANTONY",
+    "playerline": "Or thy precedent services are all"
+},
+{
+    "player": "ANTONY",
+    "playerline": "But accidents unpurposed. Draw, and come."
+},
+{
+    "player": "EROS",
+    "playerline": "Turn from me then that noble countenance"
+},
+{
+    "player": "EROS",
+    "playerline": "Wherein the worship of the whole world lies."
+},
+{
+    "player": "ANTONY",
+    "playerline": "Lo thee!"
+},
+{
+    "player": "DIRECTION",
+    "playerline": "[He turns away.]"
+},
+{
+    "player": "EROS",
+    "playerline": "My sword is drawn."
+},
+{
+    "player": "ANTONY",
+    "playerline": "Then let it do at once"
+},
+{
+    "player": "ANTONY",
+    "playerline": "The thing why thou hast drawn it."
+},
+{
+    "player": "EROS",
+    "playerline": "My dear master,"
+},
+{
+    "player": "EROS",
+    "playerline": "My captain, and my emperor, let me say,"
+},
+{
+    "player": "EROS",
+    "playerline": "Before I strike this bloody stroke, farewell."
+},
+{
+    "player": "ANTONY",
+    "playerline": "'Tis said, man, and farewell."
+},
+{
+    "player": "EROS",
+    "playerline": "Farewell, great chief. Shall I strike now?"
+},
+{
+    "player": "ANTONY",
+    "playerline": "Now, Eros."
+},
+{
+    "player": "EROS",
+    "playerline": "Why, there, then."
+},
+{
+    "player": "DIRECTION",
+    "playerline": "[Stabs himself.]"
+},
+{
+    "player": "EROS",
+    "playerline": "Thus I do escape the sorrow"
+},
+{
+    "player": "EROS",
+    "playerline": "Of Antony's death."
+},
+{
+    "player": "DIRECTION",
+    "playerline": "[Dies.]"
+},
+{
+    "player": "ANTONY",
+    "playerline": "Thrice nobler than myself,"
+},
+{
+    "player": "ANTONY",
+    "playerline": "Thou teachest me, O valiant Eros, what"
+},
+{
+    "player": "ANTONY",
+    "playerline": "I should and thou couldst not. My queen and Eros"
+},
+{
+    "player": "ANTONY",
+    "playerline": "Have by their brave instruction got upon me"
+},
+{
+    "player": "ANTONY",
+    "playerline": "A nobleness in record. But I will be"
+},
+{
+    "player": "ANTONY",
+    "playerline": "A bridegroom in my death and run into 't"
+},
+{
+    "player": "ANTONY",
+    "playerline": "As to a lover's bed. Come then, and, Eros,"
+},
+{
+    "player": "ANTONY",
+    "playerline": "Thy master dies thy scholar. To do thus"
+},
+{
+    "player": "ANTONY",
+    "playerline": "I learned of thee. [He stabs himself.] How, not dead?"
+},
+{
+    "player": "ANTONY",
+    "playerline": "Not dead?"
+},
+{
+    "player": "ANTONY",
+    "playerline": "The guard, ho! O, dispatch me!"
+},
+{
+    "player": "DIRECTION",
+    "playerline": "[Enter a company of the Guard, one of them named"
+},
+{
+    "player": "DIRECTION",
+    "playerline": "Dercetus.]"
+},
+{
+    "player": "FIRST GUARD",
+    "playerline": "What's the noise?"
+},
+{
+    "player": "ANTONY",
+    "playerline": "I have done my work ill, friends. O, make an end"
+},
+{
+    "player": "ANTONY",
+    "playerline": "Of what I have begun!"
+},
+{
+    "player": "SECOND GUARD",
+    "playerline": "The star is fall'n."
+},
+{
+    "player": "FIRST GUARD",
+    "playerline": "And time is at his period."
+},
+{
+    "player": "ALL",
+    "playerline": "Alas, and woe!"
+},
+{
+    "player": "ANTONY",
+    "playerline": "Let him that loves me strike me dead."
+},
+{
+    "player": "FIRST GUARD",
+    "playerline": "Not I."
+},
+{
+    "player": "SECOND GUARD",
+    "playerline": "Nor I."
+},
+{
+    "player": "THIRD GUARD",
+    "playerline": "Nor anyone."
+},
+{
+    "player": "DIRECTION",
+    "playerline": "[All but Antony and Dercetus exit.]"
+},
+{
+    "player": "DERCETUS",
+    "playerline": "Thy death and fortunes bid thy followers fly."
+},
+{
+    "player": "DIRECTION",
+    "playerline": "[He takes Antony's sword.]"
+},
+{
+    "player": "DERCETUS",
+    "playerline": "This sword but shown to Caesar with this tidings"
+},
+{
+    "player": "DERCETUS",
+    "playerline": "Shall enter me with him."
+},
+{
+    "player": "DIRECTION",
+    "playerline": "[Enter Diomedes.]"
+},
+{
+    "player": "DIOMEDES",
+    "playerline": "Where's Antony?"
+},
+{
+    "player": "DERCETUS",
+    "playerline": "There, Diomed, there."
+},
+{
+    "player": "DIOMEDES",
+    "playerline": "Lives he? Wilt thou not answer, man?"
+},
+{
+    "player": "DIRECTION",
+    "playerline": "[Dercetus exits.]"
+},
+{
+    "player": "ANTONY",
+    "playerline": "Art thou there, Diomed? Draw thy sword, and give me"
+},
+{
+    "player": "ANTONY",
+    "playerline": "Sufficing strokes for death."
+},
+{
+    "player": "DIOMEDES",
+    "playerline": "Most absolute lord,"
+},
+{
+    "player": "DIOMEDES",
+    "playerline": "My mistress Cleopatra sent me to thee."
+},
+{
+    "player": "ANTONY",
+    "playerline": "When did she send thee?"
+},
+{
+    "player": "DIOMEDES",
+    "playerline": "Now, my lord."
+},
+{
+    "player": "ANTONY",
+    "playerline": "Where is she?"
+},
+{
+    "player": "DIOMEDES",
+    "playerline": "Locked in her monument. She had a prophesying fear"
+},
+{
+    "player": "DIOMEDES",
+    "playerline": "Of what hath come to pass. For when she saw--"
+},
+{
+    "player": "DIOMEDES",
+    "playerline": "Which never shall be found--you did suspect"
+},
+{
+    "player": "DIOMEDES",
+    "playerline": "She had disposed with Caesar, and that your rage"
+},
+{
+    "player": "DIOMEDES",
+    "playerline": "Would not be purged, she sent you word she was dead;"
+},
+{
+    "player": "DIOMEDES",
+    "playerline": "But fearing since how it might work, hath sent"
+},
+{
+    "player": "DIOMEDES",
+    "playerline": "Me to proclaim the truth, and I am come,"
+},
+{
+    "player": "DIOMEDES",
+    "playerline": "I dread, too late."
+},
+{
+    "player": "ANTONY",
+    "playerline": "Too late, good Diomed. Call my guard, I prithee."
+},
+{
+    "player": "DIOMEDES",
+    "playerline": "What ho! The Emperor's guard! The guard, what ho!"
+},
+{
+    "player": "DIOMEDES",
+    "playerline": "Come, your lord calls."
+},
+{
+    "player": "DIRECTION",
+    "playerline": "[Enter four or five of the Guard of Antony.]"
+},
+{
+    "player": "ANTONY",
+    "playerline": "Bear me, good friends, where Cleopatra bides."
+},
+{
+    "player": "ANTONY",
+    "playerline": "'Tis the last service that I shall command you."
+},
+{
+    "player": "FIRST GUARD",
+    "playerline": "Woe, woe are we, sir, you may not live to wear"
+},
+{
+    "player": "FIRST GUARD",
+    "playerline": "All your true followers out."
+},
+{
+    "player": "ALL",
+    "playerline": "Most heavy day!"
+},
+{
+    "player": "ANTONY",
+    "playerline": "Nay, good my fellows, do not please sharp fate"
+},
+{
+    "player": "ANTONY",
+    "playerline": "To grace it with your sorrows. Bid that welcome"
+},
+{
+    "player": "ANTONY",
+    "playerline": "Which comes to punish us, and we punish it,"
+},
+{
+    "player": "ANTONY",
+    "playerline": "Seeming to bear it lightly. Take me up."
+},
+{
+    "player": "ANTONY",
+    "playerline": "I have led you oft; carry me now, good friends,"
+},
+{
+    "player": "ANTONY",
+    "playerline": "And have my thanks for all."
+},
+{
+    "player": "DIRECTION",
+    "playerline": "[They exit bearing Antony and the body of Eros.]"
+}]

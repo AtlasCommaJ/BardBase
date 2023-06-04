@@ -1,0 +1,356 @@
+[{
+    "player": "SCENE",
+    "playerline": "SCENE XI"
+},
+{
+    "player": "DIRECTION",
+    "playerline": "[Enter Antony with Attendants.]"
+},
+{
+    "player": "ANTONY",
+    "playerline": "Hark, the land bids me tread no more upon 't."
+},
+{
+    "player": "ANTONY",
+    "playerline": "It is ashamed to bear me. Friends, come hither."
+},
+{
+    "player": "ANTONY",
+    "playerline": "I am so lated in the world that I"
+},
+{
+    "player": "ANTONY",
+    "playerline": "Have lost my way forever. I have a ship"
+},
+{
+    "player": "ANTONY",
+    "playerline": "Laden with gold. Take that, divide it. Fly,"
+},
+{
+    "player": "ANTONY",
+    "playerline": "And make your peace with Caesar."
+},
+{
+    "player": "ALL",
+    "playerline": "Fly? Not we!"
+},
+{
+    "player": "ANTONY",
+    "playerline": "I have fled myself and have instructed cowards"
+},
+{
+    "player": "ANTONY",
+    "playerline": "To run and show their shoulders. Friends, begone."
+},
+{
+    "player": "ANTONY",
+    "playerline": "I have myself resolved upon a course"
+},
+{
+    "player": "ANTONY",
+    "playerline": "Which has no need of you. Begone."
+},
+{
+    "player": "ANTONY",
+    "playerline": "My treasure's in the harbor; take it. O,"
+},
+{
+    "player": "ANTONY",
+    "playerline": "I followed that I blush to look upon!"
+},
+{
+    "player": "ANTONY",
+    "playerline": "My very hairs do mutiny, for the white"
+},
+{
+    "player": "ANTONY",
+    "playerline": "Reprove the brown for rashness, and they them"
+},
+{
+    "player": "ANTONY",
+    "playerline": "For fear and doting. Friends, begone. You shall"
+},
+{
+    "player": "ANTONY",
+    "playerline": "Have letters from me to some friends that will"
+},
+{
+    "player": "ANTONY",
+    "playerline": "Sweep your way for you. Pray you look not sad,"
+},
+{
+    "player": "ANTONY",
+    "playerline": "Nor make replies of loathness. Take the hint"
+},
+{
+    "player": "ANTONY",
+    "playerline": "Which my despair proclaims. Let that be left"
+},
+{
+    "player": "ANTONY",
+    "playerline": "Which leaves itself. To the seaside straightway!"
+},
+{
+    "player": "ANTONY",
+    "playerline": "I will possess you of that ship and treasure."
+},
+{
+    "player": "ANTONY",
+    "playerline": "Leave me, I pray, a little--pray you, now,"
+},
+{
+    "player": "ANTONY",
+    "playerline": "Nay, do so--for indeed I have lost command."
+},
+{
+    "player": "ANTONY",
+    "playerline": "Therefore I pray you--I'll see you by and by."
+},
+{
+    "player": "DIRECTION",
+    "playerline": "[Attendants move aside. Antony sits down.]"
+},
+{
+    "player": "DIRECTION",
+    "playerline": "[Enter Cleopatra led by Charmian, Iras, and Eros.]"
+},
+{
+    "player": "EROS",
+    "playerline": "Nay, gentle madam, to him, comfort him."
+},
+{
+    "player": "IRAS",
+    "playerline": "Do, most dear queen."
+},
+{
+    "player": "CHARMIAN",
+    "playerline": "Do! Why, what else?"
+},
+{
+    "player": "CLEOPATRA",
+    "playerline": "Let me sit down. O Juno!"
+},
+{
+    "player": "DIRECTION",
+    "playerline": "[She sits down.]"
+},
+{
+    "player": "ANTONY",
+    "playerline": "No, no, no, no, no."
+},
+{
+    "player": "EROS",
+    "playerline": "See you here, sir?"
+},
+{
+    "player": "ANTONY",
+    "playerline": "Oh fie, fie, fie!"
+},
+{
+    "player": "CHARMIAN",
+    "playerline": "Madam."
+},
+{
+    "player": "IRAS",
+    "playerline": "Madam, O good empress!"
+},
+{
+    "player": "EROS",
+    "playerline": "Sir, sir--"
+},
+{
+    "player": "ANTONY",
+    "playerline": "Yes, my lord, yes. He at Philippi kept"
+},
+{
+    "player": "ANTONY",
+    "playerline": "His sword e'en like a dancer, while I struck"
+},
+{
+    "player": "ANTONY",
+    "playerline": "The lean and wrinkled Cassius, and 'twas I"
+},
+{
+    "player": "ANTONY",
+    "playerline": "That the mad Brutus ended. He alone"
+},
+{
+    "player": "ANTONY",
+    "playerline": "Dealt on lieutenantry, and no practice had"
+},
+{
+    "player": "ANTONY",
+    "playerline": "In the brave squares of war, yet now--no matter."
+},
+{
+    "player": "CLEOPATRA",
+    "playerline": "Ah, stand by."
+},
+{
+    "player": "EROS",
+    "playerline": "The Queen, my lord, the Queen."
+},
+{
+    "player": "IRAS",
+    "playerline": "Go to him, madam; speak to him."
+},
+{
+    "player": "IRAS",
+    "playerline": "He's unqualitied with very shame."
+},
+{
+    "player": "CLEOPATRA",
+    "playerline": "Well, then, sustain me. O!"
+},
+{
+    "player": "EROS",
+    "playerline": "Most noble sir, arise. The Queen approaches."
+},
+{
+    "player": "EROS",
+    "playerline": "Her head's declined, and death will seize her but"
+},
+{
+    "player": "EROS",
+    "playerline": "Your comfort makes the rescue."
+},
+{
+    "player": "ANTONY",
+    "playerline": "I have offended reputation,"
+},
+{
+    "player": "ANTONY",
+    "playerline": "A most unnoble swerving."
+},
+{
+    "player": "EROS",
+    "playerline": "Sir, the Queen."
+},
+{
+    "player": "ANTONY",
+    "playerline": "O, whither hast them led me, Egypt? See"
+},
+{
+    "player": "ANTONY",
+    "playerline": "How I convey my shame out of thine eyes,"
+},
+{
+    "player": "ANTONY",
+    "playerline": "By looking back what I have left behind"
+},
+{
+    "player": "ANTONY",
+    "playerline": "'Stroyed in dishonor."
+},
+{
+    "player": "CLEOPATRA",
+    "playerline": "O, my lord, my lord,"
+},
+{
+    "player": "CLEOPATRA",
+    "playerline": "Forgive my fearful sails! I little thought"
+},
+{
+    "player": "CLEOPATRA",
+    "playerline": "You would have followed."
+},
+{
+    "player": "ANTONY",
+    "playerline": "Egypt, thou knew'st too well"
+},
+{
+    "player": "ANTONY",
+    "playerline": "My heart was to thy rudder tied by th' strings,"
+},
+{
+    "player": "ANTONY",
+    "playerline": "And thou shouldst tow me after. O'er my spirit"
+},
+{
+    "player": "ANTONY",
+    "playerline": "Thy full supremacy thou knew'st, and that"
+},
+{
+    "player": "ANTONY",
+    "playerline": "Thy beck might from the bidding of the gods"
+},
+{
+    "player": "ANTONY",
+    "playerline": "Command me."
+},
+{
+    "player": "CLEOPATRA",
+    "playerline": "O, my pardon!"
+},
+{
+    "player": "ANTONY",
+    "playerline": "Now I must"
+},
+{
+    "player": "ANTONY",
+    "playerline": "To the young man send humble treaties, dodge"
+},
+{
+    "player": "ANTONY",
+    "playerline": "And palter in the shifts of lowness, who"
+},
+{
+    "player": "ANTONY",
+    "playerline": "With half the bulk o' th' world played as I pleased,"
+},
+{
+    "player": "ANTONY",
+    "playerline": "Making and marring fortunes. You did know"
+},
+{
+    "player": "ANTONY",
+    "playerline": "How much you were my conqueror, and that"
+},
+{
+    "player": "ANTONY",
+    "playerline": "My sword, made weak by my affection, would"
+},
+{
+    "player": "ANTONY",
+    "playerline": "Obey it on all cause."
+},
+{
+    "player": "CLEOPATRA",
+    "playerline": "Pardon, pardon!"
+},
+{
+    "player": "ANTONY",
+    "playerline": "Fall not a tear, I say; one of them rates"
+},
+{
+    "player": "ANTONY",
+    "playerline": "All that is won and lost. Give me a kiss."
+},
+{
+    "player": "DIRECTION",
+    "playerline": "[They kiss.]"
+},
+{
+    "player": "ANTONY",
+    "playerline": "Even this repays me.--"
+},
+{
+    "player": "ANTONY",
+    "playerline": "We sent our schoolmaster. Is he come back?--"
+},
+{
+    "player": "ANTONY",
+    "playerline": "Love, I am full of lead.--Some wine"
+},
+{
+    "player": "ANTONY",
+    "playerline": "Within there, and our viands! Fortune knows"
+},
+{
+    "player": "ANTONY",
+    "playerline": "We scorn her most when most she offers blows."
+},
+{
+    "player": "DIRECTION",
+    "playerline": "[They exit.]"
+}]

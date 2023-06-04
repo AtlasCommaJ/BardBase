@@ -1,0 +1,60 @@
+[{
+    "player": "SCENE",
+    "playerline": "SCENE XIII"
+},
+{
+    "player": "DIRECTION",
+    "playerline": "[Enter Cleopatra, Charmian, Iras, and Mardian.]"
+},
+{
+    "player": "CLEOPATRA",
+    "playerline": "Help me, my women! O, he's more mad"
+},
+{
+    "player": "CLEOPATRA",
+    "playerline": "Than Telamon for his shield; the boar of Thessaly"
+},
+{
+    "player": "CLEOPATRA",
+    "playerline": "Was never so embossed."
+},
+{
+    "player": "CHARMIAN",
+    "playerline": "To th' monument!"
+},
+{
+    "player": "CHARMIAN",
+    "playerline": "There lock yourself and send him word you are dead."
+},
+{
+    "player": "CHARMIAN",
+    "playerline": "The soul and body rive not more in parting"
+},
+{
+    "player": "CHARMIAN",
+    "playerline": "Than greatness going off."
+},
+{
+    "player": "CLEOPATRA",
+    "playerline": "To th' monument!--"
+},
+{
+    "player": "CLEOPATRA",
+    "playerline": "Mardian, go tell him I have slain myself."
+},
+{
+    "player": "CLEOPATRA",
+    "playerline": "Say that the last I spoke was 'Antony,'"
+},
+{
+    "player": "CLEOPATRA",
+    "playerline": "And word it, prithee, piteously. Hence, Mardian,"
+},
+{
+    "player": "CLEOPATRA",
+    "playerline": "And bring me how he takes my death.--To th' monument!"
+},
+{
+    "player": "DIRECTION",
+    "playerline": "[They exit.]"
+}]
