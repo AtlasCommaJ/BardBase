@@ -2,56 +2,56 @@
   display: flex;
 }
 
-    .lines {
-      flex: 5;
-      overflow: auto;
-      height: 70vh;
-    }
+.lines {
+  flex: 5;
+  overflow: auto;
+  height: 70vh;
+}
 
-    .navigation {
-      flex: 1;
-      max-height: 265px;
-    }
+.navigation {
+  flex: 1;
+  max-height: 325px;
+}
 
-    .mobileNav {
-      flex: 1;
-      position: fixed;
-      right: 15px;
-      bottom: 15px;
-    }
+.mobileNav {
+  flex: 1;
+  position: fixed;
+  right: 15px;
+  bottom: 15px;
+}
 
-    .control {
-      flex: 4;
-      overflow: wrap;
-      flex-shrink: 0;
-    }
+.control {
+  flex: 4;
+  overflow: wrap;
+  flex-shrink: 0;
+}
 
 button.panel {
-    height: 40px;
-    width: 100%;
+  height: 40px;
+  width: 100%;
 }
 
 button.mobile {
-  opacity: .75;
+  opacity: 0.75;
   height: 40px;
   border-radius: 20px;
 }
 
 /* Only show script when printing */
-@media print { 
-    * {
-        visibility: hidden;
-    }
+@media print {
+  * {
+    visibility: hidden;
+  }
 
-    .lines * {
-        visibility: visible;
-    }
+  .lines * {
+    visibility: visible;
+  }
 
-    .lines {
-        position: absolute;
-        width: 100vh;
-        top: 0px;
-        margin-top: 0px;
-        overflow: visible;
-    }
+  .lines {
+    position: absolute;
+    width: 100vh;
+    top: 0px;
+    margin-top: 0px;
+    overflow: visible;
+  }
 }

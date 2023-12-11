@@ -9,13 +9,8 @@ import Control from "./Control";
 // Amplify.configure(awsconfig);
 
 const Script = (props) => {
-  const {
-    curPlay,
-    curScene,
-    curRole,
-    handleSceneChange,
-    handleRoleChange,
-  } = props;
+  const { curPlay, curScene, curRole, handleSceneChange, handleRoleChange } =
+    props;
 
   const [script, setScript] = useState([]);
   const [lineRefs, setLineRefs] = React.useState([]);
@@ -40,6 +35,21 @@ const Script = (props) => {
   const scrollToNext = useCallback(
     (offset, pos) => {
       for (let i = focusLine + 1 + offset; i < script.length; i++) {
+        if (!curRole.length || curRole.includes(script[i].character)) {
+          handleScroll(i - offset, pos);
+          return;
+        }
+      }
+      handleScroll(0, "start");
+      setFocusLine(-1);
+    },
+    [script, curRole, focusLine, handleScroll]
+  );
+
+  //handles scroll via "PREVIOUS" buttons
+  const scrollToPrevious = useCallback(
+    (offset, pos) => {
+      for (let i = focusLine - 1 + offset; i >= 0; i--) {
         if (!curRole.length || curRole.includes(script[i].character)) {
           handleScroll(i - offset, pos);
           return;
@@ -206,6 +216,12 @@ const Script = (props) => {
             >
               NEXT LINE
             </button>
+            <button
+              className="mobile"
+              onClick={() => scrollToPrevious(0, "center")}
+            >
+              PREVIOUS LINE
+            </button>
             <p />
             <button className="mobile" onClick={() => scrollToNext(1, "end")}>
               NEXT CUE
@@ -228,6 +244,13 @@ const Script = (props) => {
           <div>
             <button className="panel" onClick={() => scrollToNext(0, "center")}>
               NEXT LINE
+            </button>
+            <p />
+            <button
+              className="panel"
+              onClick={() => scrollToPrevious(0, "center")}
+            >
+              PREVIOUS LINE
             </button>
             <p />
             <button className="panel" onClick={() => scrollToNext(1, "end")}>
