@@ -121,7 +121,7 @@ const App = () => {
         />
       </div>
       <div className="credit">
-        Created by James Atlas. Version 1.4. Send feedback, comments, notes,
+        Created by James Atlas. Version 1.5. Send feedback, comments, notes,
         errors to AtlasCommaJ@gmail.com.
         <br />
         Text retrieved from the
