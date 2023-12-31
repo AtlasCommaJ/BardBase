@@ -132,29 +132,24 @@ const Script = (props) => {
       } else {
         if (counter > 0) {
           blocks.push(
-            <p>
-              <TextBlock
-                character={"DIRECTION"}
-                text={[`[${counter} line(s) skipped]`]}
-                specialBlockType={true}
-              />
-            </p>
+            <TextBlock
+              character={"DIRECTION"}
+              text={[`[${counter} line(s) skipped]`]}
+              specialBlockType={true}
+            />
           );
           counter = 0;
         }
         blocks.push(
-          <p key={index}>
-            <TextBlock
-              handleScroll={() => handleScroll(id)}
-              myRef={lineRefs[id]}
-              character={character}
-              text={block.text}
-              specialBlockType={["ACT", "SCENE", "DIRECTION"].includes(
-                character
-              )}
-              highlightType={getHighlightType(id)}
-            />
-          </p>
+          <TextBlock
+            key={index}
+            handleScroll={() => handleScroll(id)}
+            myRef={lineRefs[id]}
+            character={character}
+            text={block.text}
+            specialBlockType={["ACT", "SCENE", "DIRECTION"].includes(character)}
+            highlightType={getHighlightType(id)}
+          />
         );
       }
     }
@@ -172,7 +167,7 @@ const Script = (props) => {
     //   name: "print",
     //   attributes: { condensed: cueSheetMode },
     // });
-  }, [cueSheetMode]);
+  }, []);
 
   if (isMobile) {
     return (

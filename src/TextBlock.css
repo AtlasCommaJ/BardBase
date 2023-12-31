@@ -1,64 +1,65 @@
 .block {
-    border-radius: 2px 15px 15px 2px;
-    width: 75%;
-    overflow: hidden;
+  border-radius: 2px 15px 15px 2px;
+  width: 75%;
+  overflow: hidden;
+  margin-top: 1em;
+  margin-bottom: 1em;
 }
 
 .blockMobile {
-    border-radius: 2px 15px 15px 2px;
-    overflow: hidden;
+  border-radius: 2px 15px 15px 2px;
+  overflow: hidden;
+  margin-top: 1em;
+  margin-bottom: 1em;
+}
+
+.textblock {
+  margin-top: 1em;
+  margin-bottom: 1em;
 }
 
 /* Highlight Type */
 .focus {
-    background: #f2eec4;
+  background: #f2eec4;
 }
 .track {
-    background: #f8c9c4;
-
+  background: #f8c9c4;
 }
 .focustrack {
-    background: #deb887; 
+  background: #deb887;
 }
 .cue {
-    background: #00EDFF;
+  background: #00edff;
 }
 .focuscue {
-    background: #00D0FF;
+  background: #00d0ff;
 }
-
 
 /* Block Type */
 .DIRECTION {
-    font-style: italic;
+  font-style: italic;
 }
 .ACT {
-    font-weight: bold;
+  font-weight: bold;
 }
 .SCENE {
-    font-weight: bold;
+  font-weight: bold;
 }
 .text {
-    margin-left: 8px; 
+  margin-left: 8px;
 }
-
 
 /* Highlight name when tracking */
-.track .character,.focustrack .character {
-    border-radius: 2px 5px 5px 0px;
-    padding: 0px 2px;
-    background: #C0392B;
-    color: white;
-    font-size: 16px;
+.track .character,
+.focustrack .character {
+  border-radius: 2px 5px 5px 0px;
+  padding: 0px 2px;
+  background: #c0392b;
+  color: white;
+  font-size: 16px;
 }
-
 
 /* Font for character names */
- .character {
-    font-size: 16px;
+.character {
+  font-size: 16px;
 }
-
-
-
-
-
