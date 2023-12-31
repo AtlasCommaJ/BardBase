@@ -16,8 +16,8 @@ const Control = (props) => {
           let players = [];
           for (let r of data) {
             if (
-              !["ACT", "SCENE", "DIRECTION", "All"].includes(r.player) &&
-              !r.player.includes("/")
+              !["ACT", "SCENE", "DIRECTION", "All"].includes(r.player)
+              // !r.player.includes("/")
               // !r.player.includes("(")
             )
               players.push(r.player);

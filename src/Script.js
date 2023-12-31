@@ -21,6 +21,13 @@ const Script = (props) => {
 
   const isMobile = window.innerWidth <= 500;
 
+  const isInScene = (k) => {
+    const arrayIntersection = (array1, array2) => {
+      return array1.filter((value) => array2.includes(value)).length > 0;
+    };
+    return arrayIntersection(curRole, script[k].character.split("/"));
+  };
+
   //either called by buttons or on click
   const handleScroll = useCallback(
     (id, pos = "center") => {
@@ -35,7 +42,7 @@ const Script = (props) => {
   const scrollToNext = useCallback(
     (offset, pos) => {
       for (let i = focusLine + 1 + offset; i < script.length; i++) {
-        if (!curRole.length || curRole.includes(script[i].character)) {
+        if (!curRole.length || isInScene(i)) {
           handleScroll(i - offset, pos);
           return;
         }
@@ -50,7 +57,7 @@ const Script = (props) => {
   const scrollToPrevious = useCallback(
     (offset, pos) => {
       for (let i = focusLine - 1 + offset; i >= 0; i--) {
-        if (!curRole.length || curRole.includes(script[i].character)) {
+        if (!curRole.length || isInScene(i)) {
           handleScroll(i - offset, pos);
           return;
         }
@@ -105,12 +112,8 @@ const Script = (props) => {
       let res = "";
       if (idx === focusLine) res += "focus";
       if (!curRole.length) return res;
-      if (curRole.includes(script[idx].character)) res += "track";
-      else if (
-        !highlightCues &&
-        script[idx + 1] &&
-        curRole.includes(script[idx + 1].character)
-      )
+      if (isInScene(idx)) res += "track";
+      else if (!highlightCues && script[idx + 1] && isInScene(idx + 1))
         res += "cue";
       return res;
     },

@@ -1,1 +1,993 @@
-[{"player": "SCENE", "playerline": "SCENE III"}, {"player": "CASSIUS", "playerline": "That you have wronged me doth appear in this:"}, {"player": "CASSIUS", "playerline": "You have condemned and noted Lucius Pella"}, {"player": "CASSIUS", "playerline": "For taking bribes here of the Sardians,"}, {"player": "CASSIUS", "playerline": "Wherein my letters, praying on his side"}, {"player": "CASSIUS", "playerline": "Because I knew the man, was slighted off."}, {"player": "BRUTUS", "playerline": "You wronged yourself to write in such a case."}, {"player": "CASSIUS", "playerline": "In such a time as this it is not meet"}, {"player": "CASSIUS", "playerline": "That every nice offense should bear his comment."}, {"player": "BRUTUS", "playerline": "Let me tell you, Cassius, you yourself"}, {"player": "BRUTUS", "playerline": "Are much condemned to have an itching palm,"}, {"player": "BRUTUS", "playerline": "To sell and mart your offices for gold"}, {"player": "BRUTUS", "playerline": "To undeservers."}, {"player": "CASSIUS", "playerline": "I an itching palm?"}, {"player": "CASSIUS", "playerline": "You know that you are Brutus that speaks this,"}, {"player": "CASSIUS", "playerline": "Or, by the gods, this speech were else your last."}, {"player": "BRUTUS", "playerline": "The name of Cassius honors this corruption,"}, {"player": "BRUTUS", "playerline": "And chastisement doth therefore hide his head."}, {"player": "CASSIUS", "playerline": "Chastisement?"}, {"player": "BRUTUS", "playerline": "Remember March; the ides of March remember."}, {"player": "BRUTUS", "playerline": "Did not great Julius bleed for justice' sake?"}, {"player": "BRUTUS", "playerline": "What villain touched his body that did stab"}, {"player": "BRUTUS", "playerline": "And not for justice? What, shall one of us"}, {"player": "BRUTUS", "playerline": "That struck the foremost man of all this world"}, {"player": "BRUTUS", "playerline": "But for supporting robbers, shall we now"}, {"player": "BRUTUS", "playerline": "Contaminate our fingers with base bribes"}, {"player": "BRUTUS", "playerline": "And sell the mighty space of our large honors"}, {"player": "BRUTUS", "playerline": "For so much trash as may be grasped thus?"}, {"player": "BRUTUS", "playerline": "I had rather be a dog and bay the moon"}, {"player": "BRUTUS", "playerline": "Than such a Roman."}, {"player": "CASSIUS", "playerline": "Brutus, bait not me."}, {"player": "CASSIUS", "playerline": "I'll not endure it. You forget yourself"}, {"player": "CASSIUS", "playerline": "To hedge me in. I am a soldier, I,"}, {"player": "CASSIUS", "playerline": "Older in practice, abler than yourself"}, {"player": "CASSIUS", "playerline": "To make conditions."}, {"player": "BRUTUS", "playerline": "Go to! You are not, Cassius."}, {"player": "CASSIUS", "playerline": "I am."}, {"player": "BRUTUS", "playerline": "I say you are not."}, {"player": "CASSIUS", "playerline": "Urge me no more. I shall forget myself."}, {"player": "CASSIUS", "playerline": "Have mind upon your health. Tempt me no farther."}, {"player": "BRUTUS", "playerline": "Away, slight man!"}, {"player": "CASSIUS", "playerline": "Is 't possible?"}, {"player": "BRUTUS", "playerline": "Hear me, for I will speak."}, {"player": "BRUTUS", "playerline": "Must I give way and room to your rash choler?"}, {"player": "BRUTUS", "playerline": "Shall I be frighted when a madman stares?"}, {"player": "CASSIUS", "playerline": "O you gods, you gods, must I endure all this?"}, {"player": "BRUTUS", "playerline": "All this? Ay, more. Fret till your proud heart break."}, {"player": "BRUTUS", "playerline": "Go show your slaves how choleric you are"}, {"player": "BRUTUS", "playerline": "And make your bondmen tremble. Must I budge?"}, {"player": "BRUTUS", "playerline": "Must I observe you? Must I stand and crouch"}, {"player": "BRUTUS", "playerline": "Under your testy humor? By the gods,"}, {"player": "BRUTUS", "playerline": "You shall digest the venom of your spleen"}, {"player": "BRUTUS", "playerline": "Though it do split you. For, from this day forth,"}, {"player": "BRUTUS", "playerline": "I'll use you for my mirth, yea, for my laughter,"}, {"player": "BRUTUS", "playerline": "When you are waspish."}, {"player": "CASSIUS", "playerline": "Is it come to this?"}, {"player": "BRUTUS", "playerline": "You say you are a better soldier."}, {"player": "BRUTUS", "playerline": "Let it appear so, make your vaunting true,"}, {"player": "BRUTUS", "playerline": "And it shall please me well. For mine own part,"}, {"player": "BRUTUS", "playerline": "I shall be glad to learn of noble men."}, {"player": "CASSIUS", "playerline": "You wrong me every way, you wrong me, Brutus."}, {"player": "CASSIUS", "playerline": "I said an elder soldier, not a better."}, {"player": "CASSIUS", "playerline": "Did I say 'better'?"}, {"player": "BRUTUS", "playerline": "If you did, I care not."}, {"player": "CASSIUS", "playerline": "When Caesar lived he durst not thus have moved me."}, {"player": "BRUTUS", "playerline": "Peace, peace! You durst not so have tempted him."}, {"player": "CASSIUS", "playerline": "I durst not?"}, {"player": "BRUTUS", "playerline": "No."}, {"player": "CASSIUS", "playerline": "What? Durst not tempt him?"}, {"player": "BRUTUS", "playerline": "For your life you durst not."}, {"player": "CASSIUS", "playerline": "Do not presume too much upon my love."}, {"player": "CASSIUS", "playerline": "I may do that I shall be sorry for."}, {"player": "BRUTUS", "playerline": "You have done that you should be sorry for."}, {"player": "BRUTUS", "playerline": "There is no terror, Cassius, in your threats,"}, {"player": "BRUTUS", "playerline": "For I am armed so strong in honesty"}, {"player": "BRUTUS", "playerline": "That they pass by me as the idle wind,"}, {"player": "BRUTUS", "playerline": "Which I respect not. I did send to you"}, {"player": "BRUTUS", "playerline": "For certain sums of gold, which you denied me,"}, {"player": "BRUTUS", "playerline": "For I can raise no money by vile means."}, {"player": "BRUTUS", "playerline": "By heaven, I had rather coin my heart"}, {"player": "BRUTUS", "playerline": "And drop my blood for drachmas than to wring"}, {"player": "BRUTUS", "playerline": "From the hard hands of peasants their vile trash"}, {"player": "BRUTUS", "playerline": "By any indirection. I did send"}, {"player": "BRUTUS", "playerline": "To you for gold to pay my legions,"}, {"player": "BRUTUS", "playerline": "Which you denied me. Was that done like Cassius?"}, {"player": "BRUTUS", "playerline": "Should I have answered Caius Cassius so?"}, {"player": "BRUTUS", "playerline": "When Marcus Brutus grows so covetous"}, {"player": "BRUTUS", "playerline": "To lock such rascal counters from his friends,"}, {"player": "BRUTUS", "playerline": "Be ready, gods, with all your thunderbolts;"}, {"player": "BRUTUS", "playerline": "Dash him to pieces!"}, {"player": "CASSIUS", "playerline": "I denied you not."}, {"player": "BRUTUS", "playerline": "You did."}, {"player": "CASSIUS", "playerline": "I did not. He was but a fool that brought"}, {"player": "CASSIUS", "playerline": "My answer back. Brutus hath rived my heart."}, {"player": "CASSIUS", "playerline": "A friend should bear his friend's infirmities,"}, {"player": "CASSIUS", "playerline": "But Brutus makes mine greater than they are."}, {"player": "BRUTUS", "playerline": "I do not, till you practice them on me."}, {"player": "CASSIUS", "playerline": "You love me not."}, {"player": "BRUTUS", "playerline": "I do not like your faults."}, {"player": "CASSIUS", "playerline": "A friendly eye could never see such faults."}, {"player": "BRUTUS", "playerline": "A flatterer's would not, though they do appear"}, {"player": "BRUTUS", "playerline": "As huge as high Olympus."}, {"player": "CASSIUS", "playerline": "Come, Antony, and young Octavius, come!"}, {"player": "CASSIUS", "playerline": "Revenge yourselves alone on Cassius,"}, {"player": "CASSIUS", "playerline": "For Cassius is aweary of the world--"}, {"player": "CASSIUS", "playerline": "Hated by one he loves, braved by his brother,"}, {"player": "CASSIUS", "playerline": "Checked like a bondman, all his faults observed,"}, {"player": "CASSIUS", "playerline": "Set in a notebook, learned and conned by rote"}, {"player": "CASSIUS", "playerline": "To cast into my teeth. O, I could weep"}, {"player": "CASSIUS", "playerline": "My spirit from mine eyes! There is my dagger,"}, {"player": "DIRECTION", "playerline": "[Offering his dagger to Brutus.]"}, {"player": "CASSIUS", "playerline": "And here my naked breast; within, a heart"}, {"player": "CASSIUS", "playerline": "Dearer than Pluto's mine, richer than gold."}, {"player": "CASSIUS", "playerline": "If that thou be'st a Roman, take it forth."}, {"player": "CASSIUS", "playerline": "I that denied thee gold will give my heart."}, {"player": "CASSIUS", "playerline": "Strike as thou didst at Caesar, for I know"}, {"player": "CASSIUS", "playerline": "When thou didst hate him worst, thou lovedst him better"}, {"player": "CASSIUS", "playerline": "Than ever thou lovedst Cassius."}, {"player": "BRUTUS", "playerline": "Sheathe your dagger."}, {"player": "BRUTUS", "playerline": "Be angry when you will, it shall have scope."}, {"player": "BRUTUS", "playerline": "Do what you will, dishonor shall be humor."}, {"player": "BRUTUS", "playerline": "O Cassius, you are yoked with a lamb"}, {"player": "BRUTUS", "playerline": "That carries anger as the flint bears fire,"}, {"player": "BRUTUS", "playerline": "Who, much enforced, shows a hasty spark"}, {"player": "BRUTUS", "playerline": "And straight is cold again."}, {"player": "CASSIUS", "playerline": "Hath Cassius lived"}, {"player": "CASSIUS", "playerline": "To be but mirth and laughter to his Brutus"}, {"player": "CASSIUS", "playerline": "When grief and blood ill-tempered vexeth him?"}, {"player": "BRUTUS", "playerline": "When I spoke that, I was ill-tempered too."}, {"player": "CASSIUS", "playerline": "Do you confess so much? Give me your hand."}, {"player": "BRUTUS", "playerline": "And my heart too."}, {"player": "DIRECTION", "playerline": "[They clasp hands.]"}, {"player": "CASSIUS", "playerline": "O Brutus!"}, {"player": "BRUTUS", "playerline": "What's the matter?"}, {"player": "CASSIUS", "playerline": "Have not you love enough to bear with me"}, {"player": "CASSIUS", "playerline": "When that rash humor which my mother gave me"}, {"player": "CASSIUS", "playerline": "Makes me forgetful?"}, {"player": "BRUTUS", "playerline": "Yes, Cassius, and from henceforth"}, {"player": "BRUTUS", "playerline": "When you are over-earnest with your Brutus,"}, {"player": "BRUTUS", "playerline": "He'll think your mother chides, and leave you so."}, {"player": "DIRECTION", "playerline": "[Enter a Poet followed by Lucilius, Titinius, and Lucius.]"}, {"player": "POET", "playerline": "Let me go in to see the Generals."}, {"player": "POET", "playerline": "There is some grudge between 'em; 'tis not meet"}, {"player": "POET", "playerline": "They be alone."}, {"player": "LUCILIUS", "playerline": "You shall not come to them."}, {"player": "POET", "playerline": "Nothing but death shall stay me."}, {"player": "CASSIUS", "playerline": "How now, what's the matter?"}, {"player": "POET", "playerline": "For shame, you generals, what do you mean?"}, {"player": "POET", "playerline": "Love and be friends as two such men should be,"}, {"player": "POET", "playerline": "For I have seen more years, I'm sure, than ye."}, {"player": "CASSIUS", "playerline": "Ha, ha, how vilely doth this cynic rhyme!"}, {"player": "BRUTUS", "playerline": "Get you hence, sirrah! Saucy fellow, hence!"}, {"player": "CASSIUS", "playerline": "Bear with him, Brutus. 'Tis his fashion."}, {"player": "BRUTUS", "playerline": "I'll know his humor when he knows his time."}, {"player": "BRUTUS", "playerline": "What should the wars do with these jigging fools?--"}, {"player": "BRUTUS", "playerline": "Companion, hence!"}, {"player": "CASSIUS", "playerline": "Away, away, be gone!"}, {"player": "DIRECTION", "playerline": "[Poet exits.]"}, {"player": "BRUTUS", "playerline": "Lucilius and Titinius, bid the commanders"}, {"player": "BRUTUS", "playerline": "Prepare to lodge their companies tonight."}, {"player": "CASSIUS", "playerline": "And come yourselves, and bring Messala with you"}, {"player": "CASSIUS", "playerline": "Immediately to us."}, {"player": "DIRECTION", "playerline": "[Lucilius and Titinius exit.]"}, {"player": "BRUTUS", "playerline": "Lucius, a bowl of wine."}, {"player": "DIRECTION", "playerline": "[Lucius exits.]"}, {"player": "CASSIUS", "playerline": "I did not think you could have been so angry."}, {"player": "BRUTUS", "playerline": "O Cassius, I am sick of many griefs."}, {"player": "CASSIUS", "playerline": "Of your philosophy you make no use"}, {"player": "CASSIUS", "playerline": "If you give place to accidental evils."}, {"player": "BRUTUS", "playerline": "No man bears sorrow better. Portia is dead."}, {"player": "CASSIUS", "playerline": "Ha? Portia?"}, {"player": "BRUTUS", "playerline": "She is dead."}, {"player": "CASSIUS", "playerline": "How 'scaped I killing when I crossed you so?"}, {"player": "CASSIUS", "playerline": "O insupportable and touching loss!"}, {"player": "CASSIUS", "playerline": "Upon what sickness?"}, {"player": "BRUTUS", "playerline": "Impatient of my absence,"}, {"player": "BRUTUS", "playerline": "And grief that young Octavius with Mark Antony"}, {"player": "BRUTUS", "playerline": "Have made themselves so strong--for with her death"}, {"player": "BRUTUS", "playerline": "That tidings came--with this she fell distract"}, {"player": "BRUTUS", "playerline": "And, her attendants absent, swallowed fire."}, {"player": "CASSIUS", "playerline": "And died so?"}, {"player": "BRUTUS", "playerline": "Even so."}, {"player": "CASSIUS", "playerline": "O you immortal gods!"}, {"player": "DIRECTION", "playerline": "[Enter Lucius with wine and tapers.]"}, {"player": "BRUTUS", "playerline": "Speak no more of her.--Give me a bowl of wine.--"}, {"player": "BRUTUS", "playerline": "In this I bury all unkindness, Cassius."}, {"player": "DIRECTION", "playerline": "[He drinks.]"}, {"player": "CASSIUS", "playerline": "My heart is thirsty for that noble pledge.--"}, {"player": "CASSIUS", "playerline": "Fill, Lucius, till the wine o'erswell the cup;"}, {"player": "CASSIUS", "playerline": "I cannot drink too much of Brutus' love."}, {"player": "DIRECTION", "playerline": "[He drinks.]"}, {"player": "DIRECTION", "playerline": "[Lucius exits.]"}, {"player": "DIRECTION", "playerline": "[Enter Titinius and Messala.]"}, {"player": "BRUTUS", "playerline": "Come in, Titinius. Welcome, good Messala."}, {"player": "BRUTUS", "playerline": "Now sit we close about this taper here,"}, {"player": "BRUTUS", "playerline": "And call in question our necessities."}, {"player": "DIRECTION", "playerline": "[They sit.]"}, {"player": "CASSIUS", "playerline": "Portia, art thou gone?"}, {"player": "BRUTUS", "playerline": "No more, I pray you.--"}, {"player": "BRUTUS", "playerline": "Messala, I have here received letters"}, {"player": "BRUTUS", "playerline": "That young Octavius and Mark Antony"}, {"player": "BRUTUS", "playerline": "Come down upon us with a mighty power,"}, {"player": "BRUTUS", "playerline": "Bending their expedition toward Philippi."}, {"player": "MESSALA", "playerline": "Myself have letters of the selfsame tenor."}, {"player": "BRUTUS", "playerline": "With what addition?"}, {"player": "MESSALA", "playerline": "That by proscription and bills of outlawry,"}, {"player": "MESSALA", "playerline": "Octavius, Antony, and Lepidus"}, {"player": "MESSALA", "playerline": "Have put to death an hundred senators."}, {"player": "BRUTUS", "playerline": "Therein our letters do not well agree."}, {"player": "BRUTUS", "playerline": "Mine speak of seventy senators that died"}, {"player": "BRUTUS", "playerline": "By their proscriptions, Cicero being one."}, {"player": "CASSIUS", "playerline": "Cicero one?"}, {"player": "MESSALA", "playerline": "Cicero is dead,"}, {"player": "MESSALA", "playerline": "And by that order of proscription."}, {"player": "MESSALA", "playerline": "Had you your letters from your wife, my lord?"}, {"player": "BRUTUS", "playerline": "No, Messala."}, {"player": "MESSALA", "playerline": "Nor nothing in your letters writ of her?"}, {"player": "MESSALA", "playerline": "BRUTUSNothing, Messala."}, {"player": "MESSALA", "playerline": "That methinks is strange."}, {"player": "BRUTUS", "playerline": "Why ask you? Hear you aught of her in yours?"}, {"player": "MESSALA", "playerline": "No, my lord."}, {"player": "BRUTUS", "playerline": "Now, as you are a Roman, tell me true."}, {"player": "MESSALA", "playerline": "Then like a Roman bear the truth I tell,"}, {"player": "MESSALA", "playerline": "For certain she is dead, and by strange manner."}, {"player": "BRUTUS", "playerline": "Why, farewell, Portia. We must die, Messala."}, {"player": "BRUTUS", "playerline": "With meditating that she must die once,"}, {"player": "BRUTUS", "playerline": "I have the patience to endure it now."}, {"player": "MESSALA", "playerline": "Even so great men great losses should endure."}, {"player": "CASSIUS", "playerline": "I have as much of this in art as you,"}, {"player": "CASSIUS", "playerline": "But yet my nature could not bear it so."}, {"player": "BRUTUS", "playerline": "Well, to our work alive. What do you think"}, {"player": "BRUTUS", "playerline": "Of marching to Philippi presently?"}, {"player": "CASSIUS", "playerline": "I do not think it good."}, {"player": "BRUTUS", "playerline": "Your reason?"}, {"player": "CASSIUS", "playerline": "This it is:"}, {"player": "CASSIUS", "playerline": "'Tis better that the enemy seek us;"}, {"player": "CASSIUS", "playerline": "So shall he waste his means, weary his soldiers,"}, {"player": "CASSIUS", "playerline": "Doing himself offense, whilst we, lying still,"}, {"player": "CASSIUS", "playerline": "Are full of rest, defense, and nimbleness."}, {"player": "BRUTUS", "playerline": "Good reasons must of force give place to better."}, {"player": "BRUTUS", "playerline": "The people 'twixt Philippi and this ground"}, {"player": "BRUTUS", "playerline": "Do stand but in a forced affection,"}, {"player": "BRUTUS", "playerline": "For they have grudged us contribution."}, {"player": "BRUTUS", "playerline": "The enemy, marching along by them,"}, {"player": "BRUTUS", "playerline": "By them shall make a fuller number up,"}, {"player": "BRUTUS", "playerline": "Come on refreshed, new-added, and encouraged,"}, {"player": "BRUTUS", "playerline": "From which advantage shall we cut him off"}, {"player": "BRUTUS", "playerline": "If at Philippi we do face him there,"}, {"player": "BRUTUS", "playerline": "These people at our back."}, {"player": "CASSIUS", "playerline": "Hear me, good brother--"}, {"player": "BRUTUS", "playerline": "Under your pardon. You must note besides"}, {"player": "BRUTUS", "playerline": "That we have tried the utmost of our friends,"}, {"player": "BRUTUS", "playerline": "Our legions are brim full, our cause is ripe."}, {"player": "BRUTUS", "playerline": "The enemy increaseth every day;"}, {"player": "BRUTUS", "playerline": "We, at the height, are ready to decline."}, {"player": "BRUTUS", "playerline": "There is a tide in the affairs of men"}, {"player": "BRUTUS", "playerline": "Which, taken at the flood, leads on to fortune;"}, {"player": "BRUTUS", "playerline": "Omitted, all the voyage of their life"}, {"player": "BRUTUS", "playerline": "Is bound in shallows and in miseries."}, {"player": "BRUTUS", "playerline": "On such a full sea are we now afloat,"}, {"player": "BRUTUS", "playerline": "And we must take the current when it serves"}, {"player": "BRUTUS", "playerline": "Or lose our ventures."}, {"player": "CASSIUS", "playerline": "Then, with your will, go on;"}, {"player": "CASSIUS", "playerline": "We'll along ourselves and meet them at Philippi."}, {"player": "BRUTUS", "playerline": "The deep of night is crept upon our talk,"}, {"player": "BRUTUS", "playerline": "And nature must obey necessity,"}, {"player": "BRUTUS", "playerline": "Which we will niggard with a little rest."}, {"player": "BRUTUS", "playerline": "There is no more to say."}, {"player": "CASSIUS", "playerline": "No more. Good night."}, {"player": "DIRECTION", "playerline": "[They stand.]"}, {"player": "CASSIUS", "playerline": "Early tomorrow will we rise and hence."}, {"player": "BRUTUS", "playerline": "Lucius."}, {"player": "DIRECTION", "playerline": "[Enter Lucius.]"}, {"player": "BRUTUS", "playerline": "My gown."}, {"player": "DIRECTION", "playerline": "[Lucius exits.]"}, {"player": "BRUTUS", "playerline": "Farewell, good Messala.--"}, {"player": "BRUTUS", "playerline": "Good night, Titinius.--Noble, noble Cassius,"}, {"player": "BRUTUS", "playerline": "Good night and good repose."}, {"player": "CASSIUS", "playerline": "O my dear brother,"}, {"player": "CASSIUS", "playerline": "This was an ill beginning of the night."}, {"player": "CASSIUS", "playerline": "Never come such division 'tween our souls!"}, {"player": "CASSIUS", "playerline": "Let it not, Brutus."}, {"player": "DIRECTION", "playerline": "[Enter Lucius with the gown.]"}, {"player": "BRUTUS", "playerline": "Everything is well."}, {"player": "CASSIUS", "playerline": "Good night, my lord."}, {"player": "BRUTUS", "playerline": "Good night, good brother."}, {"player": "TITINIUS/MESSALA", "playerline": "Good night, Lord Brutus."}, {"player": "BRUTUS", "playerline": "Farewell, everyone."}, {"player": "DIRECTION", "playerline": "[All but Brutus and Lucius exit.]"}, {"player": "BRUTUS", "playerline": "Give me the gown. Where is thy instrument?"}, {"player": "LUCIUS", "playerline": "Here in the tent."}, {"player": "BRUTUS", "playerline": "What, thou speak'st drowsily?"}, {"player": "BRUTUS", "playerline": "Poor knave, I blame thee not; thou art o'erwatched."}, {"player": "BRUTUS", "playerline": "Call Claudius and some other of my men;"}, {"player": "BRUTUS", "playerline": "I'll have them sleep on cushions in my tent."}, {"player": "LUCIUS", "playerline": "Varro and Claudius."}, {"player": "DIRECTION", "playerline": "[Enter Varro and Claudius.]"}, {"player": "VARRO", "playerline": "Calls my lord?"}, {"player": "BRUTUS", "playerline": "I pray you, sirs, lie in my tent and sleep."}, {"player": "BRUTUS", "playerline": "It may be I shall raise you by and by"}, {"player": "BRUTUS", "playerline": "On business to my brother Cassius."}, {"player": "VARRO", "playerline": "So please you, we will stand and watch your pleasure."}, {"player": "BRUTUS", "playerline": "I will not have it so. Lie down, good sirs."}, {"player": "BRUTUS", "playerline": "It may be I shall otherwise bethink me."}, {"player": "DIRECTION", "playerline": "[They lie down.]"}, {"player": "BRUTUS", "playerline": "Look, Lucius, here's the book I sought for so."}, {"player": "BRUTUS", "playerline": "I put it in the pocket of my gown."}, {"player": "LUCIUS", "playerline": "I was sure your Lordship did not give it me."}, {"player": "BRUTUS", "playerline": "Bear with me, good boy, I am much forgetful."}, {"player": "BRUTUS", "playerline": "Canst thou hold up thy heavy eyes awhile"}, {"player": "BRUTUS", "playerline": "And touch thy instrument a strain or two?"}, {"player": "LUCIUS", "playerline": "Ay, my lord, an 't please you."}, {"player": "BRUTUS", "playerline": "It does, my boy."}, {"player": "BRUTUS", "playerline": "I trouble thee too much, but thou art willing."}, {"player": "LUCIUS", "playerline": "It is my duty, sir."}, {"player": "BRUTUS", "playerline": "I should not urge thy duty past thy might."}, {"player": "BRUTUS", "playerline": "I know young bloods look for a time of rest."}, {"player": "LUCIUS", "playerline": "I have slept, my lord, already."}, {"player": "BRUTUS", "playerline": "It was well done, and thou shalt sleep again."}, {"player": "BRUTUS", "playerline": "I will not hold thee long. If I do live,"}, {"player": "BRUTUS", "playerline": "I will be good to thee."}, {"player": "DIRECTION", "playerline": "[Music and a song. Lucius then falls asleep.]"}, {"player": "BRUTUS", "playerline": "This is a sleepy tune. O murd'rous slumber,"}, {"player": "BRUTUS", "playerline": "Layest thou thy leaden mace upon my boy,"}, {"player": "BRUTUS", "playerline": "That plays thee music?--Gentle knave, good night."}, {"player": "BRUTUS", "playerline": "I will not do thee so much wrong to wake thee."}, {"player": "BRUTUS", "playerline": "If thou dost nod, thou break'st thy instrument."}, {"player": "BRUTUS", "playerline": "I'll take it from thee and, good boy, good night."}, {"player": "DIRECTION", "playerline": "[He moves the instrument.]"}, {"player": "BRUTUS", "playerline": "Let me see, let me see; is not the leaf turned down"}, {"player": "BRUTUS", "playerline": "Where I left reading? Here it is, I think."}, {"player": "BRUTUS", "playerline": "How ill this taper burns."}, {"player": "DIRECTION", "playerline": "[Enter the Ghost of Caesar.]"}, {"player": "BRUTUS", "playerline": "Ha, who comes here?--"}, {"player": "BRUTUS", "playerline": "I think it is the weakness of mine eyes"}, {"player": "BRUTUS", "playerline": "That shapes this monstrous apparition."}, {"player": "BRUTUS", "playerline": "It comes upon me.--Art thou any thing?"}, {"player": "BRUTUS", "playerline": "Art thou some god, some angel, or some devil,"}, {"player": "BRUTUS", "playerline": "That mak'st my blood cold and my hair to stare?"}, {"player": "BRUTUS", "playerline": "Speak to me what thou art."}, {"player": "GHOST", "playerline": "Thy evil spirit, Brutus."}, {"player": "BRUTUS", "playerline": "Why com'st thou?"}, {"player": "GHOST", "playerline": "To tell thee thou shalt see me at Philippi."}, {"player": "BRUTUS", "playerline": "Well, then I shall see thee again?"}, {"player": "GHOST", "playerline": "Ay, at Philippi."}, {"player": "BRUTUS", "playerline": "Why, I will see thee at Philippi, then."}, {"player": "DIRECTION", "playerline": "[Ghost exits.]"}, {"player": "BRUTUS", "playerline": "Now I have taken heart, thou vanishest."}, {"player": "BRUTUS", "playerline": "Ill spirit, I would hold more talk with thee.--"}, {"player": "BRUTUS", "playerline": "Boy, Lucius!--Varro, Claudius, sirs, awake! Claudius!"}, {"player": "LUCIUS", "playerline": "The strings, my lord, are false."}, {"player": "BRUTUS", "playerline": "He thinks he still is at his instrument."}, {"player": "BRUTUS", "playerline": "Lucius, awake!"}, {"player": "LUCIUS", "playerline": "My lord?"}, {"player": "BRUTUS", "playerline": "Didst thou dream, Lucius, that thou so criedst out?"}, {"player": "LUCIUS", "playerline": "My lord, I do not know that I did cry."}, {"player": "BRUTUS", "playerline": "Yes, that thou didst. Didst thou see anything?"}, {"player": "LUCIUS", "playerline": "Nothing, my lord."}, {"player": "BRUTUS", "playerline": "Sleep again, Lucius.--Sirrah Claudius!"}, {"player": "BRUTUS", "playerline": "[To Varro.] Fellow thou, awake!"}, {"player": "DIRECTION", "playerline": "[They rise up.]"}, {"player": "VARRO", "playerline": "My lord?"}, {"player": "CLAUDIUS", "playerline": "My lord?"}, {"player": "BRUTUS", "playerline": "Why did you so cry out, sirs, in your sleep?"}, {"player": "BOTH", "playerline": "Did we, my lord?"}, {"player": "BRUTUS", "playerline": "Ay. Saw you anything?"}, {"player": "VARRO", "playerline": "No, my lord, I saw nothing."}, {"player": "CLAUDIUS", "playerline": "Nor I, my lord."}, {"player": "BRUTUS", "playerline": "Go and commend me to my brother Cassius."}, {"player": "BRUTUS", "playerline": "Bid him set on his powers betimes before,"}, {"player": "BRUTUS", "playerline": "And we will follow."}, {"player": "BOTH", "playerline": "It shall be done, my lord."}, {"player": "DIRECTION", "playerline": "[They exit.]"}]
+[
+  { "player": "SCENE", "playerline": "SCENE III" },
+  {
+    "player": "CASSIUS",
+    "playerline": "That you have wronged me doth appear in this:"
+  },
+  {
+    "player": "CASSIUS",
+    "playerline": "You have condemned and noted Lucius Pella"
+  },
+  {
+    "player": "CASSIUS",
+    "playerline": "For taking bribes here of the Sardians,"
+  },
+  {
+    "player": "CASSIUS",
+    "playerline": "Wherein my letters, praying on his side"
+  },
+  {
+    "player": "CASSIUS",
+    "playerline": "Because I knew the man, was slighted off."
+  },
+  {
+    "player": "BRUTUS",
+    "playerline": "You wronged yourself to write in such a case."
+  },
+  {
+    "player": "CASSIUS",
+    "playerline": "In such a time as this it is not meet"
+  },
+  {
+    "player": "CASSIUS",
+    "playerline": "That every nice offense should bear his comment."
+  },
+  {
+    "player": "BRUTUS",
+    "playerline": "Let me tell you, Cassius, you yourself"
+  },
+  {
+    "player": "BRUTUS",
+    "playerline": "Are much condemned to have an itching palm,"
+  },
+  {
+    "player": "BRUTUS",
+    "playerline": "To sell and mart your offices for gold"
+  },
+  { "player": "BRUTUS", "playerline": "To undeservers." },
+  { "player": "CASSIUS", "playerline": "I an itching palm?" },
+  {
+    "player": "CASSIUS",
+    "playerline": "You know that you are Brutus that speaks this,"
+  },
+  {
+    "player": "CASSIUS",
+    "playerline": "Or, by the gods, this speech were else your last."
+  },
+  {
+    "player": "BRUTUS",
+    "playerline": "The name of Cassius honors this corruption,"
+  },
+  {
+    "player": "BRUTUS",
+    "playerline": "And chastisement doth therefore hide his head."
+  },
+  { "player": "CASSIUS", "playerline": "Chastisement?" },
+  {
+    "player": "BRUTUS",
+    "playerline": "Remember March; the ides of March remember."
+  },
+  {
+    "player": "BRUTUS",
+    "playerline": "Did not great Julius bleed for justice' sake?"
+  },
+  {
+    "player": "BRUTUS",
+    "playerline": "What villain touched his body that did stab"
+  },
+  {
+    "player": "BRUTUS",
+    "playerline": "And not for justice? What, shall one of us"
+  },
+  {
+    "player": "BRUTUS",
+    "playerline": "That struck the foremost man of all this world"
+  },
+  {
+    "player": "BRUTUS",
+    "playerline": "But for supporting robbers, shall we now"
+  },
+  {
+    "player": "BRUTUS",
+    "playerline": "Contaminate our fingers with base bribes"
+  },
+  {
+    "player": "BRUTUS",
+    "playerline": "And sell the mighty space of our large honors"
+  },
+  {
+    "player": "BRUTUS",
+    "playerline": "For so much trash as may be grasped thus?"
+  },
+  {
+    "player": "BRUTUS",
+    "playerline": "I had rather be a dog and bay the moon"
+  },
+  { "player": "BRUTUS", "playerline": "Than such a Roman." },
+  { "player": "CASSIUS", "playerline": "Brutus, bait not me." },
+  {
+    "player": "CASSIUS",
+    "playerline": "I'll not endure it. You forget yourself"
+  },
+  { "player": "CASSIUS", "playerline": "To hedge me in. I am a soldier, I," },
+  {
+    "player": "CASSIUS",
+    "playerline": "Older in practice, abler than yourself"
+  },
+  { "player": "CASSIUS", "playerline": "To make conditions." },
+  { "player": "BRUTUS", "playerline": "Go to! You are not, Cassius." },
+  { "player": "CASSIUS", "playerline": "I am." },
+  { "player": "BRUTUS", "playerline": "I say you are not." },
+  {
+    "player": "CASSIUS",
+    "playerline": "Urge me no more. I shall forget myself."
+  },
+  {
+    "player": "CASSIUS",
+    "playerline": "Have mind upon your health. Tempt me no farther."
+  },
+  { "player": "BRUTUS", "playerline": "Away, slight man!" },
+  { "player": "CASSIUS", "playerline": "Is 't possible?" },
+  { "player": "BRUTUS", "playerline": "Hear me, for I will speak." },
+  {
+    "player": "BRUTUS",
+    "playerline": "Must I give way and room to your rash choler?"
+  },
+  {
+    "player": "BRUTUS",
+    "playerline": "Shall I be frighted when a madman stares?"
+  },
+  {
+    "player": "CASSIUS",
+    "playerline": "O you gods, you gods, must I endure all this?"
+  },
+  {
+    "player": "BRUTUS",
+    "playerline": "All this? Ay, more. Fret till your proud heart break."
+  },
+  {
+    "player": "BRUTUS",
+    "playerline": "Go show your slaves how choleric you are"
+  },
+  {
+    "player": "BRUTUS",
+    "playerline": "And make your bondmen tremble. Must I budge?"
+  },
+  {
+    "player": "BRUTUS",
+    "playerline": "Must I observe you? Must I stand and crouch"
+  },
+  { "player": "BRUTUS", "playerline": "Under your testy humor? By the gods," },
+  {
+    "player": "BRUTUS",
+    "playerline": "You shall digest the venom of your spleen"
+  },
+  {
+    "player": "BRUTUS",
+    "playerline": "Though it do split you. For, from this day forth,"
+  },
+  {
+    "player": "BRUTUS",
+    "playerline": "I'll use you for my mirth, yea, for my laughter,"
+  },
+  { "player": "BRUTUS", "playerline": "When you are waspish." },
+  { "player": "CASSIUS", "playerline": "Is it come to this?" },
+  { "player": "BRUTUS", "playerline": "You say you are a better soldier." },
+  {
+    "player": "BRUTUS",
+    "playerline": "Let it appear so, make your vaunting true,"
+  },
+  {
+    "player": "BRUTUS",
+    "playerline": "And it shall please me well. For mine own part,"
+  },
+  {
+    "player": "BRUTUS",
+    "playerline": "I shall be glad to learn of noble men."
+  },
+  {
+    "player": "CASSIUS",
+    "playerline": "You wrong me every way, you wrong me, Brutus."
+  },
+  {
+    "player": "CASSIUS",
+    "playerline": "I said an elder soldier, not a better."
+  },
+  { "player": "CASSIUS", "playerline": "Did I say 'better'?" },
+  { "player": "BRUTUS", "playerline": "If you did, I care not." },
+  {
+    "player": "CASSIUS",
+    "playerline": "When Caesar lived he durst not thus have moved me."
+  },
+  {
+    "player": "BRUTUS",
+    "playerline": "Peace, peace! You durst not so have tempted him."
+  },
+  { "player": "CASSIUS", "playerline": "I durst not?" },
+  { "player": "BRUTUS", "playerline": "No." },
+  { "player": "CASSIUS", "playerline": "What? Durst not tempt him?" },
+  { "player": "BRUTUS", "playerline": "For your life you durst not." },
+  {
+    "player": "CASSIUS",
+    "playerline": "Do not presume too much upon my love."
+  },
+  { "player": "CASSIUS", "playerline": "I may do that I shall be sorry for." },
+  {
+    "player": "BRUTUS",
+    "playerline": "You have done that you should be sorry for."
+  },
+  {
+    "player": "BRUTUS",
+    "playerline": "There is no terror, Cassius, in your threats,"
+  },
+  { "player": "BRUTUS", "playerline": "For I am armed so strong in honesty" },
+  {
+    "player": "BRUTUS",
+    "playerline": "That they pass by me as the idle wind,"
+  },
+  {
+    "player": "BRUTUS",
+    "playerline": "Which I respect not. I did send to you"
+  },
+  {
+    "player": "BRUTUS",
+    "playerline": "For certain sums of gold, which you denied me,"
+  },
+  {
+    "player": "BRUTUS",
+    "playerline": "For I can raise no money by vile means."
+  },
+  { "player": "BRUTUS", "playerline": "By heaven, I had rather coin my heart" },
+  {
+    "player": "BRUTUS",
+    "playerline": "And drop my blood for drachmas than to wring"
+  },
+  {
+    "player": "BRUTUS",
+    "playerline": "From the hard hands of peasants their vile trash"
+  },
+  { "player": "BRUTUS", "playerline": "By any indirection. I did send" },
+  { "player": "BRUTUS", "playerline": "To you for gold to pay my legions," },
+  {
+    "player": "BRUTUS",
+    "playerline": "Which you denied me. Was that done like Cassius?"
+  },
+  {
+    "player": "BRUTUS",
+    "playerline": "Should I have answered Caius Cassius so?"
+  },
+  { "player": "BRUTUS", "playerline": "When Marcus Brutus grows so covetous" },
+  {
+    "player": "BRUTUS",
+    "playerline": "To lock such rascal counters from his friends,"
+  },
+  {
+    "player": "BRUTUS",
+    "playerline": "Be ready, gods, with all your thunderbolts;"
+  },
+  { "player": "BRUTUS", "playerline": "Dash him to pieces!" },
+  { "player": "CASSIUS", "playerline": "I denied you not." },
+  { "player": "BRUTUS", "playerline": "You did." },
+  {
+    "player": "CASSIUS",
+    "playerline": "I did not. He was but a fool that brought"
+  },
+  {
+    "player": "CASSIUS",
+    "playerline": "My answer back. Brutus hath rived my heart."
+  },
+  {
+    "player": "CASSIUS",
+    "playerline": "A friend should bear his friend's infirmities,"
+  },
+  {
+    "player": "CASSIUS",
+    "playerline": "But Brutus makes mine greater than they are."
+  },
+  {
+    "player": "BRUTUS",
+    "playerline": "I do not, till you practice them on me."
+  },
+  { "player": "CASSIUS", "playerline": "You love me not." },
+  { "player": "BRUTUS", "playerline": "I do not like your faults." },
+  {
+    "player": "CASSIUS",
+    "playerline": "A friendly eye could never see such faults."
+  },
+  {
+    "player": "BRUTUS",
+    "playerline": "A flatterer's would not, though they do appear"
+  },
+  { "player": "BRUTUS", "playerline": "As huge as high Olympus." },
+  {
+    "player": "CASSIUS",
+    "playerline": "Come, Antony, and young Octavius, come!"
+  },
+  { "player": "CASSIUS", "playerline": "Revenge yourselves alone on Cassius," },
+  { "player": "CASSIUS", "playerline": "For Cassius is aweary of the world--" },
+  {
+    "player": "CASSIUS",
+    "playerline": "Hated by one he loves, braved by his brother,"
+  },
+  {
+    "player": "CASSIUS",
+    "playerline": "Checked like a bondman, all his faults observed,"
+  },
+  {
+    "player": "CASSIUS",
+    "playerline": "Set in a notebook, learned and conned by rote"
+  },
+  {
+    "player": "CASSIUS",
+    "playerline": "To cast into my teeth. O, I could weep"
+  },
+  {
+    "player": "CASSIUS",
+    "playerline": "My spirit from mine eyes! There is my dagger,"
+  },
+  { "player": "DIRECTION", "playerline": "[Offering his dagger to Brutus.]" },
+  {
+    "player": "CASSIUS",
+    "playerline": "And here my naked breast; within, a heart"
+  },
+  {
+    "player": "CASSIUS",
+    "playerline": "Dearer than Pluto's mine, richer than gold."
+  },
+  {
+    "player": "CASSIUS",
+    "playerline": "If that thou be'st a Roman, take it forth."
+  },
+  {
+    "player": "CASSIUS",
+    "playerline": "I that denied thee gold will give my heart."
+  },
+  {
+    "player": "CASSIUS",
+    "playerline": "Strike as thou didst at Caesar, for I know"
+  },
+  {
+    "player": "CASSIUS",
+    "playerline": "When thou didst hate him worst, thou lovedst him better"
+  },
+  { "player": "CASSIUS", "playerline": "Than ever thou lovedst Cassius." },
+  { "player": "BRUTUS", "playerline": "Sheathe your dagger." },
+  {
+    "player": "BRUTUS",
+    "playerline": "Be angry when you will, it shall have scope."
+  },
+  {
+    "player": "BRUTUS",
+    "playerline": "Do what you will, dishonor shall be humor."
+  },
+  { "player": "BRUTUS", "playerline": "O Cassius, you are yoked with a lamb" },
+  {
+    "player": "BRUTUS",
+    "playerline": "That carries anger as the flint bears fire,"
+  },
+  {
+    "player": "BRUTUS",
+    "playerline": "Who, much enforced, shows a hasty spark"
+  },
+  { "player": "BRUTUS", "playerline": "And straight is cold again." },
+  { "player": "CASSIUS", "playerline": "Hath Cassius lived" },
+  {
+    "player": "CASSIUS",
+    "playerline": "To be but mirth and laughter to his Brutus"
+  },
+  {
+    "player": "CASSIUS",
+    "playerline": "When grief and blood ill-tempered vexeth him?"
+  },
+  {
+    "player": "BRUTUS",
+    "playerline": "When I spoke that, I was ill-tempered too."
+  },
+  {
+    "player": "CASSIUS",
+    "playerline": "Do you confess so much? Give me your hand."
+  },
+  { "player": "BRUTUS", "playerline": "And my heart too." },
+  { "player": "DIRECTION", "playerline": "[They clasp hands.]" },
+  { "player": "CASSIUS", "playerline": "O Brutus!" },
+  { "player": "BRUTUS", "playerline": "What's the matter?" },
+  {
+    "player": "CASSIUS",
+    "playerline": "Have not you love enough to bear with me"
+  },
+  {
+    "player": "CASSIUS",
+    "playerline": "When that rash humor which my mother gave me"
+  },
+  { "player": "CASSIUS", "playerline": "Makes me forgetful?" },
+  { "player": "BRUTUS", "playerline": "Yes, Cassius, and from henceforth" },
+  {
+    "player": "BRUTUS",
+    "playerline": "When you are over-earnest with your Brutus,"
+  },
+  {
+    "player": "BRUTUS",
+    "playerline": "He'll think your mother chides, and leave you so."
+  },
+  {
+    "player": "DIRECTION",
+    "playerline": "[Enter a Poet followed by Lucilius, Titinius, and Lucius.]"
+  },
+  { "player": "POET", "playerline": "Let me go in to see the Generals." },
+  {
+    "player": "POET",
+    "playerline": "There is some grudge between 'em; 'tis not meet"
+  },
+  { "player": "POET", "playerline": "They be alone." },
+  { "player": "LUCILIUS", "playerline": "You shall not come to them." },
+  { "player": "POET", "playerline": "Nothing but death shall stay me." },
+  { "player": "CASSIUS", "playerline": "How now, what's the matter?" },
+  {
+    "player": "POET",
+    "playerline": "For shame, you generals, what do you mean?"
+  },
+  {
+    "player": "POET",
+    "playerline": "Love and be friends as two such men should be,"
+  },
+  {
+    "player": "POET",
+    "playerline": "For I have seen more years, I'm sure, than ye."
+  },
+  {
+    "player": "CASSIUS",
+    "playerline": "Ha, ha, how vilely doth this cynic rhyme!"
+  },
+  {
+    "player": "BRUTUS",
+    "playerline": "Get you hence, sirrah! Saucy fellow, hence!"
+  },
+  {
+    "player": "CASSIUS",
+    "playerline": "Bear with him, Brutus. 'Tis his fashion."
+  },
+  {
+    "player": "BRUTUS",
+    "playerline": "I'll know his humor when he knows his time."
+  },
+  {
+    "player": "BRUTUS",
+    "playerline": "What should the wars do with these jigging fools?--"
+  },
+  { "player": "BRUTUS", "playerline": "Companion, hence!" },
+  { "player": "CASSIUS", "playerline": "Away, away, be gone!" },
+  { "player": "DIRECTION", "playerline": "[Poet exits.]" },
+  {
+    "player": "BRUTUS",
+    "playerline": "Lucilius and Titinius, bid the commanders"
+  },
+  {
+    "player": "BRUTUS",
+    "playerline": "Prepare to lodge their companies tonight."
+  },
+  {
+    "player": "CASSIUS",
+    "playerline": "And come yourselves, and bring Messala with you"
+  },
+  { "player": "CASSIUS", "playerline": "Immediately to us." },
+  { "player": "DIRECTION", "playerline": "[Lucilius and Titinius exit.]" },
+  { "player": "BRUTUS", "playerline": "Lucius, a bowl of wine." },
+  { "player": "DIRECTION", "playerline": "[Lucius exits.]" },
+  {
+    "player": "CASSIUS",
+    "playerline": "I did not think you could have been so angry."
+  },
+  { "player": "BRUTUS", "playerline": "O Cassius, I am sick of many griefs." },
+  { "player": "CASSIUS", "playerline": "Of your philosophy you make no use" },
+  {
+    "player": "CASSIUS",
+    "playerline": "If you give place to accidental evils."
+  },
+  {
+    "player": "BRUTUS",
+    "playerline": "No man bears sorrow better. Portia is dead."
+  },
+  { "player": "CASSIUS", "playerline": "Ha? Portia?" },
+  { "player": "BRUTUS", "playerline": "She is dead." },
+  {
+    "player": "CASSIUS",
+    "playerline": "How 'scaped I killing when I crossed you so?"
+  },
+  { "player": "CASSIUS", "playerline": "O insupportable and touching loss!" },
+  { "player": "CASSIUS", "playerline": "Upon what sickness?" },
+  { "player": "BRUTUS", "playerline": "Impatient of my absence," },
+  {
+    "player": "BRUTUS",
+    "playerline": "And grief that young Octavius with Mark Antony"
+  },
+  {
+    "player": "BRUTUS",
+    "playerline": "Have made themselves so strong--for with her death"
+  },
+  {
+    "player": "BRUTUS",
+    "playerline": "That tidings came--with this she fell distract"
+  },
+  {
+    "player": "BRUTUS",
+    "playerline": "And, her attendants absent, swallowed fire."
+  },
+  { "player": "CASSIUS", "playerline": "And died so?" },
+  { "player": "BRUTUS", "playerline": "Even so." },
+  { "player": "CASSIUS", "playerline": "O you immortal gods!" },
+  {
+    "player": "DIRECTION",
+    "playerline": "[Enter Lucius with wine and tapers.]"
+  },
+  {
+    "player": "BRUTUS",
+    "playerline": "Speak no more of her.--Give me a bowl of wine.--"
+  },
+  {
+    "player": "BRUTUS",
+    "playerline": "In this I bury all unkindness, Cassius."
+  },
+  { "player": "DIRECTION", "playerline": "[He drinks.]" },
+  {
+    "player": "CASSIUS",
+    "playerline": "My heart is thirsty for that noble pledge.--"
+  },
+  {
+    "player": "CASSIUS",
+    "playerline": "Fill, Lucius, till the wine o'erswell the cup;"
+  },
+  {
+    "player": "CASSIUS",
+    "playerline": "I cannot drink too much of Brutus' love."
+  },
+  { "player": "DIRECTION", "playerline": "[He drinks.]" },
+  { "player": "DIRECTION", "playerline": "[Lucius exits.]" },
+  { "player": "DIRECTION", "playerline": "[Enter Titinius and Messala.]" },
+  {
+    "player": "BRUTUS",
+    "playerline": "Come in, Titinius. Welcome, good Messala."
+  },
+  {
+    "player": "BRUTUS",
+    "playerline": "Now sit we close about this taper here,"
+  },
+  { "player": "BRUTUS", "playerline": "And call in question our necessities." },
+  { "player": "DIRECTION", "playerline": "[They sit.]" },
+  { "player": "CASSIUS", "playerline": "Portia, art thou gone?" },
+  { "player": "BRUTUS", "playerline": "No more, I pray you.--" },
+  { "player": "BRUTUS", "playerline": "Messala, I have here received letters" },
+  { "player": "BRUTUS", "playerline": "That young Octavius and Mark Antony" },
+  {
+    "player": "BRUTUS",
+    "playerline": "Come down upon us with a mighty power,"
+  },
+  {
+    "player": "BRUTUS",
+    "playerline": "Bending their expedition toward Philippi."
+  },
+  {
+    "player": "MESSALA",
+    "playerline": "Myself have letters of the selfsame tenor."
+  },
+  { "player": "BRUTUS", "playerline": "With what addition?" },
+  {
+    "player": "MESSALA",
+    "playerline": "That by proscription and bills of outlawry,"
+  },
+  { "player": "MESSALA", "playerline": "Octavius, Antony, and Lepidus" },
+  {
+    "player": "MESSALA",
+    "playerline": "Have put to death an hundred senators."
+  },
+  {
+    "player": "BRUTUS",
+    "playerline": "Therein our letters do not well agree."
+  },
+  {
+    "player": "BRUTUS",
+    "playerline": "Mine speak of seventy senators that died"
+  },
+  {
+    "player": "BRUTUS",
+    "playerline": "By their proscriptions, Cicero being one."
+  },
+  { "player": "CASSIUS", "playerline": "Cicero one?" },
+  { "player": "MESSALA", "playerline": "Cicero is dead," },
+  { "player": "MESSALA", "playerline": "And by that order of proscription." },
+  {
+    "player": "MESSALA",
+    "playerline": "Had you your letters from your wife, my lord?"
+  },
+  { "player": "BRUTUS", "playerline": "No, Messala." },
+  {
+    "player": "MESSALA",
+    "playerline": "Nor nothing in your letters writ of her?"
+  },
+  { "player": "MESSALA", "playerline": "BRUTUSNothing, Messala." },
+  { "player": "MESSALA", "playerline": "That methinks is strange." },
+  {
+    "player": "BRUTUS",
+    "playerline": "Why ask you? Hear you aught of her in yours?"
+  },
+  { "player": "MESSALA", "playerline": "No, my lord." },
+  {
+    "player": "BRUTUS",
+    "playerline": "Now, as you are a Roman, tell me true."
+  },
+  {
+    "player": "MESSALA",
+    "playerline": "Then like a Roman bear the truth I tell,"
+  },
+  {
+    "player": "MESSALA",
+    "playerline": "For certain she is dead, and by strange manner."
+  },
+  {
+    "player": "BRUTUS",
+    "playerline": "Why, farewell, Portia. We must die, Messala."
+  },
+  {
+    "player": "BRUTUS",
+    "playerline": "With meditating that she must die once,"
+  },
+  { "player": "BRUTUS", "playerline": "I have the patience to endure it now." },
+  {
+    "player": "MESSALA",
+    "playerline": "Even so great men great losses should endure."
+  },
+  {
+    "player": "CASSIUS",
+    "playerline": "I have as much of this in art as you,"
+  },
+  {
+    "player": "CASSIUS",
+    "playerline": "But yet my nature could not bear it so."
+  },
+  {
+    "player": "BRUTUS",
+    "playerline": "Well, to our work alive. What do you think"
+  },
+  { "player": "BRUTUS", "playerline": "Of marching to Philippi presently?" },
+  { "player": "CASSIUS", "playerline": "I do not think it good." },
+  { "player": "BRUTUS", "playerline": "Your reason?" },
+  { "player": "CASSIUS", "playerline": "This it is:" },
+  { "player": "CASSIUS", "playerline": "'Tis better that the enemy seek us;" },
+  {
+    "player": "CASSIUS",
+    "playerline": "So shall he waste his means, weary his soldiers,"
+  },
+  {
+    "player": "CASSIUS",
+    "playerline": "Doing himself offense, whilst we, lying still,"
+  },
+  {
+    "player": "CASSIUS",
+    "playerline": "Are full of rest, defense, and nimbleness."
+  },
+  {
+    "player": "BRUTUS",
+    "playerline": "Good reasons must of force give place to better."
+  },
+  {
+    "player": "BRUTUS",
+    "playerline": "The people 'twixt Philippi and this ground"
+  },
+  { "player": "BRUTUS", "playerline": "Do stand but in a forced affection," },
+  {
+    "player": "BRUTUS",
+    "playerline": "For they have grudged us contribution."
+  },
+  { "player": "BRUTUS", "playerline": "The enemy, marching along by them," },
+  {
+    "player": "BRUTUS",
+    "playerline": "By them shall make a fuller number up,"
+  },
+  {
+    "player": "BRUTUS",
+    "playerline": "Come on refreshed, new-added, and encouraged,"
+  },
+  {
+    "player": "BRUTUS",
+    "playerline": "From which advantage shall we cut him off"
+  },
+  { "player": "BRUTUS", "playerline": "If at Philippi we do face him there," },
+  { "player": "BRUTUS", "playerline": "These people at our back." },
+  { "player": "CASSIUS", "playerline": "Hear me, good brother--" },
+  {
+    "player": "BRUTUS",
+    "playerline": "Under your pardon. You must note besides"
+  },
+  {
+    "player": "BRUTUS",
+    "playerline": "That we have tried the utmost of our friends,"
+  },
+  {
+    "player": "BRUTUS",
+    "playerline": "Our legions are brim full, our cause is ripe."
+  },
+  { "player": "BRUTUS", "playerline": "The enemy increaseth every day;" },
+  {
+    "player": "BRUTUS",
+    "playerline": "We, at the height, are ready to decline."
+  },
+  { "player": "BRUTUS", "playerline": "There is a tide in the affairs of men" },
+  {
+    "player": "BRUTUS",
+    "playerline": "Which, taken at the flood, leads on to fortune;"
+  },
+  { "player": "BRUTUS", "playerline": "Omitted, all the voyage of their life" },
+  { "player": "BRUTUS", "playerline": "Is bound in shallows and in miseries." },
+  { "player": "BRUTUS", "playerline": "On such a full sea are we now afloat," },
+  {
+    "player": "BRUTUS",
+    "playerline": "And we must take the current when it serves"
+  },
+  { "player": "BRUTUS", "playerline": "Or lose our ventures." },
+  { "player": "CASSIUS", "playerline": "Then, with your will, go on;" },
+  {
+    "player": "CASSIUS",
+    "playerline": "We'll along ourselves and meet them at Philippi."
+  },
+  {
+    "player": "BRUTUS",
+    "playerline": "The deep of night is crept upon our talk,"
+  },
+  { "player": "BRUTUS", "playerline": "And nature must obey necessity," },
+  {
+    "player": "BRUTUS",
+    "playerline": "Which we will niggard with a little rest."
+  },
+  { "player": "BRUTUS", "playerline": "There is no more to say." },
+  { "player": "CASSIUS", "playerline": "No more. Good night." },
+  { "player": "DIRECTION", "playerline": "[They stand.]" },
+  {
+    "player": "CASSIUS",
+    "playerline": "Early tomorrow will we rise and hence."
+  },
+  { "player": "BRUTUS", "playerline": "Lucius." },
+  { "player": "DIRECTION", "playerline": "[Enter Lucius.]" },
+  { "player": "BRUTUS", "playerline": "My gown." },
+  { "player": "DIRECTION", "playerline": "[Lucius exits.]" },
+  { "player": "BRUTUS", "playerline": "Farewell, good Messala.--" },
+  {
+    "player": "BRUTUS",
+    "playerline": "Good night, Titinius.--Noble, noble Cassius,"
+  },
+  { "player": "BRUTUS", "playerline": "Good night and good repose." },
+  { "player": "CASSIUS", "playerline": "O my dear brother," },
+  {
+    "player": "CASSIUS",
+    "playerline": "This was an ill beginning of the night."
+  },
+  {
+    "player": "CASSIUS",
+    "playerline": "Never come such division 'tween our souls!"
+  },
+  { "player": "CASSIUS", "playerline": "Let it not, Brutus." },
+  { "player": "DIRECTION", "playerline": "[Enter Lucius with the gown.]" },
+  { "player": "BRUTUS", "playerline": "Everything is well." },
+  { "player": "CASSIUS", "playerline": "Good night, my lord." },
+  { "player": "BRUTUS", "playerline": "Good night, good brother." },
+  { "player": "TITINIUS/MESSALA", "playerline": "Good night, Lord Brutus." },
+  { "player": "BRUTUS", "playerline": "Farewell, everyone." },
+  { "player": "DIRECTION", "playerline": "[All but Brutus and Lucius exit.]" },
+  {
+    "player": "BRUTUS",
+    "playerline": "Give me the gown. Where is thy instrument?"
+  },
+  { "player": "LUCIUS", "playerline": "Here in the tent." },
+  { "player": "BRUTUS", "playerline": "What, thou speak'st drowsily?" },
+  {
+    "player": "BRUTUS",
+    "playerline": "Poor knave, I blame thee not; thou art o'erwatched."
+  },
+  {
+    "player": "BRUTUS",
+    "playerline": "Call Claudius and some other of my men;"
+  },
+  {
+    "player": "BRUTUS",
+    "playerline": "I'll have them sleep on cushions in my tent."
+  },
+  { "player": "LUCIUS", "playerline": "Varro and Claudius." },
+  { "player": "DIRECTION", "playerline": "[Enter Varro and Claudius.]" },
+  { "player": "VARRO", "playerline": "Calls my lord?" },
+  {
+    "player": "BRUTUS",
+    "playerline": "I pray you, sirs, lie in my tent and sleep."
+  },
+  { "player": "BRUTUS", "playerline": "It may be I shall raise you by and by" },
+  { "player": "BRUTUS", "playerline": "On business to my brother Cassius." },
+  {
+    "player": "VARRO",
+    "playerline": "So please you, we will stand and watch your pleasure."
+  },
+  {
+    "player": "BRUTUS",
+    "playerline": "I will not have it so. Lie down, good sirs."
+  },
+  {
+    "player": "BRUTUS",
+    "playerline": "It may be I shall otherwise bethink me."
+  },
+  { "player": "DIRECTION", "playerline": "[They lie down.]" },
+  {
+    "player": "BRUTUS",
+    "playerline": "Look, Lucius, here's the book I sought for so."
+  },
+  { "player": "BRUTUS", "playerline": "I put it in the pocket of my gown." },
+  {
+    "player": "LUCIUS",
+    "playerline": "I was sure your Lordship did not give it me."
+  },
+  {
+    "player": "BRUTUS",
+    "playerline": "Bear with me, good boy, I am much forgetful."
+  },
+  {
+    "player": "BRUTUS",
+    "playerline": "Canst thou hold up thy heavy eyes awhile"
+  },
+  {
+    "player": "BRUTUS",
+    "playerline": "And touch thy instrument a strain or two?"
+  },
+  { "player": "LUCIUS", "playerline": "Ay, my lord, an 't please you." },
+  { "player": "BRUTUS", "playerline": "It does, my boy." },
+  {
+    "player": "BRUTUS",
+    "playerline": "I trouble thee too much, but thou art willing."
+  },
+  { "player": "LUCIUS", "playerline": "It is my duty, sir." },
+  {
+    "player": "BRUTUS",
+    "playerline": "I should not urge thy duty past thy might."
+  },
+  {
+    "player": "BRUTUS",
+    "playerline": "I know young bloods look for a time of rest."
+  },
+  { "player": "LUCIUS", "playerline": "I have slept, my lord, already." },
+  {
+    "player": "BRUTUS",
+    "playerline": "It was well done, and thou shalt sleep again."
+  },
+  {
+    "player": "BRUTUS",
+    "playerline": "I will not hold thee long. If I do live,"
+  },
+  { "player": "BRUTUS", "playerline": "I will be good to thee." },
+  {
+    "player": "DIRECTION",
+    "playerline": "[Music and a song. Lucius then falls asleep.]"
+  },
+  {
+    "player": "BRUTUS",
+    "playerline": "This is a sleepy tune. O murd'rous slumber,"
+  },
+  {
+    "player": "BRUTUS",
+    "playerline": "Layest thou thy leaden mace upon my boy,"
+  },
+  {
+    "player": "BRUTUS",
+    "playerline": "That plays thee music?--Gentle knave, good night."
+  },
+  {
+    "player": "BRUTUS",
+    "playerline": "I will not do thee so much wrong to wake thee."
+  },
+  {
+    "player": "BRUTUS",
+    "playerline": "If thou dost nod, thou break'st thy instrument."
+  },
+  {
+    "player": "BRUTUS",
+    "playerline": "I'll take it from thee and, good boy, good night."
+  },
+  { "player": "DIRECTION", "playerline": "[He moves the instrument.]" },
+  {
+    "player": "BRUTUS",
+    "playerline": "Let me see, let me see; is not the leaf turned down"
+  },
+  {
+    "player": "BRUTUS",
+    "playerline": "Where I left reading? Here it is, I think."
+  },
+  { "player": "BRUTUS", "playerline": "How ill this taper burns." },
+  { "player": "DIRECTION", "playerline": "[Enter the Ghost of Caesar.]" },
+  { "player": "BRUTUS", "playerline": "Ha, who comes here?--" },
+  {
+    "player": "BRUTUS",
+    "playerline": "I think it is the weakness of mine eyes"
+  },
+  {
+    "player": "BRUTUS",
+    "playerline": "That shapes this monstrous apparition."
+  },
+  {
+    "player": "BRUTUS",
+    "playerline": "It comes upon me.--Art thou any thing?"
+  },
+  {
+    "player": "BRUTUS",
+    "playerline": "Art thou some god, some angel, or some devil,"
+  },
+  {
+    "player": "BRUTUS",
+    "playerline": "That mak'st my blood cold and my hair to stare?"
+  },
+  { "player": "BRUTUS", "playerline": "Speak to me what thou art." },
+  { "player": "GHOST", "playerline": "Thy evil spirit, Brutus." },
+  { "player": "BRUTUS", "playerline": "Why com'st thou?" },
+  {
+    "player": "GHOST",
+    "playerline": "To tell thee thou shalt see me at Philippi."
+  },
+  { "player": "BRUTUS", "playerline": "Well, then I shall see thee again?" },
+  { "player": "GHOST", "playerline": "Ay, at Philippi." },
+  {
+    "player": "BRUTUS",
+    "playerline": "Why, I will see thee at Philippi, then."
+  },
+  { "player": "DIRECTION", "playerline": "[Ghost exits.]" },
+  {
+    "player": "BRUTUS",
+    "playerline": "Now I have taken heart, thou vanishest."
+  },
+  {
+    "player": "BRUTUS",
+    "playerline": "Ill spirit, I would hold more talk with thee.--"
+  },
+  {
+    "player": "BRUTUS",
+    "playerline": "Boy, Lucius!--Varro, Claudius, sirs, awake! Claudius!"
+  },
+  { "player": "LUCIUS", "playerline": "The strings, my lord, are false." },
+  {
+    "player": "BRUTUS",
+    "playerline": "He thinks he still is at his instrument."
+  },
+  { "player": "BRUTUS", "playerline": "Lucius, awake!" },
+  { "player": "LUCIUS", "playerline": "My lord?" },
+  {
+    "player": "BRUTUS",
+    "playerline": "Didst thou dream, Lucius, that thou so criedst out?"
+  },
+  {
+    "player": "LUCIUS",
+    "playerline": "My lord, I do not know that I did cry."
+  },
+  {
+    "player": "BRUTUS",
+    "playerline": "Yes, that thou didst. Didst thou see anything?"
+  },
+  { "player": "LUCIUS", "playerline": "Nothing, my lord." },
+  {
+    "player": "BRUTUS",
+    "playerline": "Sleep again, Lucius.--Sirrah Claudius!"
+  },
+  { "player": "BRUTUS", "playerline": "[To Varro.] Fellow thou, awake!" },
+  { "player": "DIRECTION", "playerline": "[They rise up.]" },
+  { "player": "VARRO", "playerline": "My lord?" },
+  { "player": "CLAUDIUS", "playerline": "My lord?" },
+  {
+    "player": "BRUTUS",
+    "playerline": "Why did you so cry out, sirs, in your sleep?"
+  },
+  { "player": "BOTH", "playerline": "Did we, my lord?" },
+  { "player": "BRUTUS", "playerline": "Ay. Saw you anything?" },
+  { "player": "VARRO", "playerline": "No, my lord, I saw nothing." },
+  { "player": "CLAUDIUS", "playerline": "Nor I, my lord." },
+  {
+    "player": "BRUTUS",
+    "playerline": "Go and commend me to my brother Cassius."
+  },
+  {
+    "player": "BRUTUS",
+    "playerline": "Bid him set on his powers betimes before,"
+  },
+  { "player": "BRUTUS", "playerline": "And we will follow." },
+  { "player": "BOTH", "playerline": "It shall be done, my lord." },
+  { "player": "DIRECTION", "playerline": "[They exit.]" }
+]
