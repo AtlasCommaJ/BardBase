@@ -1,1 +1,109 @@
-[{"player": "SCENE", "playerline": "SCENE III"}, {"player": "DIRECTION", "playerline": "[Enter Cinna the poet and after him the Plebeians.]"}, {"player": "CINNA", "playerline": "I dreamt tonight that I did feast with Caesar,"}, {"player": "CINNA", "playerline": "And things unluckily charge my fantasy."}, {"player": "CINNA", "playerline": "I have no will to wander forth of doors,"}, {"player": "CINNA", "playerline": "Yet something leads me forth."}, {"player": "FIRST PLEBEIAN", "playerline": "What is your name?"}, {"player": "SECOND PLEBEIAN", "playerline": "Whither are you going?"}, {"player": "THIRD PLEBEIAN", "playerline": "Where do you dwell?"}, {"player": "FOURTH PLEBEIAN", "playerline": "Are you a married man or a bachelor?"}, {"player": "SECOND PLEBEIAN", "playerline": "Answer every man directly."}, {"player": "FIRST PLEBEIAN", "playerline": "Ay, and briefly."}, {"player": "FOURTH PLEBEIAN", "playerline": "Ay, and wisely."}, {"player": "THIRD PLEBEIAN", "playerline": "Ay, and truly, you were best."}, {"player": "CINNA", "playerline": "What is my name? Whither am I going? Where"}, {"player": "CINNA", "playerline": "do I dwell? Am I a married man or a bachelor?"}, {"player": "CINNA", "playerline": "Then to answer every man directly and briefly,"}, {"player": "CINNA", "playerline": "wisely and truly: wisely I say, I am a bachelor."}, {"player": "SECOND PLEBEIAN", "playerline": "That's as much as to say they are"}, {"player": "SECOND PLEBEIAN", "playerline": "fools that marry. You'll bear me a bang for that, I"}, {"player": "SECOND PLEBEIAN", "playerline": "fear. Proceed directly."}, {"player": "CINNA", "playerline": "Directly, I am going to Caesar's funeral."}, {"player": "FIRST PLEBEIAN", "playerline": "As a friend or an enemy?"}, {"player": "CINNA", "playerline": "As a friend."}, {"player": "SECOND PLEBEIAN", "playerline": "That matter is answered directly."}, {"player": "FOURTH PLEBEIAN", "playerline": "For your dwelling--briefly."}, {"player": "CINNA", "playerline": "Briefly, I dwell by the Capitol."}, {"player": "THIRD PLEBEIAN", "playerline": "Your name, sir, truly."}, {"player": "CINNA", "playerline": "Truly, my name is Cinna."}, {"player": "FIRST PLEBEIAN", "playerline": "Tear him to pieces! He's a conspirator."}, {"player": "CINNA", "playerline": "I am Cinna the poet, I am Cinna the poet!"}, {"player": "FOURTH PLEBEIAN", "playerline": "Tear him for his bad verses, tear him"}, {"player": "FOURTH PLEBEIAN", "playerline": "for his bad verses!"}, {"player": "CINNA", "playerline": "I am not Cinna the conspirator."}, {"player": "FOURTH PLEBEIAN", "playerline": "It is no matter. His name's Cinna."}, {"player": "FOURTH PLEBEIAN", "playerline": "Pluck but his name out of his heart, and turn him going."}, {"player": "THIRD PLEBEIAN", "playerline": "Tear him, tear him! Come, brands, ho,"}, {"player": "THIRD PLEBEIAN", "playerline": "firebrands! To Brutus', to Cassius', burn all! Some"}, {"player": "THIRD PLEBEIAN", "playerline": "to Decius' house, and some to Casca's, some to"}, {"player": "THIRD PLEBEIAN", "playerline": "Ligarius'. Away, go!"}, {"player": "DIRECTION", "playerline": "[All the Plebeians exit, carrying off Cinna.]"}]
+[
+  { "player": "SCENE", "playerline": "SCENE III" },
+  {
+    "player": "DIRECTION",
+    "playerline": "[Enter Cinna the poet and after him the Plebeians.]"
+  },
+  {
+    "player": "CINNA THE POET",
+    "playerline": "I dreamt tonight that I did feast with Caesar,"
+  },
+  {
+    "player": "CINNA THE POET",
+    "playerline": "And things unluckily charge my fantasy."
+  },
+  {
+    "player": "CINNA THE POET",
+    "playerline": "I have no will to wander forth of doors,"
+  },
+  { "player": "CINNA", "playerline": "Yet something leads me forth." },
+  { "player": "FIRST PLEBEIAN", "playerline": "What is your name?" },
+  { "player": "SECOND PLEBEIAN", "playerline": "Whither are you going?" },
+  { "player": "THIRD PLEBEIAN", "playerline": "Where do you dwell?" },
+  {
+    "player": "FOURTH PLEBEIAN",
+    "playerline": "Are you a married man or a bachelor?"
+  },
+  { "player": "SECOND PLEBEIAN", "playerline": "Answer every man directly." },
+  { "player": "FIRST PLEBEIAN", "playerline": "Ay, and briefly." },
+  { "player": "FOURTH PLEBEIAN", "playerline": "Ay, and wisely." },
+  { "player": "THIRD PLEBEIAN", "playerline": "Ay, and truly, you were best." },
+  {
+    "player": "CINNA THE POET",
+    "playerline": "What is my name? Whither am I going? Where"
+  },
+  {
+    "player": "CINNA THE POET",
+    "playerline": "do I dwell? Am I a married man or a bachelor?"
+  },
+  {
+    "player": "CINNA THE POET",
+    "playerline": "Then to answer every man directly and briefly,"
+  },
+  {
+    "player": "CINNA THE POET",
+    "playerline": "wisely and truly: wisely I say, I am a bachelor."
+  },
+  {
+    "player": "SECOND PLEBEIAN",
+    "playerline": "That's as much as to say they are"
+  },
+  {
+    "player": "SECOND PLEBEIAN",
+    "playerline": "fools that marry. You'll bear me a bang for that, I"
+  },
+  { "player": "SECOND PLEBEIAN", "playerline": "fear. Proceed directly." },
+  {
+    "player": "CINNA THE POET",
+    "playerline": "Directly, I am going to Caesar's funeral."
+  },
+  { "player": "FIRST PLEBEIAN", "playerline": "As a friend or an enemy?" },
+  { "player": "CINNA", "playerline": "As a friend." },
+  {
+    "player": "SECOND PLEBEIAN",
+    "playerline": "That matter is answered directly."
+  },
+  { "player": "FOURTH PLEBEIAN", "playerline": "For your dwelling--briefly." },
+  { "player": "CINNA", "playerline": "Briefly, I dwell by the Capitol." },
+  { "player": "THIRD PLEBEIAN", "playerline": "Your name, sir, truly." },
+  { "player": "CINNA", "playerline": "Truly, my name is Cinna." },
+  {
+    "player": "FIRST PLEBEIAN",
+    "playerline": "Tear him to pieces! He's a conspirator."
+  },
+  {
+    "player": "CINNA THE POET",
+    "playerline": "I am Cinna the poet, I am Cinna the poet!"
+  },
+  {
+    "player": "FOURTH PLEBEIAN",
+    "playerline": "Tear him for his bad verses, tear him"
+  },
+  { "player": "FOURTH PLEBEIAN", "playerline": "for his bad verses!" },
+  { "player": "CINNA", "playerline": "I am not Cinna the conspirator." },
+  {
+    "player": "FOURTH PLEBEIAN",
+    "playerline": "It is no matter. His name's Cinna."
+  },
+  {
+    "player": "FOURTH PLEBEIAN",
+    "playerline": "Pluck but his name out of his heart, and turn him going."
+  },
+  {
+    "player": "THIRD PLEBEIAN",
+    "playerline": "Tear him, tear him! Come, brands, ho,"
+  },
+  {
+    "player": "THIRD PLEBEIAN",
+    "playerline": "firebrands! To Brutus', to Cassius', burn all! Some"
+  },
+  {
+    "player": "THIRD PLEBEIAN",
+    "playerline": "to Decius' house, and some to Casca's, some to"
+  },
+  { "player": "THIRD PLEBEIAN", "playerline": "Ligarius'. Away, go!" },
+  {
+    "player": "DIRECTION",
+    "playerline": "[All the Plebeians exit, carrying off Cinna.]"
+  }
+]
