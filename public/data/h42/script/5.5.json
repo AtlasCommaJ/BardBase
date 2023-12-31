@@ -1,1 +1,554 @@
-[{"player": "SCENE", "playerline": "SCENE V"}, {"player": "DIRECTION", "playerline": "[Enter two Grooms.]"}, {"player": "FIRST GROOM", "playerline": "More rushes, more rushes."}, {"player": "SECOND GROOM", "playerline": "The trumpets have sounded twice."}, {"player": "FIRST GROOM", "playerline": "'Twill be two o'clock ere they come"}, {"player": "FIRST GROOM", "playerline": "from the coronation. Dispatch, dispatch."}, {"player": "DIRECTION", "playerline": "[Grooms exit.]"}, {"player": "DIRECTION", "playerline": "[Trumpets sound, and the King and his train pass over"}, {"player": "DIRECTION", "playerline": "the stage. After them enter Falstaff, Shallow, Pistol,"}, {"player": "DIRECTION", "playerline": "Bardolph, and the Page.]"}, {"player": "FALSTAFF", "playerline": "Stand here by me, Master Robert Shallow. I"}, {"player": "FALSTAFF", "playerline": "will make the King do you grace. I will leer upon"}, {"player": "FALSTAFF", "playerline": "him as he comes by, and do but mark the countenance"}, {"player": "FALSTAFF", "playerline": "that he will give me."}, {"player": "PISTOL", "playerline": "God bless thy lungs, good knight!"}, {"player": "FALSTAFF", "playerline": "Come here, Pistol, stand behind me.--O, if I"}, {"player": "FALSTAFF", "playerline": "had had time to have made new liveries, I would"}, {"player": "FALSTAFF", "playerline": "have bestowed the thousand pound I borrowed of"}, {"player": "FALSTAFF", "playerline": "you. But 'tis no matter. This poor show doth better."}, {"player": "FALSTAFF", "playerline": "This doth infer the zeal I had to see him."}, {"player": "SHALLOW", "playerline": "It doth so."}, {"player": "FALSTAFF", "playerline": "It shows my earnestness of affection--"}, {"player": "SHALLOW", "playerline": "It doth so."}, {"player": "FALSTAFF", "playerline": "My devotion--"}, {"player": "SHALLOW", "playerline": "It doth, it doth, it doth."}, {"player": "FALSTAFF", "playerline": "As it were, to ride day and night, and not to"}, {"player": "FALSTAFF", "playerline": "deliberate, not to remember, not to have patience"}, {"player": "FALSTAFF", "playerline": "to shift me--"}, {"player": "SHALLOW", "playerline": "It is best, certain."}, {"player": "FALSTAFF", "playerline": "But to stand stained with travel and sweating"}, {"player": "FALSTAFF", "playerline": "with desire to see him, thinking of nothing else,"}, {"player": "FALSTAFF", "playerline": "putting all affairs else in oblivion, as if there were"}, {"player": "FALSTAFF", "playerline": "nothing else to be done but to see him."}, {"player": "PISTOL", "playerline": "'Tis semper idem, for obsque hoc nihil est; 'tis"}, {"player": "PISTOL", "playerline": "all in every part."}, {"player": "SHALLOW", "playerline": "'Tis so indeed."}, {"player": "PISTOL", "playerline": "My knight, I will inflame thy noble liver, and"}, {"player": "PISTOL", "playerline": "make thee rage. Thy Doll and Helen of thy noble"}, {"player": "PISTOL", "playerline": "thoughts is in base durance and contagious prison,"}, {"player": "PISTOL", "playerline": "haled thither by most mechanical and dirty hand."}, {"player": "PISTOL", "playerline": "Rouse up revenge from ebon den with fell Alecto's"}, {"player": "PISTOL", "playerline": "snake, for Doll is in. Pistol speaks nought but truth."}, {"player": "FALSTAFF", "playerline": "I will deliver her."}, {"player": "DIRECTION", "playerline": "[Shouts within. The trumpets sound.]"}, {"player": "PISTOL", "playerline": "There roared the sea, and trumpet-clangor sounds."}, {"player": "DIRECTION", "playerline": "[Enter the King and his train.]"}, {"player": "FALSTAFF", "playerline": "God save thy Grace, King Hal, my royal Hal."}, {"player": "PISTOL", "playerline": "The heavens thee guard and keep, most royal"}, {"player": "PISTOL", "playerline": "imp of fame!"}, {"player": "FALSTAFF", "playerline": "God save thee, my sweet boy!"}, {"player": "PRINCE (KING HENRY V)", "playerline": "My Lord Chief Justice, speak to that vain man."}, {"player": "CHIEF JUSTICE", "playerline": "Have you your wits? Know you what 'tis you speak?"}, {"player": "FALSTAFF", "playerline": "My king, my Jove, I speak to thee, my heart!"}, {"player": "PRINCE (KING HENRY V)", "playerline": "I know thee not, old man. Fall to thy prayers."}, {"player": "PRINCE (KING HENRY V)", "playerline": "How ill white hairs becomes a fool and jester."}, {"player": "PRINCE (KING HENRY V)", "playerline": "I have long dreamt of such a kind of man,"}, {"player": "PRINCE (KING HENRY V)", "playerline": "So surfeit-swelled, so old, and so profane;"}, {"player": "PRINCE (KING HENRY V)", "playerline": "But being awaked, I do despise my dream."}, {"player": "PRINCE (KING HENRY V)", "playerline": "Make less thy body hence, and more thy grace;"}, {"player": "PRINCE (KING HENRY V)", "playerline": "Leave gormandizing. Know the grave doth gape"}, {"player": "PRINCE (KING HENRY V)", "playerline": "For thee thrice wider than for other men."}, {"player": "PRINCE (KING HENRY V)", "playerline": "Reply not to me with a fool-born jest."}, {"player": "PRINCE (KING HENRY V)", "playerline": "Presume not that I am the thing I was,"}, {"player": "PRINCE (KING HENRY V)", "playerline": "For God doth know--so shall the world perceive--"}, {"player": "PRINCE (KING HENRY V)", "playerline": "That I have turned away my former self."}, {"player": "PRINCE (KING HENRY V)", "playerline": "So will I those that kept me company."}, {"player": "PRINCE (KING HENRY V)", "playerline": "When thou dost hear I am as I have been,"}, {"player": "PRINCE (KING HENRY V)", "playerline": "Approach me, and thou shalt be as thou wast,"}, {"player": "PRINCE (KING HENRY V)", "playerline": "The tutor and the feeder of my riots."}, {"player": "PRINCE (KING HENRY V)", "playerline": "Till then I banish thee, on pain of death,"}, {"player": "PRINCE (KING HENRY V)", "playerline": "As I have done the rest of my misleaders,"}, {"player": "PRINCE (KING HENRY V)", "playerline": "Not to come near our person by ten mile."}, {"player": "PRINCE (KING HENRY V)", "playerline": "For competence of life I will allow you,"}, {"player": "PRINCE (KING HENRY V)", "playerline": "That lack of means enforce you not to evils."}, {"player": "PRINCE (KING HENRY V)", "playerline": "And, as we hear you do reform yourselves,"}, {"player": "PRINCE (KING HENRY V)", "playerline": "We will, according to your strengths and qualities,"}, {"player": "PRINCE (KING HENRY V)", "playerline": "Give you advancement. [To the Lord Chief Justice.]"}, {"player": "PRINCE (KING HENRY V)", "playerline": "Be it your charge, my lord,"}, {"player": "PRINCE (KING HENRY V)", "playerline": "To see performed the tenor of my word.--"}, {"player": "PRINCE (KING HENRY V)", "playerline": "Set on."}, {"player": "DIRECTION", "playerline": "[King and his train exit.]"}, {"player": "FALSTAFF", "playerline": "Master Shallow, I owe you a thousand pound."}, {"player": "SHALLOW", "playerline": "Yea, marry, Sir John, which I beseech you to"}, {"player": "SHALLOW", "playerline": "let me have home with me."}, {"player": "FALSTAFF", "playerline": "That can hardly be, Master Shallow. Do not"}, {"player": "FALSTAFF", "playerline": "you grieve at this. I shall be sent for in private to"}, {"player": "FALSTAFF", "playerline": "him. Look you, he must seem thus to the world."}, {"player": "FALSTAFF", "playerline": "Fear not your advancements. I will be the man yet"}, {"player": "FALSTAFF", "playerline": "that shall make you great."}, {"player": "SHALLOW", "playerline": "I cannot well perceive how, unless you"}, {"player": "SHALLOW", "playerline": "should give me your doublet and stuff me out with"}, {"player": "SHALLOW", "playerline": "straw. I beseech you, good Sir John, let me have five"}, {"player": "SHALLOW", "playerline": "hundred of my thousand."}, {"player": "FALSTAFF", "playerline": "Sir, I will be as good as my word. This that"}, {"player": "FALSTAFF", "playerline": "you heard was but a color."}, {"player": "SHALLOW", "playerline": "A color that I fear you will die in, Sir John."}, {"player": "FALSTAFF", "playerline": "Fear no colors. Go with me to dinner.--"}, {"player": "FALSTAFF", "playerline": "Come, lieutenant Pistol.--Come, Bardolph.--I"}, {"player": "FALSTAFF", "playerline": "shall be sent for soon at night."}, {"player": "DIRECTION", "playerline": "[Enter the Lord Chief Justice and Prince John, with"}, {"player": "DIRECTION", "playerline": "Officers.]"}, {"player": "CHIEF JUSTICE", "playerline": "Go, carry Sir John Falstaff to the Fleet."}, {"player": "CHIEF JUSTICE", "playerline": "Take all his company along with him."}, {"player": "FALSTAFF", "playerline": "My lord, my lord --"}, {"player": "CHIEF JUSTICE", "playerline": "I cannot now speak. I will hear you soon.--"}, {"player": "CHIEF JUSTICE", "playerline": "Take them away."}, {"player": "PISTOL", "playerline": "Si fortuna me tormenta, spero me contenta."}, {"player": "DIRECTION", "playerline": "[All but John of Lancaster and"}, {"player": "DIRECTION", "playerline": "Chief Justice exit.]"}, {"player": "JOHN OF LANCASTER", "playerline": "I like this fair proceeding of the King's."}, {"player": "JOHN OF LANCASTER", "playerline": "He hath intent his wonted followers"}, {"player": "JOHN OF LANCASTER", "playerline": "Shall all be very well provided for,"}, {"player": "JOHN OF LANCASTER", "playerline": "But all are banished till their conversations"}, {"player": "JOHN OF LANCASTER", "playerline": "Appear more wise and modest to the world."}, {"player": "CHIEF JUSTICE", "playerline": "And so they are."}, {"player": "JOHN OF LANCASTER", "playerline": "The King hath called his parliament, my lord."}, {"player": "CHIEF JUSTICE", "playerline": "He hath."}, {"player": "JOHN OF LANCASTER", "playerline": "I will lay odds that, ere this year expire,"}, {"player": "JOHN OF LANCASTER", "playerline": "We bear our civil swords and native fire"}, {"player": "JOHN OF LANCASTER", "playerline": "As far as France. I heard a bird so sing,"}, {"player": "JOHN OF LANCASTER", "playerline": "Whose music, to my thinking, pleased the King."}, {"player": "JOHN OF LANCASTER", "playerline": "Come, will you hence?"}, {"player": "DIRECTION", "playerline": "[They exit.]"}, {"player": "EPILOGUE", "playerline": "First my fear, then my curtsy, last my speech. My"}, {"player": "EPILOGUE", "playerline": "fear is your displeasure, my curtsy my duty, and my"}, {"player": "EPILOGUE", "playerline": "speech, to beg your pardons. If you look for a good"}, {"player": "EPILOGUE", "playerline": "speech now, you undo me, for what I have to say is"}, {"player": "EPILOGUE", "playerline": "of mine own making, and what indeed I should say"}, {"player": "EPILOGUE", "playerline": "will, I doubt, prove mine own marring."}, {"player": "EPILOGUE", "playerline": "But to the purpose, and so to the venture. Be it"}, {"player": "EPILOGUE", "playerline": "known to you, as it is very well, I was lately here in"}, {"player": "EPILOGUE", "playerline": "the end of a displeasing play to pray your patience"}, {"player": "EPILOGUE", "playerline": "for it and to promise you a better. I meant indeed to"}, {"player": "EPILOGUE", "playerline": "pay you with this, which, if like an ill venture it"}, {"player": "EPILOGUE", "playerline": "come unluckily home, I break, and you, my gentle"}, {"player": "EPILOGUE", "playerline": "creditors, lose. Here I promised you I would be,"}, {"player": "EPILOGUE", "playerline": "and here I commit my body to your mercies. Bate"}, {"player": "EPILOGUE", "playerline": "me some, and I will pay you some, and, as most"}, {"player": "EPILOGUE", "playerline": "debtors do, promise you infinitely. And so I kneel"}, {"player": "EPILOGUE", "playerline": "down before you, but, indeed, to pray for the Queen."}, {"player": "EPILOGUE", "playerline": "If my tongue cannot entreat you to acquit me,"}, {"player": "EPILOGUE", "playerline": "will you command me to use my legs? And yet that"}, {"player": "EPILOGUE", "playerline": "were but light payment, to dance out of your debt."}, {"player": "EPILOGUE", "playerline": "But a good conscience will make any possible"}, {"player": "EPILOGUE", "playerline": "satisfaction, and so would I. All the gentlewomen"}, {"player": "EPILOGUE", "playerline": "here have forgiven me; if the gentlemen will not,"}, {"player": "EPILOGUE", "playerline": "then the gentlemen do not agree with the gentlewomen,"}, {"player": "EPILOGUE", "playerline": "which was never seen before in such an assembly."}, {"player": "EPILOGUE", "playerline": "One word more, I beseech you: if you be not too"}, {"player": "EPILOGUE", "playerline": "much cloyed with fat meat, our humble author will"}, {"player": "EPILOGUE", "playerline": "continue the story, with Sir John in it, and make"}, {"player": "EPILOGUE", "playerline": "you merry with fair Katherine of France, where, for"}, {"player": "EPILOGUE", "playerline": "anything I know, Falstaff shall die of a sweat, unless"}, {"player": "EPILOGUE", "playerline": "already he be killed with your hard opinions; for"}, {"player": "EPILOGUE", "playerline": "Oldcastle died a martyr, and this is not the man."}, {"player": "EPILOGUE", "playerline": "My tongue is weary; when my legs are too, I will bid"}, {"player": "EPILOGUE", "playerline": "you good night."}]
+[
+  { "player": "SCENE", "playerline": "SCENE V" },
+  { "player": "DIRECTION", "playerline": "[Enter two Grooms.]" },
+  { "player": "FIRST GROOM", "playerline": "More rushes, more rushes." },
+  {
+    "player": "SECOND GROOM",
+    "playerline": "The trumpets have sounded twice."
+  },
+  {
+    "player": "FIRST GROOM",
+    "playerline": "'Twill be two o'clock ere they come"
+  },
+  {
+    "player": "FIRST GROOM",
+    "playerline": "from the coronation. Dispatch, dispatch."
+  },
+  { "player": "DIRECTION", "playerline": "[Grooms exit.]" },
+  {
+    "player": "DIRECTION",
+    "playerline": "[Trumpets sound, and the King and his train pass over"
+  },
+  {
+    "player": "DIRECTION",
+    "playerline": "the stage. After them enter Falstaff, Shallow, Pistol,"
+  },
+  { "player": "DIRECTION", "playerline": "Bardolph, and the Page.]" },
+  {
+    "player": "FALSTAFF",
+    "playerline": "Stand here by me, Master Robert Shallow. I"
+  },
+  {
+    "player": "FALSTAFF",
+    "playerline": "will make the King do you grace. I will leer upon"
+  },
+  {
+    "player": "FALSTAFF",
+    "playerline": "him as he comes by, and do but mark the countenance"
+  },
+  { "player": "FALSTAFF", "playerline": "that he will give me." },
+  { "player": "PISTOL", "playerline": "God bless thy lungs, good knight!" },
+  {
+    "player": "FALSTAFF",
+    "playerline": "Come here, Pistol, stand behind me.--O, if I"
+  },
+  {
+    "player": "FALSTAFF",
+    "playerline": "had had time to have made new liveries, I would"
+  },
+  {
+    "player": "FALSTAFF",
+    "playerline": "have bestowed the thousand pound I borrowed of"
+  },
+  {
+    "player": "FALSTAFF",
+    "playerline": "you. But 'tis no matter. This poor show doth better."
+  },
+  {
+    "player": "FALSTAFF",
+    "playerline": "This doth infer the zeal I had to see him."
+  },
+  { "player": "SHALLOW", "playerline": "It doth so." },
+  {
+    "player": "FALSTAFF",
+    "playerline": "It shows my earnestness of affection--"
+  },
+  { "player": "SHALLOW", "playerline": "It doth so." },
+  { "player": "FALSTAFF", "playerline": "My devotion--" },
+  { "player": "SHALLOW", "playerline": "It doth, it doth, it doth." },
+  {
+    "player": "FALSTAFF",
+    "playerline": "As it were, to ride day and night, and not to"
+  },
+  {
+    "player": "FALSTAFF",
+    "playerline": "deliberate, not to remember, not to have patience"
+  },
+  { "player": "FALSTAFF", "playerline": "to shift me--" },
+  { "player": "SHALLOW", "playerline": "It is best, certain." },
+  {
+    "player": "FALSTAFF",
+    "playerline": "But to stand stained with travel and sweating"
+  },
+  {
+    "player": "FALSTAFF",
+    "playerline": "with desire to see him, thinking of nothing else,"
+  },
+  {
+    "player": "FALSTAFF",
+    "playerline": "putting all affairs else in oblivion, as if there were"
+  },
+  {
+    "player": "FALSTAFF",
+    "playerline": "nothing else to be done but to see him."
+  },
+  {
+    "player": "PISTOL",
+    "playerline": "'Tis semper idem, for obsque hoc nihil est; 'tis"
+  },
+  { "player": "PISTOL", "playerline": "all in every part." },
+  { "player": "SHALLOW", "playerline": "'Tis so indeed." },
+  {
+    "player": "PISTOL",
+    "playerline": "My knight, I will inflame thy noble liver, and"
+  },
+  {
+    "player": "PISTOL",
+    "playerline": "make thee rage. Thy Doll and Helen of thy noble"
+  },
+  {
+    "player": "PISTOL",
+    "playerline": "thoughts is in base durance and contagious prison,"
+  },
+  {
+    "player": "PISTOL",
+    "playerline": "haled thither by most mechanical and dirty hand."
+  },
+  {
+    "player": "PISTOL",
+    "playerline": "Rouse up revenge from ebon den with fell Alecto's"
+  },
+  {
+    "player": "PISTOL",
+    "playerline": "snake, for Doll is in. Pistol speaks nought but truth."
+  },
+  { "player": "FALSTAFF", "playerline": "I will deliver her." },
+  {
+    "player": "DIRECTION",
+    "playerline": "[Shouts within. The trumpets sound.]"
+  },
+  {
+    "player": "PISTOL",
+    "playerline": "There roared the sea, and trumpet-clangor sounds."
+  },
+  { "player": "DIRECTION", "playerline": "[Enter the King and his train.]" },
+  {
+    "player": "FALSTAFF",
+    "playerline": "God save thy Grace, King Hal, my royal Hal."
+  },
+  {
+    "player": "PISTOL",
+    "playerline": "The heavens thee guard and keep, most royal"
+  },
+  { "player": "PISTOL", "playerline": "imp of fame!" },
+  { "player": "FALSTAFF", "playerline": "God save thee, my sweet boy!" },
+  {
+    "player": "PRINCE",
+    "playerDisplayName": "PRINCE (KING HENRY V)",
+    "playerline": "My Lord Chief Justice, speak to that vain man."
+  },
+  {
+    "player": "CHIEF JUSTICE",
+    "playerline": "Have you your wits? Know you what 'tis you speak?"
+  },
+  {
+    "player": "FALSTAFF",
+    "playerline": "My king, my Jove, I speak to thee, my heart!"
+  },
+  {
+    "player": "PRINCE",
+    "playerDisplayName": "PRINCE (KING HENRY V)",
+    "playerline": "I know thee not, old man. Fall to thy prayers."
+  },
+  {
+    "player": "PRINCE",
+    "playerDisplayName": "PRINCE (KING HENRY V)",
+    "playerline": "How ill white hairs becomes a fool and jester."
+  },
+  {
+    "player": "PRINCE",
+    "playerDisplayName": "PRINCE (KING HENRY V)",
+    "playerline": "I have long dreamt of such a kind of man,"
+  },
+  {
+    "player": "PRINCE",
+    "playerDisplayName": "PRINCE (KING HENRY V)",
+    "playerline": "So surfeit-swelled, so old, and so profane;"
+  },
+  {
+    "player": "PRINCE",
+    "playerDisplayName": "PRINCE (KING HENRY V)",
+    "playerline": "But being awaked, I do despise my dream."
+  },
+  {
+    "player": "PRINCE",
+    "playerDisplayName": "PRINCE (KING HENRY V)",
+    "playerline": "Make less thy body hence, and more thy grace;"
+  },
+  {
+    "player": "PRINCE",
+    "playerDisplayName": "PRINCE (KING HENRY V)",
+    "playerline": "Leave gormandizing. Know the grave doth gape"
+  },
+  {
+    "player": "PRINCE",
+    "playerDisplayName": "PRINCE (KING HENRY V)",
+    "playerline": "For thee thrice wider than for other men."
+  },
+  {
+    "player": "PRINCE",
+    "playerDisplayName": "PRINCE (KING HENRY V)",
+    "playerline": "Reply not to me with a fool-born jest."
+  },
+  {
+    "player": "PRINCE",
+    "playerDisplayName": "PRINCE (KING HENRY V)",
+    "playerline": "Presume not that I am the thing I was,"
+  },
+  {
+    "player": "PRINCE",
+    "playerDisplayName": "PRINCE (KING HENRY V)",
+    "playerline": "For God doth know--so shall the world perceive--"
+  },
+  {
+    "player": "PRINCE",
+    "playerDisplayName": "PRINCE (KING HENRY V)",
+    "playerline": "That I have turned away my former self."
+  },
+  {
+    "player": "PRINCE",
+    "playerDisplayName": "PRINCE (KING HENRY V)",
+    "playerline": "So will I those that kept me company."
+  },
+  {
+    "player": "PRINCE",
+    "playerDisplayName": "PRINCE (KING HENRY V)",
+    "playerline": "When thou dost hear I am as I have been,"
+  },
+  {
+    "player": "PRINCE",
+    "playerDisplayName": "PRINCE (KING HENRY V)",
+    "playerline": "Approach me, and thou shalt be as thou wast,"
+  },
+  {
+    "player": "PRINCE",
+    "playerDisplayName": "PRINCE (KING HENRY V)",
+    "playerline": "The tutor and the feeder of my riots."
+  },
+  {
+    "player": "PRINCE",
+    "playerDisplayName": "PRINCE (KING HENRY V)",
+    "playerline": "Till then I banish thee, on pain of death,"
+  },
+  {
+    "player": "PRINCE",
+    "playerDisplayName": "PRINCE (KING HENRY V)",
+    "playerline": "As I have done the rest of my misleaders,"
+  },
+  {
+    "player": "PRINCE",
+    "playerDisplayName": "PRINCE (KING HENRY V)",
+    "playerline": "Not to come near our person by ten mile."
+  },
+  {
+    "player": "PRINCE",
+    "playerDisplayName": "PRINCE (KING HENRY V)",
+    "playerline": "For competence of life I will allow you,"
+  },
+  {
+    "player": "PRINCE",
+    "playerDisplayName": "PRINCE (KING HENRY V)",
+    "playerline": "That lack of means enforce you not to evils."
+  },
+  {
+    "player": "PRINCE",
+    "playerDisplayName": "PRINCE (KING HENRY V)",
+    "playerline": "And, as we hear you do reform yourselves,"
+  },
+  {
+    "player": "PRINCE",
+    "playerDisplayName": "PRINCE (KING HENRY V)",
+    "playerline": "We will, according to your strengths and qualities,"
+  },
+  {
+    "player": "PRINCE",
+    "playerDisplayName": "PRINCE (KING HENRY V)",
+    "playerline": "Give you advancement."
+  },
+  { "player": "DIRECTION", "playerline": "  [To the Lord Chief Justice.]" },
+  {
+    "player": "PRINCE",
+    "playerDisplayName": "PRINCE (KING HENRY V)",
+    "playerline": "Be it your charge, my lord,"
+  },
+  {
+    "player": "PRINCE",
+    "playerDisplayName": "PRINCE (KING HENRY V)",
+    "playerline": "To see performed the tenor of my word.--"
+  },
+  {
+    "player": "PRINCE",
+    "playerDisplayName": "PRINCE (KING HENRY V)",
+    "playerline": "Set on."
+  },
+  {
+    "player": "FALSTAFF",
+    "playerline": "Master Shallow, I owe you a thousand pound."
+  },
+  {
+    "player": "SHALLOW",
+    "playerline": "Yea, marry, Sir John, which I beseech you to"
+  },
+  { "player": "SHALLOW", "playerline": "let me have home with me." },
+  {
+    "player": "FALSTAFF",
+    "playerline": "That can hardly be, Master Shallow. Do not"
+  },
+  {
+    "player": "FALSTAFF",
+    "playerline": "you grieve at this. I shall be sent for in private to"
+  },
+  {
+    "player": "FALSTAFF",
+    "playerline": "him. Look you, he must seem thus to the world."
+  },
+  {
+    "player": "FALSTAFF",
+    "playerline": "Fear not your advancements. I will be the man yet"
+  },
+  { "player": "FALSTAFF", "playerline": "that shall make you great." },
+  {
+    "player": "SHALLOW",
+    "playerline": "I cannot well perceive how, unless you"
+  },
+  {
+    "player": "SHALLOW",
+    "playerline": "should give me your doublet and stuff me out with"
+  },
+  {
+    "player": "SHALLOW",
+    "playerline": "straw. I beseech you, good Sir John, let me have five"
+  },
+  { "player": "SHALLOW", "playerline": "hundred of my thousand." },
+  {
+    "player": "FALSTAFF",
+    "playerline": "Sir, I will be as good as my word. This that"
+  },
+  { "player": "FALSTAFF", "playerline": "you heard was but a color." },
+  {
+    "player": "SHALLOW",
+    "playerline": "A color that I fear you will die in, Sir John."
+  },
+  {
+    "player": "FALSTAFF",
+    "playerline": "Fear no colors. Go with me to dinner.--"
+  },
+  {
+    "player": "FALSTAFF",
+    "playerline": "Come, lieutenant Pistol.--Come, Bardolph.--I"
+  },
+  { "player": "FALSTAFF", "playerline": "shall be sent for soon at night." },
+  {
+    "player": "DIRECTION",
+    "playerline": "[Enter the Lord Chief Justice and Prince John, with Officers.]"
+  },
+  {
+    "player": "CHIEF JUSTICE",
+    "playerline": "Go, carry Sir John Falstaff to the Fleet."
+  },
+  {
+    "player": "CHIEF JUSTICE",
+    "playerline": "Take all his company along with him."
+  },
+  { "player": "FALSTAFF", "playerline": "My lord, my lord --" },
+  {
+    "player": "CHIEF JUSTICE",
+    "playerline": "I cannot now speak. I will hear you soon.--"
+  },
+  { "player": "CHIEF JUSTICE", "playerline": "Take them away." },
+  {
+    "player": "PISTOL",
+    "playerline": "Si fortuna me tormenta, spero me contenta."
+  },
+  {
+    "player": "DIRECTION",
+    "playerline": "[All but John of Lancaster and Chief Justice exit.]"
+  },
+  {
+    "player": "JOHN OF LANCASTER",
+    "playerline": "I like this fair proceeding of the King's."
+  },
+  {
+    "player": "JOHN OF LANCASTER",
+    "playerline": "He hath intent his wonted followers"
+  },
+  {
+    "player": "JOHN OF LANCASTER",
+    "playerline": "Shall all be very well provided for,"
+  },
+  {
+    "player": "JOHN OF LANCASTER",
+    "playerline": "But all are banished till their conversations"
+  },
+  {
+    "player": "JOHN OF LANCASTER",
+    "playerline": "Appear more wise and modest to the world."
+  },
+  { "player": "CHIEF JUSTICE", "playerline": "And so they are." },
+  {
+    "player": "JOHN OF LANCASTER",
+    "playerline": "The King hath called his parliament, my lord."
+  },
+  { "player": "CHIEF JUSTICE", "playerline": "He hath." },
+  {
+    "player": "JOHN OF LANCASTER",
+    "playerline": "I will lay odds that, ere this year expire,"
+  },
+  {
+    "player": "JOHN OF LANCASTER",
+    "playerline": "We bear our civil swords and native fire"
+  },
+  {
+    "player": "JOHN OF LANCASTER",
+    "playerline": "As far as France. I heard a bird so sing,"
+  },
+  {
+    "player": "JOHN OF LANCASTER",
+    "playerline": "Whose music, to my thinking, pleased the King."
+  },
+  { "player": "JOHN OF LANCASTER", "playerline": "Come, will you hence?" },
+  { "player": "DIRECTION", "playerline": "[They exit.]" },
+  {
+    "player": "EPILOGUE",
+    "playerline": "First my fear, then my curtsy, last my speech. My"
+  },
+  {
+    "player": "EPILOGUE",
+    "playerline": "fear is your displeasure, my curtsy my duty, and my"
+  },
+  {
+    "player": "EPILOGUE",
+    "playerline": "speech, to beg your pardons. If you look for a good"
+  },
+  {
+    "player": "EPILOGUE",
+    "playerline": "speech now, you undo me, for what I have to say is"
+  },
+  {
+    "player": "EPILOGUE",
+    "playerline": "of mine own making, and what indeed I should say"
+  },
+  {
+    "player": "EPILOGUE",
+    "playerline": "will, I doubt, prove mine own marring."
+  },
+  {
+    "player": "EPILOGUE",
+    "playerline": "But to the purpose, and so to the venture. Be it"
+  },
+  {
+    "player": "EPILOGUE",
+    "playerline": "known to you, as it is very well, I was lately here in"
+  },
+  {
+    "player": "EPILOGUE",
+    "playerline": "the end of a displeasing play to pray your patience"
+  },
+  {
+    "player": "EPILOGUE",
+    "playerline": "for it and to promise you a better. I meant indeed to"
+  },
+  {
+    "player": "EPILOGUE",
+    "playerline": "pay you with this, which, if like an ill venture it"
+  },
+  {
+    "player": "EPILOGUE",
+    "playerline": "come unluckily home, I break, and you, my gentle"
+  },
+  {
+    "player": "EPILOGUE",
+    "playerline": "creditors, lose. Here I promised you I would be,"
+  },
+  {
+    "player": "EPILOGUE",
+    "playerline": "and here I commit my body to your mercies. Bate"
+  },
+  {
+    "player": "EPILOGUE",
+    "playerline": "me some, and I will pay you some, and, as most"
+  },
+  {
+    "player": "EPILOGUE",
+    "playerline": "debtors do, promise you infinitely. And so I kneel"
+  },
+  {
+    "player": "EPILOGUE",
+    "playerline": "down before you, but, indeed, to pray for the Queen."
+  },
+  {
+    "player": "EPILOGUE",
+    "playerline": "If my tongue cannot entreat you to acquit me,"
+  },
+  {
+    "player": "EPILOGUE",
+    "playerline": "will you command me to use my legs? And yet that"
+  },
+  {
+    "player": "EPILOGUE",
+    "playerline": "were but light payment, to dance out of your debt."
+  },
+  {
+    "player": "EPILOGUE",
+    "playerline": "But a good conscience will make any possible"
+  },
+  {
+    "player": "EPILOGUE",
+    "playerline": "satisfaction, and so would I. All the gentlewomen"
+  },
+  {
+    "player": "EPILOGUE",
+    "playerline": "here have forgiven me; if the gentlemen will not,"
+  },
+  {
+    "player": "EPILOGUE",
+    "playerline": "then the gentlemen do not agree with the gentlewomen,"
+  },
+  {
+    "player": "EPILOGUE",
+    "playerline": "which was never seen before in such an assembly."
+  },
+  {
+    "player": "EPILOGUE",
+    "playerline": "One word more, I beseech you: if you be not too"
+  },
+  {
+    "player": "EPILOGUE",
+    "playerline": "much cloyed with fat meat, our humble author will"
+  },
+  {
+    "player": "EPILOGUE",
+    "playerline": "continue the story, with Sir John in it, and make"
+  },
+  {
+    "player": "EPILOGUE",
+    "playerline": "you merry with fair Katherine of France, where, for"
+  },
+  {
+    "player": "EPILOGUE",
+    "playerline": "anything I know, Falstaff shall die of a sweat, unless"
+  },
+  {
+    "player": "EPILOGUE",
+    "playerline": "already he be killed with your hard opinions; for"
+  },
+  {
+    "player": "EPILOGUE",
+    "playerline": "Oldcastle died a martyr, and this is not the man."
+  },
+  {
+    "player": "EPILOGUE",
+    "playerline": "My tongue is weary; when my legs are too, I will bid"
+  },
+  { "player": "EPILOGUE", "playerline": "you good night." }
+]

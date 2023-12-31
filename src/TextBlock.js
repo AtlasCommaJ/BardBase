@@ -8,6 +8,7 @@ const TextBlock = (props) => {
     highlightType,
     specialBlockType,
     character,
+    displayName,
     text,
   } = props;
 
@@ -21,7 +22,7 @@ const TextBlock = (props) => {
     >
       <div className={highlightType}>
         <span className="character">
-          {!specialBlockType && character.toUpperCase()}
+          {!specialBlockType && (displayName || character).toUpperCase()}
         </span>
         <span className={(specialBlockType && character) || "text"}>
           {text.map((line, i) => (

@@ -68,6 +68,7 @@ const Script = (props) => {
       let block = {
         id: result.length,
         character: data[index].player,
+        displayName: data[index].playerDisplayName,
         text: [data[index].playerline],
       };
       index++;
@@ -103,7 +104,7 @@ const Script = (props) => {
     (idx) => {
       let res = "";
       if (idx === focusLine) res += "focus";
-      if (curRole === []) return res;
+      if (!curRole.length) return res;
       if (curRole.includes(script[idx].character)) res += "track";
       else if (
         !highlightCues &&
@@ -123,6 +124,7 @@ const Script = (props) => {
       const block = script[index];
       const id = block.id;
       const character = block.character;
+      const displayName = block.displayName;
       if (
         !cueSheetMode &&
         !getHighlightType(id) &&
@@ -146,6 +148,7 @@ const Script = (props) => {
             handleScroll={() => handleScroll(id)}
             myRef={lineRefs[id]}
             character={character}
+            displayName={displayName}
             text={block.text}
             specialBlockType={["ACT", "SCENE", "DIRECTION"].includes(character)}
             highlightType={getHighlightType(id)}

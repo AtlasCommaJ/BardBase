@@ -1,13 +1,8 @@
 import React, { useState, useEffect } from "react";
 
 const Control = (props) => {
-  const {
-    curPlay,
-    curScene,
-    curRole,
-    handleSceneChange,
-    handleRoleChange,
-  } = props;
+  const { curPlay, curScene, curRole, handleSceneChange, handleRoleChange } =
+    props;
 
   const [scenes, setScenes] = useState([]);
   const [fullCast, setFullCast] = useState([]);
@@ -22,8 +17,8 @@ const Control = (props) => {
           for (let r of data) {
             if (
               !["ACT", "SCENE", "DIRECTION", "All"].includes(r.player) &&
-              !r.player.includes("/") &&
-              !r.player.includes("(")
+              !r.player.includes("/")
+              // !r.player.includes("(")
             )
               players.push(r.player);
           }
