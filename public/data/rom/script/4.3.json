@@ -1,1 +1,224 @@
-[{"player": "SCENE", "playerline": "SCENE III"}, {"player": "DIRECTION", "playerline": "[Enter Juliet and Nurse.]"}, {"player": "JULIET", "playerline": "Ay, those attires are best. But, gentle nurse,"}, {"player": "JULIET", "playerline": "I pray thee leave me to myself tonight,"}, {"player": "JULIET", "playerline": "For I have need of many orisons"}, {"player": "JULIET", "playerline": "To move the heavens to smile upon my state,"}, {"player": "JULIET", "playerline": "Which, well thou knowest, is cross and full of sin."}, {"player": "DIRECTION", "playerline": "[Enter Lady Capulet.]"}, {"player": "LADY CAPULET", "playerline": "What, are you busy, ho? Need you my help?"}, {"player": "JULIET", "playerline": "No, madam, we have culled such necessaries"}, {"player": "JULIET", "playerline": "As are behooveful for our state tomorrow."}, {"player": "JULIET", "playerline": "So please you, let me now be left alone,"}, {"player": "JULIET", "playerline": "And let the Nurse this night sit up with you,"}, {"player": "JULIET", "playerline": "For I am sure you have your hands full all"}, {"player": "JULIET", "playerline": "In this so sudden business."}, {"player": "LADY CAPULET", "playerline": "Good night."}, {"player": "LADY CAPULET", "playerline": "Get thee to bed and rest, for thou hast need."}, {"player": "DIRECTION", "playerline": "[Lady Capulet and the Nurse exit.]"}, {"player": "JULIET", "playerline": "Farewell.--God knows when we shall meet again."}, {"player": "JULIET", "playerline": "I have a faint cold fear thrills through my veins"}, {"player": "JULIET", "playerline": "That almost freezes up the heat of life."}, {"player": "JULIET", "playerline": "I'll call them back again to comfort me.--"}, {"player": "JULIET", "playerline": "Nurse!--What should she do here?"}, {"player": "JULIET", "playerline": "My dismal scene I needs must act alone."}, {"player": "JULIET", "playerline": "Come, vial."}, {"player": "DIRECTION", "playerline": "[She takes out the vial.]"}, {"player": "JULIET", "playerline": "What if this mixture do not work at all?"}, {"player": "JULIET", "playerline": "Shall I be married then tomorrow morning?"}, {"player": "DIRECTION", "playerline": "[She takes out her knife"}, {"player": "DIRECTION", "playerline": "and puts it down beside her.]"}, {"player": "DIRECTION", "playerline": "No, no, this shall forbid it. Lie thou there."}, {"player": "DIRECTION", "playerline": "What if it be a poison which the Friar"}, {"player": "DIRECTION", "playerline": "Subtly hath ministered to have me dead,"}, {"player": "DIRECTION", "playerline": "Lest in this marriage he should be dishonored"}, {"player": "DIRECTION", "playerline": "Because he married me before to Romeo?"}, {"player": "DIRECTION", "playerline": "I fear it is. And yet methinks it should not,"}, {"player": "DIRECTION", "playerline": "For he hath still been tried a holy man."}, {"player": "DIRECTION", "playerline": "How if, when I am laid into the tomb,"}, {"player": "DIRECTION", "playerline": "I wake before the time that Romeo"}, {"player": "DIRECTION", "playerline": "Come to redeem me? There's a fearful point."}, {"player": "DIRECTION", "playerline": "Shall I not then be stifled in the vault,"}, {"player": "DIRECTION", "playerline": "To whose foul mouth no healthsome air breathes in,"}, {"player": "DIRECTION", "playerline": "And there die strangled ere my Romeo comes?"}, {"player": "DIRECTION", "playerline": "Or, if I live, is it not very like"}, {"player": "DIRECTION", "playerline": "The horrible conceit of death and night,"}, {"player": "DIRECTION", "playerline": "Together with the terror of the place--"}, {"player": "DIRECTION", "playerline": "As in a vault, an ancient receptacle"}, {"player": "DIRECTION", "playerline": "Where for this many hundred years the bones"}, {"player": "DIRECTION", "playerline": "Of all my buried ancestors are packed;"}, {"player": "DIRECTION", "playerline": "Where bloody Tybalt, yet but green in earth,"}, {"player": "DIRECTION", "playerline": "Lies fest'ring in his shroud; where, as they say,"}, {"player": "DIRECTION", "playerline": "At some hours in the night spirits resort--"}, {"player": "DIRECTION", "playerline": "Alack, alack, is it not like that I,"}, {"player": "DIRECTION", "playerline": "So early waking, what with loathsome smells,"}, {"player": "DIRECTION", "playerline": "And shrieks like mandrakes torn out of the earth,"}, {"player": "DIRECTION", "playerline": "That living mortals, hearing them, run mad--"}, {"player": "DIRECTION", "playerline": "O, if I wake, shall I not be distraught,"}, {"player": "DIRECTION", "playerline": "Environed with all these hideous fears,"}, {"player": "DIRECTION", "playerline": "And madly play with my forefathers' joints,"}, {"player": "DIRECTION", "playerline": "And pluck the mangled Tybalt from his shroud,"}, {"player": "DIRECTION", "playerline": "And, in this rage, with some great kinsman's bone,"}, {"player": "DIRECTION", "playerline": "As with a club, dash out my desp'rate brains?"}, {"player": "DIRECTION", "playerline": "O look, methinks I see my cousin's ghost"}, {"player": "DIRECTION", "playerline": "Seeking out Romeo that did spit his body"}, {"player": "DIRECTION", "playerline": "Upon a rapier's point! Stay, Tybalt, stay!"}, {"player": "DIRECTION", "playerline": "Romeo, Romeo, Romeo! Here's drink. I drink to thee."}, {"player": "DIRECTION", "playerline": "[She drinks and falls upon her bed"}, {"player": "DIRECTION", "playerline": "within the curtains.]"}]
+[
+  { "player": "SCENE", "playerline": "SCENE III" },
+  { "player": "DIRECTION", "playerline": "[Enter Juliet and Nurse.]" },
+  {
+    "player": "JULIET",
+    "playerline": "Ay, those attires are best. But, gentle nurse,"
+  },
+  {
+    "player": "JULIET",
+    "playerline": "I pray thee leave me to myself tonight,"
+  },
+  { "player": "JULIET", "playerline": "For I have need of many orisons" },
+  {
+    "player": "JULIET",
+    "playerline": "To move the heavens to smile upon my state,"
+  },
+  {
+    "player": "JULIET",
+    "playerline": "Which, well thou knowest, is cross and full of sin."
+  },
+  { "player": "DIRECTION", "playerline": "[Enter Lady Capulet.]" },
+  {
+    "player": "LADY CAPULET",
+    "playerline": "What, are you busy, ho? Need you my help?"
+  },
+  {
+    "player": "JULIET",
+    "playerline": "No, madam, we have culled such necessaries"
+  },
+  {
+    "player": "JULIET",
+    "playerline": "As are behooveful for our state tomorrow."
+  },
+  {
+    "player": "JULIET",
+    "playerline": "So please you, let me now be left alone,"
+  },
+  {
+    "player": "JULIET",
+    "playerline": "And let the Nurse this night sit up with you,"
+  },
+  {
+    "player": "JULIET",
+    "playerline": "For I am sure you have your hands full all"
+  },
+  { "player": "JULIET", "playerline": "In this so sudden business." },
+  { "player": "LADY CAPULET", "playerline": "Good night." },
+  {
+    "player": "LADY CAPULET",
+    "playerline": "Get thee to bed and rest, for thou hast need."
+  },
+  { "player": "DIRECTION", "playerline": "[Lady Capulet and the Nurse exit.]" },
+  {
+    "player": "JULIET",
+    "playerline": "Farewell.--God knows when we shall meet again."
+  },
+  {
+    "player": "JULIET",
+    "playerline": "I have a faint cold fear thrills through my veins"
+  },
+  {
+    "player": "JULIET",
+    "playerline": "That almost freezes up the heat of life."
+  },
+  {
+    "player": "JULIET",
+    "playerline": "I'll call them back again to comfort me.--"
+  },
+  { "player": "JULIET", "playerline": "Nurse!--What should she do here?" },
+  {
+    "player": "JULIET",
+    "playerline": "My dismal scene I needs must act alone."
+  },
+  { "player": "JULIET", "playerline": "Come, vial." },
+  { "player": "DIRECTION", "playerline": "[She takes out the vial.]" },
+  {
+    "player": "JULIET",
+    "playerline": "What if this mixture do not work at all?"
+  },
+  {
+    "player": "JULIET",
+    "playerline": "Shall I be married then tomorrow morning?"
+  },
+  { "player": "DIRECTION", "playerline": "[She takes out her knife and puts it down beside her.]" },
+  {
+    "player": "JULIET",
+    "playerline": "No, no, this shall forbid it. Lie thou there."
+  },
+  {
+    "player": "JULIET",
+    "playerline": "What if it be a poison which the Friar"
+  },
+  {
+    "player": "JULIET",
+    "playerline": "Subtly hath ministered to have me dead,"
+  },
+  {
+    "player": "JULIET",
+    "playerline": "Lest in this marriage he should be dishonored"
+  },
+  {
+    "player": "JULIET",
+    "playerline": "Because he married me before to Romeo?"
+  },
+  {
+    "player": "JULIET",
+    "playerline": "I fear it is. And yet methinks it should not,"
+  },
+  {
+    "player": "JULIET",
+    "playerline": "For he hath still been tried a holy man."
+  },
+  {
+    "player": "JULIET",
+    "playerline": "How if, when I am laid into the tomb,"
+  },
+  { "player": "JULIET", "playerline": "I wake before the time that Romeo" },
+  {
+    "player": "JULIET",
+    "playerline": "Come to redeem me? There's a fearful point."
+  },
+  {
+    "player": "JULIET",
+    "playerline": "Shall I not then be stifled in the vault,"
+  },
+  {
+    "player": "JULIET",
+    "playerline": "To whose foul mouth no healthsome air breathes in,"
+  },
+  {
+    "player": "JULIET",
+    "playerline": "And there die strangled ere my Romeo comes?"
+  },
+  { "player": "JULIET", "playerline": "Or, if I live, is it not very like" },
+  {
+    "player": "JULIET",
+    "playerline": "The horrible conceit of death and night,"
+  },
+  {
+    "player": "JULIET",
+    "playerline": "Together with the terror of the place--"
+  },
+  {
+    "player": "JULIET",
+    "playerline": "As in a vault, an ancient receptacle"
+  },
+  {
+    "player": "JULIET",
+    "playerline": "Where for this many hundred years the bones"
+  },
+  {
+    "player": "JULIET",
+    "playerline": "Of all my buried ancestors are packed;"
+  },
+  {
+    "player": "JULIET",
+    "playerline": "Where bloody Tybalt, yet but green in earth,"
+  },
+  {
+    "player": "JULIET",
+    "playerline": "Lies fest'ring in his shroud; where, as they say,"
+  },
+  {
+    "player": "JULIET",
+    "playerline": "At some hours in the night spirits resort--"
+  },
+  {
+    "player": "JULIET",
+    "playerline": "Alack, alack, is it not like that I,"
+  },
+  {
+    "player": "JULIET",
+    "playerline": "So early waking, what with loathsome smells,"
+  },
+  {
+    "player": "JULIET",
+    "playerline": "And shrieks like mandrakes torn out of the earth,"
+  },
+  {
+    "player": "JULIET",
+    "playerline": "That living mortals, hearing them, run mad--"
+  },
+  {
+    "player": "JULIET",
+    "playerline": "O, if I wake, shall I not be distraught,"
+  },
+  {
+    "player": "JULIET",
+    "playerline": "Environed with all these hideous fears,"
+  },
+  {
+    "player": "JULIET",
+    "playerline": "And madly play with my forefathers' joints,"
+  },
+  {
+    "player": "JULIET",
+    "playerline": "And pluck the mangled Tybalt from his shroud,"
+  },
+  {
+    "player": "JULIET",
+    "playerline": "And, in this rage, with some great kinsman's bone,"
+  },
+  {
+    "player": "JULIET",
+    "playerline": "As with a club, dash out my desp'rate brains?"
+  },
+  {
+    "player": "JULIET",
+    "playerline": "O look, methinks I see my cousin's ghost"
+  },
+  {
+    "player": "JULIET",
+    "playerline": "Seeking out Romeo that did spit his body"
+  },
+  {
+    "player": "JULIET",
+    "playerline": "Upon a rapier's point! Stay, Tybalt, stay!"
+  },
+  {
+    "player": "JULIET",
+    "playerline": "Romeo, Romeo, Romeo! Here's drink. I drink to thee."
+  },
+  { "player": "DIRECTION", "playerline": "[She drinks and falls upon her bed within the curtains.]" }
+]
