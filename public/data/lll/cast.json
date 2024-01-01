@@ -1,1 +1,26 @@
-[{"player": "ACT"}, {"player": "DIRECTION"}, {"player": "KING"}, {"player": "LONGAVILLE"}, {"player": "DUMAINE"}, {"player": "BEROWNE"}, {"player": "DULL"}, {"player": "COSTARD"}, {"player": "SCENE"}, {"player": "ARMADO"}, {"player": "BOY"}, {"player": "JAQUENETTA"}, {"player": "BOYET"}, {"player": "PRINCESS"}, {"player": "A LORD"}, {"player": "MARIA"}, {"player": "KATHERINE"}, {"player": "ROSALINE"}, {"player": "FORESTER"}, {"player": "NATHANIEL"}, {"player": "HOLOFERNES"}, {"player": "MARCADE"}, {"player": "SONG"}]
+[
+  { "player": "ACT" },
+  { "player": "DIRECTION" },
+  { "player": "KING" },
+  { "player": "LONGAVILLE" },
+  { "player": "DUMAINE" },
+  { "player": "BEROWNE" },
+  { "player": "DULL" },
+  { "player": "COSTARD" },
+  { "player": "SCENE" },
+  { "player": "ARMADO" },
+  { "player": "BOY" },
+  { "player": "JAQUENETTA" },
+  { "player": "BOYET" },
+  { "player": "PRINCESS" },
+  { "player": "A LORD" },
+  { "player": "MARIA" },
+  { "player": "KATHERINE" },
+  { "player": "ROSALINE" },
+  { "player": "FORESTER" },
+  { "player": "NATHANIEL" },
+  { "player": "HOLOFERNES" },
+  { "player": "MARCADE" },
+  { "player": "WINTER" },
+  { "player": "SPRING" }
+]
